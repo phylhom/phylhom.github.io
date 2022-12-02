@@ -1,0 +1,18 @@
+style: is-light
+items:
+  - title: Research projects
+    #subtitle: Including sidebar, menubar, tabs and callouts
+    icon: fa-regular fa-microscope
+    call_to_action_name: more info
+    call_to_action_link: /projects/
+  - title: Team members
+    #subtitle: Layouts for blog and post pages included
+    icon: fa-solid fa-users
+    call_to_action_name: more info
+    call_to_action_link: /team/
+  - title: Publications
+    #subtitle: Quick and easy to get started
+    icon: fa-solid fa-book
+    icon_brand: false
+    call_to_action_name: more info
+    call_to_action_link: /products/

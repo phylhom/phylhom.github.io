@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: News
+  link: /blog/
+#- name: Products
+#  link: /products/
+- name: legal mentions
+  link: /legal-mentions/
