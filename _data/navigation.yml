@@ -4,6 +4,8 @@
   link: /team/
 - name: News
   link: /blog/
+- name: Publications
+  link: /publications/
 #- name: Docs
 #  link: /docs/
 #- name: Example Pages
