@@ -15,4 +15,4 @@ items:
     icon: fa-solid fa-book
     icon_brand: false
     call_to_action_name: more info
-    call_to_action_link: /products/
+    call_to_action_link: /publications/
