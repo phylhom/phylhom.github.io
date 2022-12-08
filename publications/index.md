@@ -8,376 +8,404 @@ hero_darken: true
 show_sidebar: false
 ---
 
-Aka, Solange, Bedis Dridi, Alexandre Bolotin, Elysée Armel Yapo, Marina
-Koussemon-Camara, Bassirou Bonfoh, and Pierre Renault. 2020.
-“Characterization of Lactic Acid Bacteria Isolated from a Traditional
-Ivoirian Beer Process to Develop Starter Cultures for Safe Sorghum-Based
-Beverages.” *International Journal of Food Microbiology* 322 (June):
-108547. <https://doi.org/10.1016/j.ijfoodmicro.2020.108547>.
+<span class="csl-left-margin">1. </span><span
+class="csl-right-inline">Aka, S. *et al.* [Characterization of lactic
+acid bacteria isolated from a traditional Ivoirian beer process to
+develop starter cultures for safe sorghum-based
+beverages.](https://doi.org/10.1016/j.ijfoodmicro.2020.108547)
+*International journal of food microbiology* **322**, 108547
+(2020).</span>
 
-Almeida, Mathieu, Agnès Hébert, Anne-Laure Abraham, Simon Rasmussen,
-Christophe Monnet, Nicolas Pons, Céline Delbès, et al. 2014.
-“Construction of a Dairy Microbial Genome Catalog Opens New Perspectives
-for the Metagenomic Analysis of Dairy Fermented Products.” *BMC
-Genomics* 15 (1): 1101. <https://doi.org/10.1186/1471-2164-15-1101>.
+<span class="csl-left-margin">2. </span><span
+class="csl-right-inline">Almeida, M. *et al.* [Construction of a dairy
+microbial genome catalog opens new perspectives for the metagenomic
+analysis of dairy fermented
+products.](https://doi.org/10.1186/1471-2164-15-1101) *BMC genomics*
+**15**, 1101 (2014).</span>
 
-Anba-Mondoloni, Jamila, Stéphane Chaillou, Monique Zagorec, and
-Marie-Christine Champomier-Vergès. 2013. “Catabolism of <span
-class="nocase">N-acetylneuraminic</span> Acid, a Fitness Function of the
-Food-Borne Lactic Acid Bacterium Lactobacillus Sakei, Involves Two Newly
-Characterized Proteins.” *Applied and Environmental Microbiology* 79
-(6): 2012–18. <https://doi.org/10.1128/AEM.03301-12>.
+<span class="csl-left-margin">3. </span><span
+class="csl-right-inline">Anba-Mondoloni, J., Chaillou, S., Zagorec, M. &
+Champomier-Vergès, M.-C. [Catabolism of <span
+class="nocase">N-acetylneuraminic</span> acid, a fitness function of the
+food-borne lactic acid bacterium Lactobacillus sakei, involves two newly
+characterized proteins.](https://doi.org/10.1128/AEM.03301-12) *Applied
+and environmental microbiology* **79**, 2012–2018 (2013).</span>
 
-Cailliez-Grimal, Catherine, Stéphane Chaillou, Jamila Anba-Mondoloni,
-Valentin Loux, Muhammad Inam Afzal, Abdur Rahman, Gilles Kergourlay, et
-al. 2013. “Complete Chromosome Sequence of Carnobacterium Maltaromaticum
-LMA 28.” *Genome Announcements* 1 (1).
-<https://doi.org/10.1128/genomeA.00115-12>.
+<span class="csl-left-margin">4. </span><span
+class="csl-right-inline">Cailliez-Grimal, C. *et al.* [Complete
+Chromosome Sequence of Carnobacterium maltaromaticum LMA
+28.](https://doi.org/10.1128/genomeA.00115-12) *Genome announcements*
+**1**, (2013).</span>
 
-Ceuppens, Siele, Dan Li, Mieke Uyttendaele, Pierre Renault, Paul Ross,
-Marc Van Ranst, Luca Cocolin, and John Donaghy. 2014. “Molecular Methods
-in Food Safety Microbiology: Interpretation and Implications of Nucleic
-Acid Detection.” *Comprehensive Reviews in Food Science and Food Safety*
-13 (4): 551–77. <https://doi.org/10.1111/1541-4337.12072>.
+<span class="csl-left-margin">5. </span><span
+class="csl-right-inline">Ceuppens, S. *et al.* [Molecular Methods in
+Food Safety Microbiology: Interpretation and Implications of Nucleic
+Acid Detection.](https://doi.org/10.1111/1541-4337.12072) *Comprehensive
+reviews in food science and food safety* **13**, 551–577 (2014).</span>
 
-Chaillou, S., S. Christieans, M. Rivollier, I. Lucquin, M. C.
-Champomier-Vergès, and M. Zagorec. 2014. “Quantification and Efficiency
-of Lactobacillus Sakei Strain Mixtures Used as Protective Cultures in
-Ground Beef.” *Meat Science* 97 (3): 332–38.
-<https://doi.org/10.1016/j.meatsci.2013.08.009>.
+<span class="csl-left-margin">6. </span><span
+class="csl-right-inline">Chaillou, S. *et al.* [The complete genome
+sequence of the meat-borne lactic acid bacterium Lactobacillus sakei
+23K.](https://doi.org/10.1038/nbt1160) *Nature biotechnology* **23**,
+1527–1533 (2005).</span>
 
-Chaillou, Stéphane, Marie-Christine Champomier-Vergès, Monique Cornet,
-Anne-Marie Crutz-Le Coq, Anne-Marie Dudez, Véronique Martin, Sophie
-Beaufils, et al. 2005. “The Complete Genome Sequence of the Meat-Borne
-Lactic Acid Bacterium Lactobacillus Sakei 23K.” *Nature Biotechnology*
-23 (12): 1527–33. <https://doi.org/10.1038/nbt1160>.
+<span class="csl-left-margin">7. </span><span
+class="csl-right-inline">Chaillou, S. *et al.* [Intraspecies genomic
+diversity and natural population structure of the meat-borne lactic acid
+bacterium Lactobacillus sakei.](https://doi.org/10.1128/AEM.01721-08)
+*Applied and environmental microbiology* **75**, 970–980 (2009).</span>
 
-Chaillou, Stéphane, Aurélie Chaulot-Talmon, Hélène Caekebeke, Mireille
-Cardinal, Souad Christieans, Catherine Denis, Marie Hélène Desmonts, et
-al. 2015. “Origin and Ecological Selection of Core and Food-Specific
-Bacterial Communities Associated with Meat and Seafood Spoilage.” *The
-ISME Journal* 9 (5): 1105–18. <https://doi.org/10.1038/ismej.2014.202>.
+<span class="csl-left-margin">8. </span><span
+class="csl-right-inline">Chaillou, S., Lucquin, I., Najjari, A.,
+Zagorec, M. & Champomier-Vergès, M.-C. [Population genetics of
+Lactobacillus sakei reveals three lineages with distinct evolutionary
+histories.](https://doi.org/10.1371/journal.pone.0073253) *PloS one*
+**8**, e73253 (2013).</span>
 
-Chaillou, Stéphane, Marie Daty, Fabienne Baraige, Anne-Marie Dudez,
-Patricia Anglade, Rhys Jones, Carl-Alfred Alpert, Marie-Christine
-Champomier-Vergès, and Monique Zagorec. 2009. “Intraspecies Genomic
-Diversity and Natural Population Structure of the Meat-Borne Lactic Acid
-Bacterium Lactobacillus Sakei.” *Applied and Environmental Microbiology*
-75 (4): 970–80. <https://doi.org/10.1128/AEM.01721-08>.
+<span class="csl-left-margin">9. </span><span
+class="csl-right-inline">Chaillou, S. *et al.* [Quantification and
+efficiency of Lactobacillus sakei strain mixtures used as protective
+cultures in ground beef.](https://doi.org/10.1016/j.meatsci.2013.08.009)
+*Meat science* **97**, 332–338 (2014).</span>
 
-Chaillou, Stéphane, Isabelle Lucquin, Afef Najjari, Monique Zagorec, and
-Marie-Christine Champomier-Vergès. 2013. “Population Genetics of
-Lactobacillus Sakei Reveals Three Lineages with Distinct Evolutionary
-Histories.” *PloS One* 8 (9): e73253.
-<https://doi.org/10.1371/journal.pone.0073253>.
+<span class="csl-left-margin">10. </span><span
+class="csl-right-inline">Chaillou, S. *et al.* [Origin and ecological
+selection of core and food-specific bacterial communities associated
+with meat and seafood spoilage.](https://doi.org/10.1038/ismej.2014.202)
+*The ISME journal* **9**, 1105–1118 (2015).</span>
 
-Chaillou, Stéphane, Mihanta Ramaroson, Gwendoline Coeuret, Albert
-Rossero, Valérie Anthoine, Marie Champomier-Vergès, Nicolas Moriceau, et
-al. 2022. “Combination of High-Pressure Treatment at 500 MPa and
-Biopreservation with a Lactococcus Lactis Strain for Lowering the
-Bacterial Growth During Storage of Diced Cooked Ham with Reduced Nitrite
-Salt.” *Microorganisms* 10 (2).
-<https://doi.org/10.3390/microorganisms10020456>.
+<span class="csl-left-margin">11. </span><span
+class="csl-right-inline">Chaillou, S. *et al.* [Combination of
+High-Pressure Treatment at 500 MPa and Biopreservation with a
+Lactococcus lactis Strain for Lowering the Bacterial Growth during
+Storage of Diced Cooked Ham with Reduced Nitrite
+Salt.](https://doi.org/10.3390/microorganisms10020456) *Microorganisms*
+**10**, (2022).</span>
 
-Champomier-Vergès, M. C., S. Chaillou, M. Cornet, and M. Zagorec. 2001.
-“Lactobacillus Sakei: Recent Developments and Future Prospects.”
-*Research in Microbiology* 152 (10): 839–48.
-<https://doi.org/10.1016/s0923-2508(01)01267-0>.
+<span class="csl-left-margin">12. </span><span
+class="csl-right-inline">Champomier-Vergès, M. C., Chaillou, S., Cornet,
+M. & Zagorec, M. [Lactobacillus sakei: Recent developments and future
+prospects.](https://doi.org/10.1016/s0923-2508(01)01267-0) *Research in
+microbiology* **152**, 839–848 (2001).</span>
 
-Champomier-Vergès, Marie-Christine, Stéphane Chaillou, Monique Cornet,
-and Monique Zagorec. 2002. “Erratum to "Lactobacillus Sakei: Recent
-Developments and Future Prospects" \[Research in Microbiology 152 (2001)
-839\].” *Research in Microbiology* 153 (2): 115–23.
-<https://doi.org/10.1016/s0923-2508(01)01296-7>.
+<span class="csl-left-margin">13. </span><span
+class="csl-right-inline">Champomier-Vergès, M.-C., Chaillou, S., Cornet,
+M. & Zagorec, M. [Erratum to "Lactobacillus sakei: Recent developments
+and future prospects" \[Research in Microbiology 152 (2001)
+839\].](https://doi.org/10.1016/s0923-2508(01)01296-7) *Research in
+microbiology* **153**, 115–123 (2002).</span>
 
-Cheeseman, Kevin, Jeanne Ropars, Pierre Renault, Joëlle Dupont, Jérôme
-Gouzy, Antoine Branca, Anne-Laure Abraham, et al. 2014. “Multiple Recent
-Horizontal Transfers of a Large Genomic Region in Cheese Making Fungi.”
-*Nature Communications* 5: 2876. <https://doi.org/10.1038/ncomms3876>.
+<span class="csl-left-margin">14. </span><span
+class="csl-right-inline">Cheeseman, K. *et al.* [Multiple recent
+horizontal transfers of a large genomic region in cheese making
+fungi.](https://doi.org/10.1038/ncomms3876) *Nature communications*
+**5**, 2876 (2014).</span>
 
-Cotillard, Aurélie, Sean P. Kennedy, Ling Chun Kong, Edi Prifti, Nicolas
-Pons, Emmanuelle Le Chatelier, Mathieu Almeida, et al. 2013. “Dietary
-Intervention Impact on Gut Microbial Gene Richness.” *Nature* 500
-(7464): 585–88. <https://doi.org/10.1038/nature12480>.
+<span class="csl-left-margin">15. </span><span
+class="csl-right-inline">Cotillard, A. *et al.* [Dietary intervention
+impact on gut microbial gene
+richness.](https://doi.org/10.1038/nature12480) *Nature* **500**,
+585–588 (2013).</span>
 
-Couvigny, Benoît, Tomas de Wouters, Ghalia Kaci, Elsa Jacouton,
-Christine Delorme, Joël Doré, Pierre Renault, Hervé M. Blottière, Eric
-Guédon, and Nicolas Lapaque. 2015. “Commensal Streptococcus Salivarius
-Modulates PPAR*γ* Transcriptional Activity in Human Intestinal
-Epithelial Cells.” *PloS One* 10 (5): e0125371.
-<https://doi.org/10.1371/journal.pone.0125371>.
+<span class="csl-left-margin">16. </span><span
+class="csl-right-inline">Couvigny, B. *et al.* [Commensal Streptococcus
+salivarius Modulates PPAR*γ* Transcriptional Activity in Human
+Intestinal Epithelial
+Cells.](https://doi.org/10.1371/journal.pone.0125371) *PloS one* **10**,
+e0125371 (2015).</span>
 
-Couvigny, Benoit, Saulius Kulakauskas, Nicolas Pons, Benoit Quinquis,
-Anne-Laure Abraham, Thierry Meylheuc, Christine Delorme, et al. 2018.
-“Identification of New Factors Modulating Adhesion Abilities of the
-Pioneer Commensal Bacterium Streptococcus Salivarius.” *Frontiers in
-Microbiology* 9: 273. <https://doi.org/10.3389/fmicb.2018.00273>.
+<span class="csl-left-margin">17. </span><span
+class="csl-right-inline">Couvigny, B. *et al.* [Streptococcus
+thermophilus Biofilm Formation: A Remnant Trait of Ancestral Commensal
+Life?](https://doi.org/10.1371/journal.pone.0128099) *PloS one* **10**,
+e0128099 (2015).</span>
 
-Couvigny, Benoit, Nicolas Lapaque, Lionel Rigottier-Gois, Alain Guillot,
-Sophie Chat, Thierry Meylheuc, Saulius Kulakauskas, et al. 2017. “Three
-Glycosylated Serine-Rich Repeat Proteins Play a Pivotal Role in Adhesion
-and Colonization of the Pioneer Commensal Bacterium, Streptococcus
-Salivarius.” *Environmental Microbiology* 19 (9): 3579–94.
-<https://doi.org/10.1111/1462-2920.13853>.
+<span class="csl-left-margin">18. </span><span
+class="csl-right-inline">Couvigny, B. *et al.* [Three glycosylated
+serine-rich repeat proteins play a pivotal role in adhesion and
+colonization of the pioneer commensal bacterium, Streptococcus
+salivarius.](https://doi.org/10.1111/1462-2920.13853) *Environmental
+microbiology* **19**, 3579–3594 (2017).</span>
 
-Couvigny, Benoit, Claire Thérial, Céline Gautier, Pierre Renault, Romain
-Briandet, and Eric Guédon. 2015. “Streptococcus Thermophilus Biofilm
-Formation: A Remnant Trait of Ancestral Commensal Life?” *PloS One* 10
-(6): e0128099. <https://doi.org/10.1371/journal.pone.0128099>.
+<span class="csl-left-margin">19. </span><span
+class="csl-right-inline">Couvigny, B. *et al.* [Identification of New
+Factors Modulating Adhesion Abilities of the Pioneer Commensal Bacterium
+Streptococcus salivarius.](https://doi.org/10.3389/fmicb.2018.00273)
+*Frontiers in microbiology* **9**, 273 (2018).</span>
 
-Delorme, Christine, Anne-Laure Abraham, Pierre Renault, and Eric Guédon.
-2015. “Genomics of Streptococcus Salivarius, a Major Human Commensal.”
-*Infection, Genetics and Evolution : Journal of Molecular Epidemiology
-and Evolutionary Genetics in Infectious Diseases* 33 (July): 381–92.
-<https://doi.org/10.1016/j.meegid.2014.10.001>.
+<span class="csl-left-margin">20. </span><span
+class="csl-right-inline">Delorme, C., Abraham, A.-L., Renault, P. &
+Guédon, E. [Genomics of Streptococcus salivarius, a major human
+commensal.](https://doi.org/10.1016/j.meegid.2014.10.001) *Infection,
+genetics and evolution : journal of molecular epidemiology and
+evolutionary genetics in infectious diseases* **33**, 381–392
+(2015).</span>
 
-Delorme, Christine, Nicolas Legravet, Emmanuel Jamet, Caroline Hoarau,
-Bolotin Alexandre, Walid M. El-Sharoud, Mohamed S. Darwish, and Pierre
-Renault. 2017. “Study of Streptococcus Thermophilus Population on a
-World-Wide and Historical Collection by a New MLST Scheme.”
-*International Journal of Food Microbiology* 242 (February): 70–81.
-<https://doi.org/10.1016/j.ijfoodmicro.2016.11.016>.
+<span class="csl-left-margin">21. </span><span
+class="csl-right-inline">Delorme, C. *et al.* [Study of Streptococcus
+thermophilus population on a world-wide and historical collection by a
+new MLST scheme.](https://doi.org/10.1016/j.ijfoodmicro.2016.11.016)
+*International journal of food microbiology* **242**, 70–81
+(2017).</span>
 
-Dudez, Anne-Marie, Stéphane Chaillou, Lionel Hissler, Régis Stentz,
-Marie-Christine Champomier-Vergès, Carl-Alfred Alpert, and Monique
-Zagorec. 2002. “Physical and Genetic Map of the Lactobacillus Sakei 23K
-Chromosome.” *Microbiology (Reading, England)* 148 (Pt 2): 421–31.
-<https://doi.org/10.1099/00221287-148-2-421>.
+<span class="csl-left-margin">22. </span><span
+class="csl-right-inline">Dudez, A.-M. *et al.* [Physical and genetic map
+of the Lactobacillus sakei 23K
+chromosome.](https://doi.org/10.1099/00221287-148-2-421) *Microbiology
+(Reading, England)* **148**, 421–431 (2002).</span>
 
-Fougy, Lysiane, Gwendoline Coeuret, Marie-Christine Champomier-Vergès,
-and Stéphane Chaillou. 2017. “Draft Genome Sequence of Serratia
-Proteamaculans MFPA44A14-05, a Model Organism for the Study of Meat and
-Seafood Spoilage.” *Genome Announcements* 5 (23).
-<https://doi.org/10.1128/genomeA.00491-17>.
+<span class="csl-left-margin">23. </span><span
+class="csl-right-inline">Fougy, L. *et al.* [Reducing Salt in Raw Pork
+Sausages Increases Spoilage and Correlates with Reduced Bacterial
+Diversity.](https://doi.org/10.1128/AEM.00323-16) *Applied and
+environmental microbiology* **82**, 3928–3939 (2016).</span>
 
-Fougy, Lysiane, Marie-Hélène Desmonts, Gwendoline Coeuret, Christine
-Fassel, Erwann Hamon, Bernard Hézard, Marie-Christine Champomier-Vergès,
-and Stéphane Chaillou. 2016. “Reducing Salt in Raw Pork Sausages
-Increases Spoilage and Correlates with Reduced Bacterial Diversity.”
-*Applied and Environmental Microbiology* 82 (13): 3928–39.
-<https://doi.org/10.1128/AEM.00323-16>.
+<span class="csl-left-margin">24. </span><span
+class="csl-right-inline">Fougy, L., Coeuret, G., Champomier-Vergès,
+M.-C. & Chaillou, S. [Draft Genome Sequence of Serratia proteamaculans
+MFPA44A14-05, a Model Organism for the Study of Meat and Seafood
+Spoilage.](https://doi.org/10.1128/genomeA.00491-17) *Genome
+announcements* **5**, (2017).</span>
 
-Gboko, Kossia D. T., Sylvain G. Traoré, Aimé R. Sanhoun, Jérôme Kirioua,
-Nize Otaru, Fabienne Kurt, Fabienne N. Jaeger, et al. 2019. “Risk
-Factors for the Carriage of Streptococcus Infantarius Subspecies
-Infantarius Isolated from African Fermented Dairy Products.” *PloS One*
-14 (11): e0225452. <https://doi.org/10.1371/journal.pone.0225452>.
+<span class="csl-left-margin">25. </span><span
+class="csl-right-inline">Gboko, K. D. T. *et al.* [Risk factors for the
+carriage of Streptococcus infantarius subspecies infantarius isolated
+from African fermented dairy
+products.](https://doi.org/10.1371/journal.pone.0225452) *PloS one*
+**14**, e0225452 (2019).</span>
 
-Grassotti, Tiela Trapp, Caroline Isabel Kothe, Janira Prichula, Nacer
-Mohellibi, Michele Bertoni Mann, Paulo Guilherme Carniel Wagner,
-Fabricio Souza Campos, Aline Alves Scarpellini Campos, Jeverson Frazzon,
-and Ana Paula Guedes Frazzon. 2021. “Fecal Bacterial Communities of Wild
-Black Capuchin Monkeys (Sapajus Nigritus) from the Atlantic Forest Biome
-in Southern Brazil Are Divergent from Those of Other Non-Human
-Primates.” *Current Research in Microbial Sciences* 2 (December):
-100048. <https://doi.org/10.1016/j.crmicr.2021.100048>.
+<span class="csl-left-margin">26. </span><span
+class="csl-right-inline">Grassotti, T. T. *et al.* [Fecal bacterial
+communities of wild black capuchin monkeys (Sapajus nigritus) from the
+Atlantic Forest biome in Southern Brazil are divergent from those of
+other non-human primates](https://doi.org/10.1016/j.crmicr.2021.100048).
+*Current Research in Microbial Sciences* **2**, 100048 (2021).</span>
 
-Guilbaud, Morgan, Monique Zagorec, Stéphane Chaillou, and
-Marie-Christine Champomier-Vergès. 2012. “Intraspecies Diversity of
-Lactobacillus Sakei Response to Oxidative Stress and Variability of
-Strain Performance in Mixed Strains Challenges.” *Food Microbiology* 29
-(2): 197–204. <https://doi.org/10.1016/j.fm.2011.07.011>.
+<span class="csl-left-margin">27. </span><span
+class="csl-right-inline">Guilbaud, M., Zagorec, M., Chaillou, S. &
+Champomier-Vergès, M.-C. [Intraspecies diversity of Lactobacillus sakei
+response to oxidative stress and variability of strain performance in
+mixed strains challenges.](https://doi.org/10.1016/j.fm.2011.07.011)
+*Food microbiology* **29**, 197–204 (2012).</span>
 
-Isenring, Julia, Juliane Köhler, Masanobu Nakata, Marcus Frank,
-Christoph Jans, Pierre Renault, Camille Danne, Shaynoor Dramsi, Bernd
-Kreikemeyer, and Sonja Oehmcke-Hecht. 2018. “Streptococcus Gallolyticus
-Subsp. Gallolyticus Endocarditis Isolate Interferes with Coagulation and
-Activates the Contact System.” *Virulence* 9 (1): 248–61.
-<https://doi.org/10.1080/21505594.2017.1393600>.
+<span class="csl-left-margin">28. </span><span
+class="csl-right-inline">Isenring, J. *et al.* [Streptococcus
+gallolyticus subsp. Gallolyticus endocarditis isolate interferes with
+coagulation and activates the contact
+system.](https://doi.org/10.1080/21505594.2017.1393600) *Virulence*
+**9**, 248–261 (2018).</span>
 
-Jans, Christoph, Leo Meile, Dasel Wambua Mulwa Kaindi, Wambui
-Kogi-Makau, Peter Lamuka, Pierre Renault, Bernd Kreikemeyer, et al.
-2017. “African Fermented Dairy Products - Overview of Predominant
-Technologically Important Microorganisms Focusing on African
-Streptococcus Infantarius Variants and Potential Future Applications for
-Enhanced Food Safety and Security.” *International Journal of Food
-Microbiology* 250 (June): 27–36.
-<https://doi.org/10.1016/j.ijfoodmicro.2017.03.012>.
+<span class="csl-left-margin">29. </span><span
+class="csl-right-inline">Jans, C. *et al.* [African fermented dairy
+products - Overview of predominant technologically important
+microorganisms focusing on African Streptococcus infantarius variants
+and potential future applications for enhanced food safety and
+security.](https://doi.org/10.1016/j.ijfoodmicro.2017.03.012)
+*International journal of food microbiology* **250**, 27–36
+(2017).</span>
 
-Kaci, Ghalia, Denise Goudercourt, Véronique Dennin, Bruno Pot, Joël
-Doré, S. Dusko Ehrlich, Pierre Renault, Hervé M. Blottière, Catherine
-Daniel, and Christine Delorme. 2014. “Anti-Inflammatory Properties of
-Streptococcus Salivarius, a Commensal Bacterium of the Oral Cavity and
-Digestive Tract.” *Applied and Environmental Microbiology* 80 (3):
-928–34. <https://doi.org/10.1128/AEM.03133-13>.
+<span class="csl-left-margin">30. </span><span
+class="csl-right-inline">Kaci, G. *et al.* [Anti-inflammatory properties
+of Streptococcus salivarius, a commensal bacterium of the oral cavity
+and digestive tract.](https://doi.org/10.1128/AEM.03133-13) *Applied and
+environmental microbiology* **80**, 928–934 (2014).</span>
 
-Kaindi, Dasel W. M., Wambui Kogi-Makau, Godfrey N. Lule, Bernd
-Kreikemeyer, Pierre Renault, Bassirou Bonfoh, Esther Schelling, et al.
-2018. “Investigating the Association Between African Spontaneously
-Fermented Dairy Products, Faecal Carriage of Streptococcus Infantarius
-Subsp. Infantarius and Colorectal Adenocarcinoma in Kenya.” *Acta
-Tropica* 178 (February): 10–18.
-<https://doi.org/10.1016/j.actatropica.2017.10.018>.
+<span class="csl-left-margin">31. </span><span
+class="csl-right-inline">Kaindi, D. W. M. *et al.* [Investigating the
+association between African spontaneously fermented dairy products,
+faecal carriage of Streptococcus infantarius subsp. Infantarius and
+colorectal adenocarcinoma in
+Kenya.](https://doi.org/10.1016/j.actatropica.2017.10.018) *Acta
+tropica* **178**, 10–18 (2018).</span>
 
-Kaindi, Dasel Wambua Mulwa, Wambui Kogi-Makau, Godfrey Nsereko Lule,
-Bernd Kreikemeyer, Pierre Renault, Bassirou Bonfoh, Nize Otaru, et al.
-2018. “Colorectal Cancer-Associated Streptococcus Infantarius Subsp.
-Infantarius Differ from a Major Dairy Lineage Providing Evidence for
-Pathogenic, Pathobiont and Food-Grade Lineages.” *Scientific Reports* 8
-(1): 9181. <https://doi.org/10.1038/s41598-018-27383-4>.
+<span class="csl-left-margin">32. </span><span
+class="csl-right-inline">Kaindi, D. W. M. *et al.* [Colorectal
+cancer-associated Streptococcus infantarius subsp. Infantarius differ
+from a major dairy lineage providing evidence for pathogenic, pathobiont
+and food-grade lineages.](https://doi.org/10.1038/s41598-018-27383-4)
+*Scientific reports* **8**, 9181 (2018).</span>
 
-Kothe, Caroline Isabel, Alexander Bolotin, Bochra-Farah Kraïem, Bedis
-Dridi, and Pierre Renault. 2021. “Unraveling the World of Halophilic and
-Halotolerant Bacteria in Cheese by Combining Cultural, Genomic and
-Metagenomic Approaches.” *International Journal of Food Microbiology*
-358 (November): 109312.
-<https://doi.org/10.1016/j.ijfoodmicro.2021.109312>.
+<span class="csl-left-margin">33. </span><span
+class="csl-right-inline">Kothe, C. I., Delbarre-Ladrat, C., Renault, P.
+& Passerini, D. [Draft-genome sequence data and phylogenomic comparison
+of two marine-sourced bacterial strains Pseudoalteromonas sp. MIP2626
+and Psychrobacter sp. BI730.](https://doi.org/10.1016/j.dib.2020.105898)
+*Data in brief* **31**, 105898 (2020).</span>
 
-Kothe, Caroline Isabel, Christine Delbarre-Ladrat, Pierre Renault, and
-Delphine Passerini. 2020. “Draft-Genome Sequence Data and Phylogenomic
-Comparison of Two Marine-Sourced Bacterial Strains Pseudoalteromonas Sp.
-MIP2626 and Psychrobacter Sp. BI730.” *Data in Brief* 31 (August):
-105898. <https://doi.org/10.1016/j.dib.2020.105898>.
+<span class="csl-left-margin">34. </span><span
+class="csl-right-inline">Kothe, C. I., Bolotin, A., Kraïem, B.-F.,
+Dridi, B. & Renault, P. [Unraveling the world of halophilic and
+halotolerant bacteria in cheese by combining cultural, genomic and
+metagenomic
+approaches.](https://doi.org/10.1016/j.ijfoodmicro.2021.109312)
+*International journal of food microbiology* **358**, 109312
+(2021).</span>
 
-Kothe, Caroline Isabel, Nacer Mohellibi, and Pierre Renault. 2022.
-“Revealing the Microbial Heritage of Traditional Brazilian Cheeses
-Through Metagenomics.” *Food Research International (Ottawa, Ont.)* 157
-(July): 111265. <https://doi.org/10.1016/j.foodres.2022.111265>.
+<span class="csl-left-margin">35. </span><span
+class="csl-right-inline">Kothe, C. I., Mohellibi, N. & Renault, P.
+[Revealing the microbial heritage of traditional Brazilian cheeses
+through metagenomics](https://doi.org/10.1016/j.foodres.2022.111265).
+*Food Research International (Ottawa, Ont.)* **157**, 111265
+(2022).</span>
 
-Le Chatelier, Emmanuelle, Trine Nielsen, Junjie Qin, Edi Prifti, Falk
-Hildebrand, Gwen Falony, Mathieu Almeida, et al. 2013. “Richness of
-Human Gut Microbiome Correlates with Metabolic Markers.” *Nature* 500
-(7464): 541–46. <https://doi.org/10.1038/nature12506>.
+<span class="csl-left-margin">36. </span><span
+class="csl-right-inline">Le Chatelier, E. *et al.* [Richness of human
+gut microbiome correlates with metabolic
+markers.](https://doi.org/10.1038/nature12506) *Nature* **500**, 541–546
+(2013).</span>
 
-Lhomme, Emilie, Sandra Mezaize, Maren Bonnand Ducasse, Hubert Chiron,
-Marie-Christine Champomier-Vergès, Stéphane Chaillou, Monique Zagorec,
-Xavier Dousset, and Bernard Onno. 2014. “A Polyphasic Approach to Study
-the Dynamics of Microbial Population of an Organic Wheat Sourdough
-During Its Conversion to Gluten-Free Sourdough.” *International
-Microbiology : The Official Journal of the Spanish Society for
-Microbiology* 17 (1): 1–9. <https://doi.org/10.2436/20.1501.01.202>.
+<span class="csl-left-margin">37. </span><span
+class="csl-right-inline">Lhomme, E. *et al.* [A polyphasic approach to
+study the dynamics of microbial population of an organic wheat sourdough
+during its conversion to gluten-free
+sourdough.](https://doi.org/10.2436/20.1501.01.202) *International
+microbiology : the official journal of the Spanish Society for
+Microbiology* **17**, 1–9 (2014).</span>
 
-Loux, Valentin, Gwendoline Coeuret, Monique Zagorec, Marie-Christine
-Champomier Vergès, and Stéphane Chaillou. 2018. “Complete and Draft
-Genome Sequences of Nine Lactobacillus Sakei Strains Selected from the
-Three Known Phylogenetic Lineages and Their Main Clonal Complexes.”
-*Genome Announcements* 6 (16).
-<https://doi.org/10.1128/genomeA.00082-18>.
+<span class="csl-left-margin">38. </span><span
+class="csl-right-inline">Loux, V., Coeuret, G., Zagorec, M., Champomier
+Vergès, M.-C. & Chaillou, S. [Complete and Draft Genome Sequences of
+Nine Lactobacillus sakei Strains Selected from the Three Known
+Phylogenetic Lineages and Their Main Clonal
+Complexes.](https://doi.org/10.1128/genomeA.00082-18) *Genome
+announcements* **6**, (2018).</span>
 
-Lucquin, Isabelle, Monique Zagorec, Marie Champomier-Vergès, and
-Stéphane Chaillou. 2012. “Fingerprint of Lactic Acid Bacteria Population
-in Beef Carpaccio Is Influenced by Storage Process and Seasonal
-Changes.” *Food Microbiology* 29 (2): 187–96.
-<https://doi.org/10.1016/j.fm.2011.08.001>.
+<span class="csl-left-margin">39. </span><span
+class="csl-right-inline">Lucquin, I., Zagorec, M., Champomier-Vergès, M.
+& Chaillou, S. [Fingerprint of lactic acid bacteria population in beef
+carpaccio is influenced by storage process and seasonal
+changes.](https://doi.org/10.1016/j.fm.2011.08.001) *Food microbiology*
+**29**, 187–196 (2012).</span>
 
-Marceau, Anika, Monique Zagorec, Stéphane Chaillou, Thérèse Méra, and
-Marie-Christine Champomier-Vergès. 2004. “Evidence for Involvement of at
-Least Six Proteins in Adaptation of Lactobacillus Sakei to Cold
-Temperatures and Addition of NaCl.” *Applied and Environmental
-Microbiology* 70 (12): 7260–68.
-<https://doi.org/10.1128/AEM.70.12.7260-7268.2004>.
+<span class="csl-left-margin">40. </span><span
+class="csl-right-inline">Marceau, A., Zagorec, M., Chaillou, S., Méra,
+T. & Champomier-Vergès, M.-C. [Evidence for involvement of at least six
+proteins in adaptation of Lactobacillus sakei to cold temperatures and
+addition of NaCl.](https://doi.org/10.1128/AEM.70.12.7260-7268.2004)
+*Applied and environmental microbiology* **70**, 7260–7268
+(2004).</span>
 
-Meslier, Victoria, Valentin Loux, and Pierre Renault. 2012. “Genome
-Sequence of Leuconostoc Pseudomesenteroides Strain 4882, Isolated from a
-Dairy Starter Culture.” *Journal of Bacteriology* 194 (23): 6637.
-<https://doi.org/10.1128/JB.01696-12>.
+<span class="csl-left-margin">41. </span><span
+class="csl-right-inline">Meslier, V., Loux, V. & Renault, P. [Genome
+sequence of Leuconostoc pseudomesenteroides strain 4882, isolated from a
+dairy starter culture.](https://doi.org/10.1128/JB.01696-12) *Journal of
+bacteriology* **194**, 6637 (2012).</span>
 
-Morrison, Donald A., Eric Guédon, and Pierre Renault. 2013. “Competence
-for Natural Genetic Transformation in the Streptococcus Bovis Group
-Streptococci S. Infantarius and S. Macedonicus.” *Journal of
-Bacteriology* 195 (11): 2612–20. <https://doi.org/10.1128/JB.00230-13>.
+<span class="csl-left-margin">42. </span><span
+class="csl-right-inline">Morrison, D. A., Guédon, E. & Renault, P.
+[Competence for natural genetic transformation in the Streptococcus
+bovis group streptococci S. Infantarius and S.
+macedonicus.](https://doi.org/10.1128/JB.00230-13) *Journal of
+bacteriology* **195**, 2612–2620 (2013).</span>
 
-Nielsen, H. Bjørn, Mathieu Almeida, Agnieszka Sierakowska Juncker, Simon
-Rasmussen, Junhua Li, Shinichi Sunagawa, Damian R. Plichta, et al. 2014.
-“Identification and Assembly of Genomes and Genetic Elements in Complex
-Metagenomic Samples Without Using Reference Genomes.” *Nature
-Biotechnology* 32 (8): 822–28. <https://doi.org/10.1038/nbt.2939>.
+<span class="csl-left-margin">43. </span><span
+class="csl-right-inline">Nielsen, H. B. *et al.* [Identification and
+assembly of genomes and genetic elements in complex metagenomic samples
+without using reference genomes.](https://doi.org/10.1038/nbt.2939)
+*Nature biotechnology* **32**, 822–828 (2014).</span>
 
-Papadimitriou, Konstantinos, Rania Anastasiou, Eleni Maistrou, Thomas
-Plakas, Nikos C. Papandreou, Stavros J. Hamodrakas, Stéphanie Ferreira,
-et al. 2015. “Acquisition Through Horizontal Gene Transfer of Plasmid
-<span class="nocase">pSMA198</span> by Streptococcus Macedonicus ACA-DC
-198 Points Towards the Dairy Origin of the Species.” *PloS One* 10 (1):
-e0116337. <https://doi.org/10.1371/journal.pone.0116337>.
+<span class="csl-left-margin">44. </span><span
+class="csl-right-inline">Papadimitriou, K. *et al.* [Comparative
+genomics of the dairy isolate Streptococcus macedonicus ACA-DC 198
+against related members of the Streptococcus bovis/Streptococcus equinus
+complex.](https://doi.org/10.1186/1471-2164-15-272) *BMC genomics*
+**15**, 272 (2014).</span>
 
-Papadimitriou, Konstantinos, Rania Anastasiou, Eleni Mavrogonatou,
-Jochen Blom, Nikos C. Papandreou, Stavros J. Hamodrakas, Stéphanie
-Ferreira, et al. 2014. “Comparative Genomics of the Dairy Isolate
-Streptococcus Macedonicus ACA-DC 198 Against Related Members of the
-Streptococcus Bovis/Streptococcus Equinus Complex.” *BMC Genomics* 15
-(April): 272. <https://doi.org/10.1186/1471-2164-15-272>.
+<span class="csl-left-margin">45. </span><span
+class="csl-right-inline">Papadimitriou, K. *et al.* [Acquisition through
+horizontal gene transfer of plasmid <span class="nocase">pSMA198</span>
+by Streptococcus macedonicus ACA-DC 198 points towards the dairy origin
+of the species.](https://doi.org/10.1371/journal.pone.0116337) *PloS
+one* **10**, e0116337 (2015).</span>
 
-Papadimitriou, Konstantinos, Kimberly Kline, Pierre Renault, and Jan
-Kok. 2020. “Editorial: Omics and Systems Approaches to Study the Biology
-and Applications of Lactic Acid Bacteria.” *Frontiers in Microbiology*
-11: 1786. <https://doi.org/10.3389/fmicb.2020.01786>.
+<span class="csl-left-margin">46. </span><span
+class="csl-right-inline">Papadimitriou, K., Mavrogonatou, E., Bolotin,
+A., Tsakalidou, E. & Renault, P. [Whole-Genome Sequence of the Cheese
+Isolate Streptococcus macedonicus
+679.](https://doi.org/10.1128/genomeA.01025-16) *Genome announcements*
+**4**, (2016).</span>
 
-Papadimitriou, Konstantinos, Eleni Mavrogonatou, Alexander Bolotin,
-Effie Tsakalidou, and Pierre Renault. 2016. “Whole-Genome Sequence of
-the Cheese Isolate Streptococcus Macedonicus 679.” *Genome
-Announcements* 4 (5). <https://doi.org/10.1128/genomeA.01025-16>.
+<span class="csl-left-margin">47. </span><span
+class="csl-right-inline">Papadimitriou, K., Kline, K., Renault, P. &
+Kok, J. [Editorial: Omics and Systems Approaches to Study the Biology
+and Applications of Lactic Acid
+Bacteria.](https://doi.org/10.3389/fmicb.2020.01786) *Frontiers in
+microbiology* **11**, 1786 (2020).</span>
 
-Poirier, Simon, Gwendoline Coeuret, Marie-Christine Champomier-Vergès,
-and Stéphane Chaillou. 2018. “Draft Genome Sequences of Nine Strains of
-Brochothrix Thermosphacta, Carnobacterium Divergens, Lactobacillus
-Algidus, Lactobacillus Fuchuensis, Lactococcus Piscium, Leuconostoc
-Gelidum Subsp. Gasicomitatum, Pseudomonas Lundensis, and Weissella
-Viridescens, a Collection of Psychrotrophic Species Involved in Meat and
-Seafood Spoilage.” *Genome Announcements* 6 (24).
-<https://doi.org/10.1128/genomeA.00479-18>.
+<span class="csl-left-margin">48. </span><span
+class="csl-right-inline">Poirier, S. *et al.* [Deciphering intra-species
+bacterial diversity of meat and seafood spoilage microbiota using <span
+class="nocase">gyrB</span> amplicon sequencing: A comparative analysis
+with <span class="nocase">16S rDNA</span> V3-V4 amplicon
+sequencing.](https://doi.org/10.1371/journal.pone.0204629) *PloS one*
+**13**, e0204629 (2018).</span>
 
-Poirier, Simon, Ngoc-Du Martin Luong, Valérie Anthoine, Sandrine
-Guillou, Jeanne-Marie Membré, Nicolas Moriceau, Sandrine Rezé, et al.
-2020. “Large-Scale Multivariate Dataset on the Characterization of
-Microbiota Diversity, Microbial Growth Dynamics, Metabolic Spoilage
-Volatilome and Sensorial Profiles of Two Industrially Produced Meat
-Products Subjected to Changes in Lactate Concentration and Packaging
-Atmosphere.” *Data in Brief* 30 (June): 105453.
-<https://doi.org/10.1016/j.dib.2020.105453>.
+<span class="csl-left-margin">49. </span><span
+class="csl-right-inline">Poirier, S. *et al.* [Detection of an
+amplification bias associated to Leuconostocaceae family with a
+universal primer routinely used for monitoring microbial community
+structures within food
+products.](https://doi.org/10.1186/s13104-018-3908-2) *BMC research
+notes* **11**, 802 (2018).</span>
 
-Poirier, Simon, Olivier Rué, Gwendoline Coeuret, Marie-Christine
-Champomier-Vergès, Valentin Loux, and Stéphane Chaillou. 2018.
-“Detection of an Amplification Bias Associated to Leuconostocaceae
-Family with a Universal Primer Routinely Used for Monitoring Microbial
-Community Structures Within Food Products.” *BMC Research Notes* 11 (1):
-802. <https://doi.org/10.1186/s13104-018-3908-2>.
+<span class="csl-left-margin">50. </span><span
+class="csl-right-inline">Poirier, S., Coeuret, G., Champomier-Vergès,
+M.-C. & Chaillou, S. [Draft Genome Sequences of Nine Strains of
+Brochothrix thermosphacta, Carnobacterium divergens, Lactobacillus
+algidus, Lactobacillus fuchuensis, Lactococcus piscium, Leuconostoc
+gelidum subsp. Gasicomitatum, Pseudomonas lundensis, and Weissella
+viridescens, a Collection of Psychrotrophic Species Involved in Meat and
+Seafood Spoilage.](https://doi.org/10.1128/genomeA.00479-18) *Genome
+announcements* **6**, (2018).</span>
 
-Poirier, Simon, Olivier Rué, Raphaëlle Peguilhan, Gwendoline Coeuret,
-Monique Zagorec, Marie-Christine Champomier-Vergès, Valentin Loux, and
-Stéphane Chaillou. 2018. “Deciphering Intra-Species Bacterial Diversity
-of Meat and Seafood Spoilage Microbiota Using <span
-class="nocase">gyrB</span> Amplicon Sequencing: A Comparative Analysis
-with <span class="nocase">16S rDNA</span> V3-V4 Amplicon Sequencing.”
-*PloS One* 13 (9): e0204629.
-<https://doi.org/10.1371/journal.pone.0204629>.
+<span class="csl-left-margin">51. </span><span
+class="csl-right-inline">Poirier, S. *et al.* [Large-scale multivariate
+dataset on the characterization of microbiota diversity, microbial
+growth dynamics, metabolic spoilage volatilome and sensorial profiles of
+two industrially produced meat products subjected to changes in lactate
+concentration and packaging
+atmosphere.](https://doi.org/10.1016/j.dib.2020.105453) *Data in brief*
+**30**, 105453 (2020).</span>
 
-Sanhoun, Aimé R., Sylvain G. Traoré, Kossia D. T. Gboko, Jérôme Kirioua,
-Fabienne Kurt, Nize Otaru, Patriz Iten, et al. 2020. “Traditional Milk
-Transformation Schemes in Côte d’Ivoire and Their Impact on the
-Prevalence of Streptococcus Bovis Complex Bacteria in Dairy Products.”
-*PloS One* 15 (5): e0233132.
-<https://doi.org/10.1371/journal.pone.0233132>.
+<span class="csl-left-margin">52. </span><span
+class="csl-right-inline">Sanhoun, A. R. *et al.* [Traditional milk
+transformation schemes in Côte d’Ivoire and their impact on the
+prevalence of Streptococcus bovis complex bacteria in dairy
+products.](https://doi.org/10.1371/journal.pone.0233132) *PloS one*
+**15**, e0233132 (2020).</span>
 
-Terán, Lucrecia C., Gwendoline Coeuret, Raúl Raya, Marie-Christine
-Champomier-Vergès, and Stéphane Chaillou. 2017. “Draft Genome Sequence
-of Lactobacillus Curvatus FLEC03, a Meat-Borne Isolate from Beef
-Carpaccio Packaged in a Modified Atmosphere.” *Genome Announcements* 5
-(26). <https://doi.org/10.1128/genomeA.00584-17>.
+<span class="csl-left-margin">53. </span><span
+class="csl-right-inline">Terán, L. C., Coeuret, G., Raya, R.,
+Champomier-Vergès, M.-C. & Chaillou, S. [Draft Genome Sequence of
+Lactobacillus curvatus FLEC03, a Meat-Borne Isolate from Beef Carpaccio
+Packaged in a Modified
+Atmosphere.](https://doi.org/10.1128/genomeA.00584-17) *Genome
+announcements* **5**, (2017).</span>
 
-Terán, Lucrecia C., Gwendoline Coeuret, Raúl Raya, Monique Zagorec,
-Marie-Christine Champomier-Vergès, and Stéphane Chaillou. 2018.
-“Phylogenomic Analysis of Lactobacillus Curvatus Reveals Two Lineages
-Distinguished by Genes for Fermenting Plant-Derived Carbohydrates.”
-*Genome Biology and Evolution* 10 (6): 1516–25.
-<https://doi.org/10.1093/gbe/evy106>.
+<span class="csl-left-margin">54. </span><span
+class="csl-right-inline">Terán, L. C. *et al.* [Phylogenomic Analysis of
+Lactobacillus curvatus Reveals Two Lineages Distinguished by Genes for
+Fermenting Plant-Derived
+Carbohydrates.](https://doi.org/10.1093/gbe/evy106) *Genome biology and
+evolution* **10**, 1516–1525 (2018).</span>
 
-Terán, Lucrecia C., Sergio A. Cuozzo, María C. Aristimuño Ficoseco,
-Silvina Fadda, Stéphane Chaillou, Marie-Christine Champomier-Vergès,
-Monique Zagorec, Elvira M. Hébert, and Raúl R. Raya. 2020. “Nucleotide
-Sequence and Analysis of <span class="nocase">pRC12</span> and <span
-class="nocase">pRC18</span>, Two Theta-Replicating Plasmids Harbored by
-Lactobacillus Curvatus CRL 705.” *PloS One* 15 (4): e0230857.
-<https://doi.org/10.1371/journal.pone.0230857>.
+<span class="csl-left-margin">55. </span><span
+class="csl-right-inline">Terán, L. C. *et al.* [Nucleotide sequence and
+analysis of <span class="nocase">pRC12</span> and <span
+class="nocase">pRC18</span>, two theta-replicating plasmids harbored by
+Lactobacillus curvatus CRL
+705.](https://doi.org/10.1371/journal.pone.0230857) *PloS one* **15**,
+e0230857 (2020).</span>
 
-Verplaetse, Emilie, Gwenaëlle André-Leroux, Philippe Duhutrel,
-Gwendoline Coeuret, Stéphane Chaillou, Christina Nielsen-Leroux, and
-Marie-Christine Champomier-Vergès. 2020. “Heme Uptake in Lactobacillus
-Sakei Evidenced by a New Energy Coupling Factor (ECF)-Like Transport
-System.” *Applied and Environmental Microbiology* 86 (18).
-<https://doi.org/10.1128/AEM.02847-19>.
+<span class="csl-left-margin">56. </span><span
+class="csl-right-inline">Verplaetse, E. *et al.* [Heme Uptake in
+Lactobacillus sakei Evidenced by a New Energy Coupling Factor (ECF)-Like
+Transport System.](https://doi.org/10.1128/AEM.02847-19) *Applied and
+environmental microbiology* **86**, (2020).</span>
 
-Zagdoun, Marine, Gwendoline Coeuret, Méry N’Dione, Marie-Christine
-Champomier-Vergès, and Stéphane Chaillou. 2020. “Large Microbiota Survey
-Reveals How the Microbial Ecology of Cooked Ham Is Shaped by Different
-Processing Steps.” *Food Microbiology* 91 (October): 103547.
-<https://doi.org/10.1016/j.fm.2020.103547>.
+<span class="csl-left-margin">57. </span><span
+class="csl-right-inline">Zagdoun, M., Coeuret, G., N’Dione, M.,
+Champomier-Vergès, M.-C. & Chaillou, S. [Large microbiota survey reveals
+how the microbial ecology of cooked ham is shaped by different
+processing steps.](https://doi.org/10.1016/j.fm.2020.103547) *Food
+microbiology* **91**, 103547 (2020).</span>
