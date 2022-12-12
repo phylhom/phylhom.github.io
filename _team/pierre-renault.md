@@ -5,7 +5,7 @@ description: This is a product description
 #product_code: ABC124
 layout: product
 image: http://www.micalis.fr/var/internet6_national_micalis/storage/images/poles-et-equipes/pole-ecosystemes-alimentaires-et-digestifs/ecologie-microbienne-des-aliments-marie-christine-champomier-verges/membres-de-l-equipe/pierre-renault/44209-3-fre-FR/Pierre-Renault_inra_image.jpg
-rank: 5
+rank: 2
 features:
     - label: pierre.renault[at]inrae.fr
       icon: fa-regular fa-envelope

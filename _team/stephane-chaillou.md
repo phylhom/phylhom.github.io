@@ -5,7 +5,7 @@ description: This is a product description
 #product_code: ABC124
 layout: product
 image: https://i1.rgstatic.net/ii/profile.image/11431281098633395-1669027765364_Q128/Stephane-Chaillou.jpg
-rank: 5
+rank: 3
 features:
     - label: stephane.chaillou[at]inrae.fr
       icon: fa-regular fa-envelope

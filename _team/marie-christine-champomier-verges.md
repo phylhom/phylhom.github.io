@@ -1,20 +1,21 @@
 ---
-title: Colin Tinsley
-subtitle: Professor
+title: Marie-Christine Champomier-Vergès
+subtitle: Research Director Team leader
 description: This is a product description
 #product_code: ABC124
 layout: product
-image: img/colin_tinsley-20221118.jpg
+image: http://www.micalis.fr/var/internet6_national_micalis/storage/images/poles-et-equipes/pole-ecosystemes-alimentaires-et-digestifs/ecologie-microbienne-des-aliments-marie-champomier-verges/membres-de-l-equipe/marie-christine-champomier-verges/48908-3-fre-FR/Marie-Christine-Champomier-Verges_inra_image.jpg
 rank: 1
 features:
-    - label: colin.tinsley[at]inrae.fr
+    - label: marie-christine.champomier-verges[at]jouy.inra.fr
       icon: fa-regular fa-envelope
-      link: mailto:colin.tinsley@inrae.fr
-    - label: +33 1 34 65 20 06
+      link: mailto:marie-christine.champomier-verges@jouy.inra.fr
+    - label: +33 1 23 45 78 89
       icon: fa-regular fa-phone
     - label: Publications
       icon: fa-regular fa-book
-      link: https://hal.archives-ouvertes.fr/search/index/?q=%2A&authIdPerson_i=1134280
+      link: https://cv.archives-ouvertes.fr/marie-christine-champomier-verges
+
 
 ---
 
