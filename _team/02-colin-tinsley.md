@@ -4,7 +4,7 @@ subtitle: Professor
 description: This is a product description
 #product_code: ABC124
 layout: product
-image: img/colin tinsley-20221118.png
+image: img/colin_tinsley-20221118.jpg
 rank: 1
 features:
     - label: colin.tinsley[at]inrae.fr
