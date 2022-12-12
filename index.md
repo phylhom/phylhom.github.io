@@ -1,10 +1,10 @@
 ---
-title: Food Microbial Ecology team 
-subtitle: INRAE Micalis institute Paris Saclay
+title: Food Microbial Ecology lab 
+subtitle: INRAE | Micalis institute | Université Paris Saclay
 layout: page
 callouts: home_callouts
-hero_image: /img/FME_Banner_website_V2.png
-hero_darken: true
+hero_image: /img/FME_Banner_website_V3.png
+hero_darken: false
 show_sidebar: true
 ---
 
