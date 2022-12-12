@@ -3,8 +3,8 @@ title: Publications
 #subtitle: INRAE Micalis institute Paris Saclay
 layout: page
 #callouts: home_callouts
-hero_image: /img/FME_Banner_website_V2.png
-hero_darken: true
+hero_image: /img/FME_Banner_website_V3.png
+hero_darken: fasle
 show_sidebar: false
 ---
 
