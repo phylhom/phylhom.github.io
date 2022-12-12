@@ -1,0 +1,16 @@
+---
+title: "FME publications"
+hero_image: /img/FME_Banner_website_V3.png
+hero_darken: false
+bibliography: FME_publications.bib
+output: 
+  md_document:
+    includes:
+      in_header: yaml.txt
+nocite: '@*'
+csl: nature.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
