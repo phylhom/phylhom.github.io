@@ -1,37 +1,44 @@
 ---
-title: MetaSimFood
+title: metasimfood
 subtitle: ANR project
-description: This is a product description
+hero_link: https://www.metasimfood.inrae.fr/sites/default/files/metasimfood/documents/INRAE-Postdoctoral-Offer-Synthetic-Ecology-2023_final.pdf
+hero_link_text: Apply now
+description: The objective of Metasimfood project is develop generic scientific approaches to help rapidly understand and anticipate the effects of multiple and complex changes related to modifications associated with fermented food production (sustainability issues).
 #product_code: ABC124
 layout: product
-image: img/Choucroute_d'Alsace_004.jpg
-start: 2021
+image: img/metasimfood_research.png
+start: 2022-01-01
+end: 2025-12-31
 features:
     - label: stephane.chaillou[at]inrae.fr
       icon: fa-regular fa-envelope
       link: mailto:stephane.chaillou@inrae.fr
     - label: +33 1 23 45 78 89
       icon: fa-regular fa-phone
-    - label: project website
+    - label: metasimfood project website
       icon: fa-regular fa-book
-      link: https://maiage.inrae.fr/fr/node/2178
+      link: https://www.metasimfood.inrae.fr/
 
 
 ---
 
-**Improving the quality, safety and sustainability of fermented vegetable food and** 
-**fruit beverage using a knowledge-driven synthetic ecology and modelling approach**
+## Improving the quality, safety and sustainability of fermented vegetable food and fruit beverage using a knowledge-driven synthetic ecology and modelling approach.
 
-This is the content about the product.
+The ANR [Metasimfood project](https://www.metasimfood.inrae.fr/) was launched in January 2022 for 4 years and is coordinated by [Micalis Institute](https://www.micalis.fr/micalis_eng/) (Coordinator: [Stephane Chaillou](https://www.linkedin.com/in/stephanechaillou/)). The project involves six partners and was funded for 770 k€.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, 
-semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. 
-Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. 
-Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. 
-Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. 
-Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
+The objective of Metasimfood project is develop generic scientific approaches to help rapidly understand and anticipate the effects of multiple and complex changes related to modifications associated with fermented food production (sustainability issues). One of main guideline is to learn how to use the biodiversity of food microbiota as a lever.
 
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. 
-Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, 
-sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, 
-quis sagittis eros quam nec ante.
+
+Two food models will be studied and several challenges will be tackled:
+
+1. Wine: Finding new microbial solutions for lowering alcohol content (climate) meanwhile reducing of sulphites content.
+2. Fermented vegetables (cabbage, carrot, beet, turnip): studying the impact of agri-practices, types & varieties of vegetables, salt reduction and fermentation practices.
+
+The goal of the project is to develop a knowledge-driven approach using synthetic ecology that aims, through the reconstitution of model foods, to predict the behaviour of microbial communities under different constraints. The objective of this strategy is to demonstrate that the production of meta-omics data (gene expressions at the ecosystem scale; global analyses of metabolite production) organized in microbial ecological networks by computational approaches is relevant to anticipate the impacts described above. Furthermore, the project will take advantage of the biodiversity of microbial strains available in partner’s collections for the construction of tailor-made microbial consortia based on the functional properties required to adapt to the expected ecological network changes. Finally, our hypothesis and the solutions obtained on model and simplified foods will be tested at the pilot scale of fermentations of real food to evaluate their validity and the organoleptic and/or nutritional relevance.
+
+To get more information about the project, the results and associated communication events, please connect to the website:
+
+[https://www.metasimfood.inrae.fr/](https://www.metasimfood.inrae.fr/)
+
+
+
