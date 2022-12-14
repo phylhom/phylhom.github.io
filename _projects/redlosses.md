@@ -4,12 +4,12 @@ subtitle: ANR grant
 #product_code: ABC123
 layout: project
 image: img/bbq.jpg
-start: 2018
+start: 2018-01-01
 features:
     - label: stephane.chaillou[at]inrae.fr
       icon: fa-regular fa-envelope
       link: mailto:stephane.chaillou@inrae.fr
-    - label: +33 1 23 45 78 89
+    - label: +33 1 34 65 21 06
       icon: fa-regular fa-phone
     - label: project website
       icon: fa-regular fa-book

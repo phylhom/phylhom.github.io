@@ -3,7 +3,7 @@ title: Ferments of the Future Grand Challenge
 subtitle: France 2030 framework
 layout: project
 image: img/ferments-du-futur.png
-start: 2022
+start: 2022-09-12
 features:
     - label: marie-christine.champomier-verges[at]jouy.inra.fr
       icon: fa-regular fa-envelope
