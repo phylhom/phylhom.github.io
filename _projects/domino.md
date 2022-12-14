@@ -2,7 +2,7 @@
 title: Domino
 subtitle: EU-ERC project
 #product_code: ABC123
-layout: product
+layout: project
 image: img/dominos.jpg
 start: 2023
 features:

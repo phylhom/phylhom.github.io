@@ -2,7 +2,7 @@
 title: redlosses
 subtitle: ANR grant
 #product_code: ABC123
-layout: product
+layout: project
 image: img/bbq.jpg
 start: 2018
 features:

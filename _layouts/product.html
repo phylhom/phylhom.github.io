@@ -17,11 +17,11 @@ layout: default
         {% if page.product_code %}
         <p class="subtitle is-5 has-text-right">{{ page.product_code }}</p>
         {% endif %}
-        
+
         {% if page.rating %}
             {% include rating.html rating=page.rating %}
         {% endif %}
-        
+
         {% if page.features %}
         <div class="content">
             {% for feature in page.features %}
@@ -32,14 +32,14 @@ layout: default
                     {% else %}
                     <i class="fas fa-circle fa-xs"></i>
                     {% endif %}
-                </span> 
+                </span>
                 <span>
 				{% if feature.link %}
 					<a href="{{ feature.link }}">{{ feature.label }}</a>
 				{% else %}
 					{{ feature.label }}
 				{% endif %}
-				
+
 				</span></p>
             {% endfor %}
         </div>
@@ -49,8 +49,8 @@ layout: default
     <div class="column is-12">
         <p class="title is-4">Description</p>
         <div class="content">
-            
-    
+
+
             {{ content }}
         </div>
     </div>

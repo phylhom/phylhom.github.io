@@ -1,35 +1,33 @@
 ---
 title: Ferments of the Future Grand Challenge
 subtitle: France 2030 framework
-product_code: ABC125
-layout: product
+layout: project
 image: img/ferments-du-futur.png
 start: 2022
 features:
-    - label: Great addition to any home
-    - label: Comes in a range of styles
-      icon: fa-grin-stars
-    - label: Available in multiple sizes
-      icon: fa-fighter-jet
-rating: 3
+    - label: marie-christine.champomier-verges[at]jouy.inra.fr
+      icon: fa-regular fa-envelope
+      link: mailto:marie-christine.champomier-verges@inrae.fr
+    - label: +33 1 34 65 21 06
+      icon: fa-regular fa-phone
+    - label: GDFF project website
+      icon: fa-regular fa-book
+      link: http://www.fermentsdufutur.fr
 ---
 
-This is the content about the product.
+The [GDFF program](http://www.fermentsdufutur.fr) is part of the France 2030 national "sustainable and healthy food" acceleration strategy . It is a public-private consortium, composed of 30 partners, and bringing together public institutions and industrial partners in the field of ferments and fermented foods.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Praesent mauris lacus, semper vel massa mattis, ullamcorper 
-auctor libero. Maecenas sit amet ultricies erat. Curabitur 
-eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. 
-Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. 
-Sed eget augue vitae ligula ultricies lacinia a eget augue. 
-Donec vulputate metus ut ante scelerisque sollicitudin. 
-Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis 
-in faucibus orci luctus et ultrices posuere cubilia Curae; 
-Ut tristique pharetra mollis. 
+The objective of GDFF is to accelerate research and innovation in this field by focusing on 3 strategic axes:
 
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus,
- in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet
- at arcu a, egestas hendrerit turpis. Suspendisse in lectus 
- lacinia, sollicitudin felis non, auctor urna. Ut lacinia, 
- ligula a cursus fringilla, diam arcu semper orci, quis sagittis 
- eros quam nec ante.
+- **Axis 1**: food microbiota/food matrix interactions;
+- **Axis 2**: food microbiota / host microbiota interactions;
+- **Axis 3**: innovative fermentation processes;
+
+and a transversal axis :
+
+- **Axis 4**: data science and artificial intelligence.
+
+## more on the news
+- INRAE press release: [Building food transitions with France 2030: launch of the "Ferments of the Future" Grand Challenge](https://www.inrae.fr/en/news/building-food-transitions-france-2030-launch-ferments-future-grand-challenge)
+
+

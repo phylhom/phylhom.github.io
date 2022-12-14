@@ -5,7 +5,7 @@ hero_link: https://www.metasimfood.inrae.fr/sites/default/files/metasimfood/docu
 hero_link_text: Apply now
 description: The objective of Metasimfood project is develop generic scientific approaches to help rapidly understand and anticipate the effects of multiple and complex changes related to modifications associated with fermented food production (sustainability issues).
 #product_code: ABC124
-layout: product
+layout: project
 image: img/metasimfood_research.png
 start: 2022-01-01
 end: 2025-12-31
@@ -13,13 +13,11 @@ features:
     - label: stephane.chaillou[at]inrae.fr
       icon: fa-regular fa-envelope
       link: mailto:stephane.chaillou@inrae.fr
-    - label: +33 1 23 45 78 89
+    - label: +33 1 34 65 21 06
       icon: fa-regular fa-phone
     - label: metasimfood project website
       icon: fa-regular fa-book
       link: https://www.metasimfood.inrae.fr/
-
-
 ---
 
 ## Improving the quality, safety and sustainability of fermented vegetable food and fruit beverage using a knowledge-driven synthetic ecology and modelling approach.
