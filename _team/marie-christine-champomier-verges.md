@@ -3,14 +3,14 @@ title: Marie-Christine Champomier-Vergès
 subtitle: Research Director Team leader
 description: This is a product description
 #product_code: ABC124
-layout: product
+layout: member
 image: http://www.micalis.fr/var/internet6_national_micalis/storage/images/poles-et-equipes/pole-ecosystemes-alimentaires-et-digestifs/ecologie-microbienne-des-aliments-marie-champomier-verges/membres-de-l-equipe/marie-christine-champomier-verges/48908-3-fre-FR/Marie-Christine-Champomier-Verges_inra_image.jpg
 rank: 1
 features:
     - label: marie-christine.champomier-verges[at]jouy.inra.fr
       icon: fa-regular fa-envelope
       link: mailto:marie-christine.champomier-verges@jouy.inra.fr
-    - label: +33 1 23 45 78 89
+    - label: +33 1 34 65 21 06
       icon: fa-regular fa-phone
     - label: Publications
       icon: fa-regular fa-book

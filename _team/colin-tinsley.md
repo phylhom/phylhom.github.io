@@ -3,7 +3,7 @@ title: Colin Tinsley
 subtitle: Professor
 description: This is a product description
 #product_code: ABC124
-layout: product
+layout: member
 image: img/colin_tinsley-20221118.jpg
 rank: 4
 features:

@@ -20,15 +20,15 @@ show_sidebar: false
 
         {% if people.image %}
         <div class="card-image">
-          <figure class="image is-4by3">
-            <img src="{{ people.image }}" alt="{{ people.title }}" />
+          <figure class="image is-1by1 is-fullwidth">
+            <img src="{{ people.image }}" alt="{{ people.title }}"/>
           </figure>
         </div>
         {% endif %}
         <div class="card-content">
 
           <p class="title is-4">{{ people.title }}</h2>
-          <p class="subtitle is-4">{{ people.subtitle }}</p>  
+          <p class="subtitle is-4">{{ people.subtitle }}</p>
           <!--<p class="title is-5 has-text-right">{{ people.rank }}</p>-->
 
         </div>
