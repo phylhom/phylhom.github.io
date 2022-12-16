@@ -1,9 +1,8 @@
 ---
 title: redlosses
 subtitle: ANR grant
-#product_code: ABC123
 layout: project
-image: img/bbq.jpg
+image: img/redlosses_research.png
 start: 2018-01-01
 features:
     - label: stephane.chaillou[at]inrae.fr
@@ -17,22 +16,19 @@ features:
 #rating: 3
 ---
 
-L'objectif de REDLOSSES est de réduire les pertes alimentaires par la prévision, tôt dans le procédé de production, 
-du risque d’altération du produit lors de sa conservation, de manière à proposer des outils d’aide à la décision pour 
-réorienter les process. Les viandes de porc et de volaille, les plus consommées en France, seront étudiées. L’impact 
-économique des pertes de ces deux filières sera estimé.
+**The ANR Redlosses project was launched in January 2017 for 4 years (ended September 2021 due to COVID pandemic period) and was coordinated by Oniris Secalim (Monique Zagorec: coordinator).  The project involves ten partners and was funded for 580 k€. Our team ([Stéphane Chaillou](https://fme.micalis.fr/team/stephane-chaillou/)) coordinated the workpackage 2 : Generation of new data.**
 
-La dynamique des communautés bactériennes sera suivie tout au long du procédé de production (
-des découpes primaires jusqu’à la date limite de consommation des produits finis ou à l’altération) 
-et différents descripteurs de l’altération seront mesurés. La variabilité naturelle entre lots due 
-aux modes de production sera prise en compte.
+The objective of the [REdlosses](https://www.redlosses.fr/) project was to develop a decision-support tool for producers in order to reduce food losses by early predicting in the production process the likelihood of occurrence of bacterial spoilage during storage. 
 
-Les données seront utilisées pour identifier des marqueurs pertinents de l’altération 
-et pour construire des modèles mathématiques innovants afin de prédire la probabilité d’occurrence de 
-l’altération en fonction de la composition bactérienne initialement présente (diversité et abondance) 
-et de paramètres abiotiques (température de conservation, type d’atmosphère protectrice).
 
-Les modèles seront validés sur produits carnés, en tenant compte de l’aspect économique afin de 
-proposer des outils d’aide à la décision aux producteurs d’aliments.
+Fresh sausages made from pork or from poultry were chosen for the project, as these meats are the most consumed in France. Fresh sausages are perishable and their production process is submitted to various constraints. They constitute a model significant for the industry sector but also an interesting investigation model. Furthermore, spoilage is a complex process, which is not only species- and strain-dependent, but also results of biotic and abiotic interactions of the bacterial contaminants and their environment. The participation of the whole ecosystem, considering the transformation/storage parameters has not yet been assessed in its entirety. It is not yet possible to correlate the presence of peculiar bacterial species and spoilage occurrence. 
+
+Our strategy was to bypass the complexity of bacterial spoilage mechanisms and to combine various expertises to construct the decision-support tool. We have focused first on the identification of biotic and abiotic factors that are associated with spoilage and have to be considered as variables to integrate the decision-support tool. Then we collected data from the literature and from the different partners to identify spoilage patterns among existing studies. We also produced new experimental data from the two meat matrices that we have selected by using a wide range of approaches and by using an ambitious sampling strategy (see our data paper cited below). We determined the diversity of bacterial communities (at the genus, species, or even strain level by high throughput sequencing) and their dynamics during food processing, and correlated them with spoilage occurrence. Sensory and volatilome analysis were performed and physico-chemical parameters measured in order to characterize the meat product spoilage in relation with food processing parameters. These data were statistically processed and correlated with microbial data. 
+
+To get more information about the project, the results (final summary conferences and videos are available in French), please connect to the website: https://www.redlosses.fr/
+
 
 {% include youtube.html video="V-qIL1r18pk" time=790 %}
+
+
+
