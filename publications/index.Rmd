@@ -2,7 +2,7 @@
 title: "FME publications"
 hero_image: /img/FME_Banner_website_V3.png
 hero_darken: false
-bibliography: FME_publications.bib
+bibliography: FME_publications_sorted.bib
 output: 
   md_document:
     includes:
@@ -11,6 +11,12 @@ nocite: '@*'
 csl: nature.csl
 ---
 
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+
+
+
