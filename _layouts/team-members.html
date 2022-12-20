@@ -21,7 +21,7 @@ show_sidebar: false
         {% if people.image %}
         <div class="card-image">
           <figure class="image is-1by1 is-fullwidth">
-            <img src="{{ people.image }}" alt="{{ people.title }}"/>
+            <img src="{{ people.image }}" alt="{{ people.title }}" style="object-fit: cover;"/>
           </figure>
         </div>
         {% endif %}
