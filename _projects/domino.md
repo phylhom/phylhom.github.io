@@ -5,6 +5,7 @@ subtitle: EU-ERC project
 layout: project
 image: img/dominos.jpg
 start: 2023-03-01
+category: Europe
 features:
     - label: stephane.chaillou[at]inrae.fr
       icon: fa-regular fa-envelope

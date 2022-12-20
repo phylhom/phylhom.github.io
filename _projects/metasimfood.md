@@ -9,6 +9,7 @@ layout: project
 image: img/metasimfood_research.png
 start: 2022-01-01
 end: 2025-12-31
+category: National
 features:
     - label: stephane.chaillou[at]inrae.fr
       icon: fa-regular fa-envelope

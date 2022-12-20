@@ -4,6 +4,7 @@ subtitle: ANR grant
 layout: project
 image: img/redlosses_research.png
 start: 2018-01-01
+category: National
 features:
     - label: stephane.chaillou[at]inrae.fr
       icon: fa-regular fa-envelope
