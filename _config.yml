@@ -1,12 +1,12 @@
 # Site Settings
 lang: en
-title: Food Microbial Ecology Team
-tagline: FME team
+title: Food Microbial Ecology Lab
+tagline: FME Lab
 email: your-email@domain.com
 description: >
-  Food Microbial Ecology Team INRAE Micalis team website
+  Food Microbial Ecology Lab INRAE Micalis website
 baseurl: ""
-url: "https://www.csrhymes.com"
+url: "https://fme.micalis.fr"
 permalink: pretty
 favicon: favicon.png
 # gh_sponsor: tapj
@@ -64,7 +64,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "FME Team"
+      author: "FME Lab"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
