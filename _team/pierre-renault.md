@@ -6,9 +6,9 @@ layout: member
 image: http://www.micalis.fr/var/internet6_national_micalis/storage/images/poles-et-equipes/pole-ecosystemes-alimentaires-et-digestifs/ecologie-microbienne-des-aliments-marie-christine-champomier-verges/membres-de-l-equipe/pierre-renault/44209-3-fre-FR/Pierre-Renault_inra_image.jpg
 rank: 2
 features:
-    - label: pierre.renault[at]inrae.fr
+    - label: Pierre.Renault.2[at]inrae.fr
       icon: fa-regular fa-envelope
-      link: mailto:pierre.renault@inrae.fr
+      link: mailto:Pierre.Renault.2@inrae.fr
     - label: +33 1 34 65 25 27
       icon: fa-regular fa-phone
     - label: Publications
