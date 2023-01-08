@@ -1,6 +1,6 @@
 ---
 title: redlosses
-subtitle: ANR grant
+subtitle: ANR project
 layout: project
 image: img/redlosses_research.png
 start: 2018-01-01
