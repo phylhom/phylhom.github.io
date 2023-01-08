@@ -1,6 +1,6 @@
 ---
 title: Domino
-subtitle: EU-ERC project
+subtitle: HE-RIA project
 #product_code: ABC123
 layout: project
 image: img/dominos.jpg
