@@ -14,6 +14,9 @@ features:
     - label: Publications
       icon: fa-regular fa-book
       link: https://cv.archives-ouvertes.fr/pierre-renault
+    - label: Linkedin
+      icon: fa-solid fa-network-wired
+      link: https://www.linkedin.com/in/pierre-renault-40309134/
 
 
 ---

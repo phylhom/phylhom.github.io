@@ -15,6 +15,9 @@ features:
     - label: Publications
       icon: fa-regular fa-book
       link: https://orcid.org/0000-0003-1398-6043
+    - label: Linkedin
+      icon: fa-solid fa-network-wired
+      link: https://www.linkedin.com/in/nacer-mohellibi-b427251/
 
 
 ---
