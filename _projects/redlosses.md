@@ -17,7 +17,9 @@ features:
 #rating: 3
 ---
 
-**The ANR Redlosses project was launched in January 2017 for 4 years (ended September 2021 due to COVID pandemic period) and was coordinated by Oniris Secalim (Monique Zagorec: coordinator).  The project involves ten partners and was funded for 580 k€. Our team ([Stéphane Chaillou](https://fme.micalis.fr/team/stephane-chaillou/)) coordinated the workpackage 2 : Generation of new data.**
+**REDucing food LOSSES by microbial spoilage prediction**
+
+The ANR Redlosses project was launched in January 2017 for 4 years (ended September 2021 due to COVID pandemic period) and was coordinated by Oniris Secalim (Monique Zagorec: coordinator).  The project involves ten partners and was funded for 580 k€. Our team ([Stéphane Chaillou](https://fme.micalis.fr/team/stephane-chaillou/)) coordinated the workpackage 2 : Generation of new data.
 
 The objective of the [REdlosses](https://www.redlosses.fr/) project was to develop a decision-support tool for producers in order to reduce food losses by early predicting in the production process the likelihood of occurrence of bacterial spoilage during storage. 
 
