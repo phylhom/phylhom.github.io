@@ -19,6 +19,9 @@ features:
     - label: metasimfood project website
       icon: fa-regular fa-book
       link: https://www.metasimfood.inrae.fr/
+    - label: metasimfood Twitter
+      icon: fa-solid fa-dove
+      link: https://twitter.com/metasimfood/
 ---
 
 ## Improving the quality, safety and sustainability of fermented vegetable food and fruit beverage using a knowledge-driven synthetic ecology and modelling approach.
