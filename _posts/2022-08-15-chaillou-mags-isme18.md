@@ -3,7 +3,7 @@ layout: post
 title:  "FME lab were at ISME18 congress"
 date:   2022-08-15 15:50:07
 categories: congress
-description: "FME director part of COST PIMENTO"
+description: "FME lab were at ISME18 congress"
 image: 'https://scontent-cdg2-1.xx.fbcdn.net/v/t31.18172-8/23926376_1504098393030864_7608759583759844713_o.jpg?stp=dst-jpg_p320x320&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=8I_S5m9y_pAAX9iNNv4&_nc_ht=scontent-cdg2-1.xx&oh=00_AfDo0AH8xWPTxIwA3dHtJoYwIHCFv23uS21s-qRrjKtFbg&oe=63E61FA9'
 #hero_image: '/img/7975205041_2c198e09d9_k.jpg'
 #hero_darken: true
@@ -20,4 +20,4 @@ Metagenomics assembled genomes can reveal biaises in cultured food bacterial iso
 
 ![](/img/chaillou_isme_cotter.jfif)
 
-
+In addition, Marie co-organized the Microbial ecology session with Maria Marco (UC Davis) and gave a key note lecture: _"Overview on the microbial ecological basis of food spoilage and preservation"_. 
