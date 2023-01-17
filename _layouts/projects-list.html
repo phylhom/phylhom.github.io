@@ -4,41 +4,40 @@ show_sidebar: false
 ---
 
 <div class="columns is-multiline">
-  {% assign sorted_projects = site.projects | sort:page.sort | reverse %}
-  {% for project in sorted_projects %}
-    {% if project.category != previous_category %}
-      {% if forloop.first != true %}
-        </div>
-      {% endif %}
-      <div class="column is-12">
-        <hr>
-        <h2 class="title is-2 has-text-centered">{{ project.category }}</h2>
-        <hr>
-        <div class="columns is-multiline"> <!-- add a new columns element here -->
-    {% endif %}
-    <div class="column is-4-desktop is-6-tablet">
-      <a href="{{ project.url | relative_url }}">
-        <div class="card">
-          {% if project.image %}
-          <div class="card-image">
-            <figure class="image is-4by3">
-              <!-- add the style attribute to the img element -->
-              <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" style="object-fit: contain;" />
-            </figure>
+  {% assign grouped_projects = site.projects | group_by: "category" | sort: "category" | reverse %}
+  {% for group in grouped_projects %}
+    <div class="column is-12">
+      <hr>
+      <h2 class="title is-2 has-text-centered">{{ group.name }}</h2>
+      <hr>
+      <div class="columns is-multiline">
+        {% assign sorted_projects = group.items | sort: "start" | reverse %}
+        {% for project in sorted_projects %}
+          <div class="column is-4-desktop is-6-tablet">
+            <a href="{{ project.url | relative_url }}">
+              <div class="card">
+                {% if project.image %}
+                <div class="card-image">
+                  <figure class="image is-4by3">
+                    <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" style="object-fit: contain;" />
+                  </figure>
+                </div>
+                {% endif %}
+                <div class="card-content">
+                  <p class="title is-4">{{ project.title }}</p>
+                  <p class="subtitle is-4">{{ project.subtitle }}</p>
+                  <p class="title is-5 has-text-right">{{ project.start }}</p>
+                </div>
+              </div>
+            </a>
           </div>
-          {% endif %}
-          <div class="card-content">
-            <p class="title is-4">{{ project.title }}</h2>
-            <p class="subtitle is-4">{{ project.subtitle }}</p>
-            <p class="title is-5 has-text-right">{{ project.start }}</p>
-          </div>
-        </div>
-      </a>
+        {% endfor %}
+      </div>
     </div>
-
-    {% assign previous_category = project.category %}
   {% endfor %}
 </div>
+
+
 
 
 
