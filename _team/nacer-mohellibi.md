@@ -4,7 +4,7 @@ subtitle: Research engineer in Bioinformatics
 description: This is a product description
 #product_code: ABC124
 layout: member
-image: https://media-exp1.licdn.com/dms/image/C5103AQEWiyhfoH2j8A/profile-displayphoto-shrink_200_200/0/1516309558912?e=1676505600&v=beta&t=Y0SzGbKhP0ldoUxyefMgmZcI5s50WcS1I6JiLwB2k_k
+image: "/img/NMohellibi.jpg"
 rank: 6
 features:
     - label: nacer.mohellibi[at]inrae.fr
