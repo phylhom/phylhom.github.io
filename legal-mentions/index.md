@@ -16,7 +16,7 @@ show_sidebar: false
 ## Identification du site
 Nom du site : Food Microbial Ecology team
 
-URL complète du site : fme.inrae.fr
+URL complète du site : fme.micalis.fr
 
 ## Éditeur(s) du site
 INSTITUT NATIONAL DE RECHERCHE POUR L’AGRICULTURE, L’ALIMENTATION ET L’ENVIRONNEMENT - INRAE.
