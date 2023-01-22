@@ -2,6 +2,7 @@
 title: Research
 subtitle: projects
 layout: projects-list
+hero_height: is-small
 show_sidebar: false
 sort: start
 ---

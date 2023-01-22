@@ -4,7 +4,7 @@ subtitle: INRAE | Micalis institute | Université Paris Saclay
 layout: page
 callouts: home_callouts
 hero_image: /img/FME_Banner_website_V3.png
-hero_darken: false
+hero_darken: true
 show_sidebar: true
 ---
 
