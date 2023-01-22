@@ -22,12 +22,12 @@ features:
 
 ---
 
+Nacer was previously responsible for the management of genomic data through the GnpIS information system at [URGI's bioinformatics platform](https://urgi.versailles.inra.fr/Platform) at INRAE. Through this experience, Nacer developed skills in project management, IS development, and data management, as well as expertise in plant genome analysis in the context of diversity studies in varietal breeding.
+
+Since March 2020, Nacer's position at [MICALIS](https://www.micalis.fr/micalis_eng/) has allowed him to apply his knowledge in genomics to projects related to the study of microbial ecosystems. In this role, Nacer has developed skills in metagenomics and diversity analysis of microbial ecosystems, particularly in fermented foods.
+
+Fifty percent of Nacer's time is dedicated to FME's team projects that study these ecosystems. Through their involvement in FME's team, Nacer is currently involved in the MetaSimFood ANR project, MetaPDOCheese (France Genomique grant), Adamos, and a collaboration with the Museum d'histoire naturelle and MIRRI that aims to study the origin of micro-organisms in water kefir.
+
+The other half of Nacer's responsibilities are transversal within the [Micalis institute](https://www.micalis.fr/micalis_eng/) and allows them to be involved in collaborations with other teams of Micalis and to have the role of operational data referent of the institute to promote open science principles.
 
 
-During my previous job experience at INRAE, I was responsible for the management of genomic data through the GnpIS information system at [URGI's bioinformatics platform](https://urgi.versailles.inra.fr/Platform). Thus I have developped project management, IS development and data management skills. I also acquired skills in plant genomes analysis in the frame of diversity studies in a context of varietal breeding.
-
-Since march 2020, my position at [MICALIS](https://www.micalis.fr/micalis_eng/) allows me to apply this experience in Genomics in the frame of projects whose general thematics are linked to the study of microbial ecosystems. In this context, I have developped skills in metagenomics and diversity analyis of microbial ecosystems, in particular in fermented foods.
-
-Fifty percent of my time is dedicated to FME's team projects that study these ecosystems. Though my activities in FME's team, I'm currently involved in the [MetaSimFood](http://fme.micalis.fr/projects/metasimfood/) ANR project, MetaPDOCheese (France Genomique grant), Adamos and in a collaboration with the Museum d'histoire naturelle and MIRRI that aims to study the origin of the micro-organisms of the water kefir.
-
-The other half of my missions is transversal in [Micalis institute](https://www.micalis.fr/micalis_eng/) and allows me to be involved in collaborations with other teams of Micalis and to have the role of operational data referent of the institute to promote the open science principles.
