@@ -8,3 +8,6 @@ Gemfile.lock
 docs
 .github
 .Rproj.user
+.back
+/docs/
+
