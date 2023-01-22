@@ -2,7 +2,11 @@
 layout: default
 show_sidebar: false
 ---
-
+<style>
+.shadow-hover:hover {
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+}
+</style>
 <div class="columns is-multiline">
 
   <div class="column is-12">
@@ -16,7 +20,7 @@ show_sidebar: false
 
     <a href="{{ people.url | relative_url }}">
 
-      <div class="card">
+      <div class="card shadow-hover">
 
         {% if people.image %}
         <div class="card-image">
@@ -39,4 +43,3 @@ show_sidebar: false
   </div>
 {% endfor %}
 </div>
-
