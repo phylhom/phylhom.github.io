@@ -3,6 +3,12 @@ layout: default
 show_sidebar: false
 ---
 
+<style>
+.shadow-hover:hover {
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+}
+</style>
+
 <div class="columns is-multiline">
   {% assign grouped_projects = site.projects | group_by: "category" | sort: "category" | reverse %}
   {% for group in grouped_projects %}
@@ -15,7 +21,7 @@ show_sidebar: false
         {% for project in sorted_projects %}
           <div class="column is-4-desktop is-6-tablet">
             <a href="{{ project.url | relative_url }}">
-              <div class="card">
+              <div class="card shadow-hover">
                 {% if project.image %}
                 <div class="card-image">
                   <figure class="image is-4by3">
@@ -36,8 +42,3 @@ show_sidebar: false
     </div>
   {% endfor %}
 </div>
-
-
-
-
-
