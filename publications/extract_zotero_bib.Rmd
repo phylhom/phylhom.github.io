@@ -39,18 +39,17 @@ bibtex <- getURL(url)
 
 if(file.exists("FME_publications_2.bib")) {
 
-  file.remove("FME_publications_2.bib") 
+  file.remove("FME_publications_2.bib") }
+
+
   RefManageR::ReadZotero(group = groupId, .params = list(
   key = apiKey), temp.file = "FME_publications_2.bib", delete.file = FALSE) -> res.bib
 
-  }
 
 
 ```
 
-```{r sort_bib}
-
-
+```{r sort_bib, message=FALSE, warning=FALSE}
 
 # Read in the BibTeX file
 bib_file <- read.bib("FME_publications_2.bib")
