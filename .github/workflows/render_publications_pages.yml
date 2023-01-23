@@ -1,0 +1,23 @@
+name: render_publications
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up R
+      uses: r-lib/actions/setup-r@v1
+    
+    - name: Install required packages
+      run: Rscript -e "install.packages(c('rmarkdown','RCurl', 'XML', 'bibtex', 'RefManageR'))"
+      
+    - name: Set up API key
+      run: echo "ZOTERO_API_KEY=${{ secrets.ZOTERO_API_KEY }}" >> .Renviron
+
+    - name: Run R script
+      run: Rscript -e "rmarkdown::render('publications/extract_zotero_bib.Rmd')"
