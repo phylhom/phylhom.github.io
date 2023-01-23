@@ -13,11 +13,19 @@ jobs:
     - name: Set up R
       uses: r-lib/actions/setup-r@v2
 
+    - name: Install curl
+      run: sudo apt-get update && sudo apt-get install -y curl
+
     - name: Install required packages
-      run: Rscript -e "install.packages(c('rmarkdown','RCurl', 'XML', 'bibtex', 'RefManageR'))"
+      run: Rscript -e "install.packages(c('RCurl', 'XML', 'bibtex', 'RefManageR'))"
 
     - name: Set up API key
       run: echo "ZOTERO_API_KEY=${{ secrets.ZOTERO_API_KEY }}" >> .Renviron
 
-    - name: Run R script
-      run: Rscript -e "rmarkdown::render('publications/extract_zotero_bib.Rmd')"
+    - name: Render publications
+      uses: r-lib/rmarkdown-action@main
+      with:
+        file: 'publications/extract_zotero_bib.Rmd'
+        output: 'publications'
+
+
