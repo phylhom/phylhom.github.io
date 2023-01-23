@@ -27,5 +27,9 @@ jobs:
       with:
         file: 'publications/extract_zotero_bib.Rmd'
         output: 'publications'
+    - name: Commit results
+      run:|
+          git commit publications/index.md -m 'Re-build publications index.Rmd' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
 
 
