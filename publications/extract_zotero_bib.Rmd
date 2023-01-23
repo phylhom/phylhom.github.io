@@ -1,0 +1,81 @@
+---
+title: "extract_zotero_bib.Rmd"
+author: "Julien Tap"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup1, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r load_lib}
+
+library(RCurl)
+library(XML)
+library(bibtex)
+library(RefManageR)
+
+```
+
+```{r get_id}
+
+groupId = "4861855"
+
+apiKey = Sys.getenv("ZOTERO_API_KEY")
+
+
+```
+
+
+
+```{r zotero_api}
+url <- paste("https://api.zotero.org/groups/", groupId, "/items?format=bib&v=3&key=", apiKey, sep="")
+bibtex <- getURL(url)
+```
+
+```{r render_bib}
+
+if(file.exists("FME_publications_2.bib")) {
+
+  file.remove("FME_publications_2.bib") 
+  RefManageR::ReadZotero(group = groupId, .params = list(
+  key = apiKey), temp.file = "FME_publications_2.bib", delete.file = FALSE) -> res.bib
+
+  }
+
+
+```
+
+```{r sort_bib}
+
+
+
+# Read in the BibTeX file
+bib_file <- read.bib("FME_publications_2.bib")
+
+# Extract the year field from each entry
+years <- sapply(bib_file, function(x) x$year)
+
+# Sort the entries by year in descending order
+bib_file <- bib_file[rev(order(years)),]
+
+# Write the sorted BibTeX file to a new file
+write.bib(bib_file, file = "FME_publications_sorted_2.bib")
+
+
+```
+
+
+
+```{r render_publications}
+
+rmarkdown::render("index.Rmd")
+
+
+```
+
+
+
+
