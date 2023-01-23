@@ -11,11 +11,11 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Set up R
-      uses: r-lib/actions/setup-r@v1
-    
+      uses: r-lib/actions/setup-r@v2
+
     - name: Install required packages
       run: Rscript -e "install.packages(c('rmarkdown','RCurl', 'XML', 'bibtex', 'RefManageR'))"
-      
+
     - name: Set up API key
       run: echo "ZOTERO_API_KEY=${{ secrets.ZOTERO_API_KEY }}" >> .Renviron
 
