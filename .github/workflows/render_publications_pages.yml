@@ -38,6 +38,8 @@ jobs:
 
     - name: Commit results
       run: |
+          git config --local user.name "$GITHUB_ACTOR"
+          git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git commit publications/index.md -m 'Re-build publications index.Rmd' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
 
