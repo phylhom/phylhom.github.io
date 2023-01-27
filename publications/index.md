@@ -8,6 +8,8 @@ hero_darken: fasle
 show_sidebar: false
 ---
 
+*Last extraction 2023-01-27 23:17:01*
+
 <span class="csl-left-margin">1. </span><span
 class="csl-right-inline">Chaillou, S. *et al.* [Combination of
 High-Pressure Treatment at 500 MPa and Biopreservation with a
