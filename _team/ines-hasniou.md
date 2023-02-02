@@ -5,7 +5,7 @@ description: Master internship student
 #product_code: ABC124
 layout: member
 image: "/img/ines-hasniou.jpg"
-rank: 7
+rank: 8
 features:
     - label: ines.hasniou[at]inrae.fr
       icon: fa-regular fa-envelope
@@ -19,6 +19,6 @@ features:
 
 ---
 
-Ines Hasniou is a second-year Master's student in Nutrition and Food Sciences, with a focus in Innovation in Plant, Enzymatic, and Microbial Biotechnologies at the University of Lille. She is currently conducting her master internship in the Food Microbial Ecology team at the Micalis institute. Her project focuses on the assembly of fruit kefir grains.
+Ines Hasniou is a second-year Master's student in Nutrition and Food Sciences, with a focus in Innovation in Plant, Enzymatic, and Microbial Biotechnologies at the [University of Lille](https://sciences-technologies.univ-lille.fr/). She is currently conducting her master internship in the Food Microbial Ecology team at the [Micalis institute](https://www.micalis.fr/micalis_eng/). Her project focuses on the assembly of fruit kefir grains.
 
 
