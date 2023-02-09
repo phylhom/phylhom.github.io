@@ -11,7 +11,7 @@ sitemap:
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
     {% for page in site.pages %}
-        {% unless page.sitemap.exclude == "yes" or page.name == "feed.xml" %}
+        {% unless page.sitemap.exclude == "yes" or page.name == "feed.xml" or page.name == "google579df04bbe9cb976.html" %}
             <url>
                 <loc>
                     {{ site.liveUrl }}{{ page.url | remove: "index.html" }}
@@ -39,7 +39,7 @@ sitemap:
 
     {% for collection in site.collections %}
         {% for post in collection.docs %}
-            {% unless post.published == false or post.sitemap.exclude == "yes" or page.name == "feed.xml"  %}
+            {% unless post.published == false or post.sitemap.exclude == "yes" or page.name == "feed.xml" or page.name == "google579df04bbe9cb976.html" %}
                 <url>
                     <loc>{{ site.liveUrl }}{{ post.url }}</loc>
                     {% if post.sitemap.lastmod %}
