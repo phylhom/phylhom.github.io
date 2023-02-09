@@ -9,6 +9,8 @@ output:
       in_header: yaml.txt
 nocite: '@*'
 csl: nature.csl
+sitemap:
+  exclude: 'yes'
 ---
 
 
