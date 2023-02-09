@@ -1,5 +1,6 @@
 name: render_publications
 
+
 on:
   workflow_dispatch:
   schedule:
