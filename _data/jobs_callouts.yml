@@ -1,0 +1,29 @@
+style: is-light
+height: is-small
+items:
+  - title: Post Doctoral fellowship
+    subtitle: meta-omics and biostatistics
+    icon: fa-solid fa-dna
+    description: >
+      Contract duration:  30 months
+
+      Start date: July 1st 2023
+    call_to_action_name: Apply
+    call_to_action_link: https://www.metasimfood.inrae.fr/sites/default/files/metasimfood/documents/INRAE-Postdoctoral-Offer-Synthetic-Ecology-2023_final.pdf
+  - title: Research technician
+    subtitle: molecular biologist
+    icon: fa-regular fa-flask
+    description: >
+      Contract duration: 15 months
+
+      Start date: November 2, 2023
+    call_to_action_name: Apply
+    call_to_action_link: /files/Offre_emploi_CDD_TR_INRAe_Micalis_FME.pdf
+  - title: Internship
+    subtitle: student
+    icon: fa-solid fa-graduation-cap
+    #icon_brand: true
+    description: >
+      Feel free to contact us to check internship opportunities
+    call_to_action_name: Apply
+    call_to_action_link: /contact/

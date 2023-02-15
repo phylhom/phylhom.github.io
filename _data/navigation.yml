@@ -2,6 +2,9 @@
   link: /projects/
 - name: Team
   link: /team/
+  dropdown:
+    - name : Join us
+      link: /positions/
 - name: News
   link: /blog/
 - name: Publications
