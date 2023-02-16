@@ -13,10 +13,10 @@ features:
       icon: fa-regular fa-phone
     - label: GDFF project website
       icon: fa-regular fa-book
-      link: http://www.fermentsdufutur.fr
+      link: https://fermentsdufutur.hub.inrae.fr/
 ---
 
-The [GDFF program](http://www.fermentsdufutur.fr) is part of the France 2030 national "sustainable and healthy food" acceleration strategy . It is a public-private consortium, composed of 30 partners, and bringing together public institutions and industrial partners in the field of ferments and fermented foods.
+The [GDFF program](https://fermentsdufutur.hub.inrae.fr/) is part of the France 2030 national "sustainable and healthy food" acceleration strategy . It is a public-private consortium, composed of 30 partners, and bringing together public institutions and industrial partners in the field of ferments and fermented foods.
 
 The objective of GDFF is to accelerate research and innovation in this field by focusing on 3 strategic axes:
 
