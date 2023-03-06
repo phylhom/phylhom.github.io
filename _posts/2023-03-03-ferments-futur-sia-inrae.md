@@ -14,5 +14,10 @@ published: true
 ![](/img/marie_SIA_2023.jpg)
 
 
-The discussion was hosted by Kevin Campuis from Shake Up Factory, who did a great job of keeping the conversation flowing and engaging the audience. The photo showing the [Marie](/team/marie-christine-champomier-verges/) from FME team in action as they shared their knowledge with the attendees.
+The discussion was hosted by Kevin Camphuis from Shake Up Factory, who did a great job of keeping the conversation flowing and engaging the audience. The photo showing the [Marie](/team/marie-christine-champomier-verges/) from FME team in action as they shared their knowledge with the attendees.
 
+
+<div class="box has-background-primary has-text-white" markdown="1" >
+More info:
+- Champomier-Vergès, M.-C. et al. [Le potentiel insoupçonné des aliments fermentés](https://hal.inrae.fr/hal-03958354). Ressources, la revue INRAE 44 (2023).
+</div>
