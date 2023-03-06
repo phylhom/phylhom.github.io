@@ -6,9 +6,11 @@ layout: page
 hero_image: /img/FME_Banner_website_V3.png
 hero_darken: fasle
 show_sidebar: false
+sitemap:
+  exclude: 'yes'
 ---
 
-*Last extraction 2023-02-09 09:09:08*
+*Last extraction 2023-03-01 00:44:49*
 
 <span class="csl-left-margin">1. </span><span
 class="csl-right-inline">Champomier-Vergès, M.-C. *et al.* [Le potentiel
