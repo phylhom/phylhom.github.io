@@ -1,12 +1,14 @@
 <footer class="footer">
     <div class="container">
-        
+
 		<div class="columns is-mobile is-multiline is-centered">
 			<div class="column is-narrow">
-				<img src="{{'img/BlocMarque-INRAE-Inter_Transparent.png' | relative_url }}" />
+				<!--<img src="{{'img/BlocMarque-INRAE-Inter_Transparent.png' | relative_url }}" />-->
+				<img class="Logo-etat" src="/img/etat_logo.svg" alt="République française" width="138" height="146">
+				<img class="Logo-site" src="/img/inrae_logo.svg" alt="INRAE INSTIT">
 			</div>
 		</div>
-		
+
         {% if site.footer_menu %}
         <div class="columns is-multiline">
             {% for item in site.data[site.footer_menu] %}
