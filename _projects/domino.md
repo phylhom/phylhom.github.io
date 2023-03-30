@@ -3,7 +3,7 @@ title: Domino
 subtitle: HE-RIA project
 #product_code: ABC123
 layout: project
-image: img/dominos.jpg
+image: img/domino_eu_research.png
 start: 2023-03-01
 category: Europe
 features:
@@ -13,45 +13,45 @@ features:
     - label: +33 1 34 65 21 06
       icon: fa-regular fa-phone
 #rating: 3
+hero_image: '/img/fermented_foods.png'
+hero_darken: true
 ---
 
 ## Harnessing the microbial potential of fermented foods for healthy and sustainable food systems
 
-European consumers are expressing a clear demand for healthier and more sustainable food. Fermented foods (FFs) have the potential
-to meet these expectations but there is a need to demonstrate their health impacts scientifically, while developing innovative strategies
-to tackle both sustainability and nutritional health. In this frame, DOMINO will investigate the health impacts of FF-based diet on
-a healthy population and a cohort suffering from metabolic syndrome to better focus on health biomarkers. 
+Harnessing the microbial potential of fermented foods for healthy and sustainable food systems
+DOMINO is research and innovation project launched in March 2023 in the framework of Horizon Europe. It aims at understand the role and the value of fermented food microbiota for healthy and sustainable food systems.
 
-We will provide tailormade
-microbial solutions using an integrated ‘omics’ strategy and computational biology modelling to address the challenges associated
-with sustainable food production and healthy nutrition. In six food case studies, selected as representative of the wide diversity of
-plant-based FF prototypes, we will involve key stakeholders in a multi-actor approach. These objectives will lead to key results: the
-characterization of the health effect of milk kefir; the application of diagnosis tools based on healthy microbiome/human biomarkers to
-inform dietary recommendations based on FF for people with metabolic syndrome; the development of an open access database and new
-computational tools for profiling food microbiomes metabolic interaction during food fermentation and their overlap with the healthy
-gut microbiome; the delivery of a research and innovation workflow to facilitate the smart design of functional healthy FF, bio-waste
-valorisation, sustainable processes on plant-based food case studies using the leverage of food microbiomes’ biodiversity; all supported
-by a federation of key stakeholders and citizens through several living labs and a tailored dissemination strategy. Together we will develop
-and move towards a vision of the future of FFs in Europe while enhancing the trust of citizens in the food value chain through their
-involvement and genuine integration of their perspectives, paving the way for citizen-friendly innovation.
+Fermented foods are an important part of our diet. These foods contain a great diversity of microbiota (assemblies of different interacting microbial species) that allow to improve the preservation of food, to produce a typicity and a great diversity of taste, but also to increase the nutritional value of these foods.
 
-The DOMINO project will start in March 2023 for a duration of 5 years and will pursue 6 scientific ambitions:
+### Microbial biodiversity for healthy and sustainable food
 
-1. To cross-reference and reconcile data on the food and gut microbiome (diversity, functional activities) with those of human physiology and metabolism to allow for a more relevant identification of biomarkers related to the health effect of fermented foods. In particular, the project will launch a long-term nutritional study (6 months) on 3 European geographical locations (UK, France, Italy).
+Recent scientific hypotheses suggest that a diet enriched with fermented foods would have a beneficial effect on health thanks to a succession of interrelated effects (interaction with the intestinal microbiota, nutritional added value of the food, molecules resulting from the fermentation potentially stimulating physiological signals). This ‘domino’ effect makes it possible to draw three scientific issues which will be at the heart of the project (see figure below). 
 
-2. To design tailor-made microbial consortia taking advantage of the great natural diversity of food microbiota to go beyond the canonical concept of probiotic microbial strains.
+Can we define microbial solutions based on biodiversity to respond to the sustainable production of fermented foods (fermentation of plant-based products)? Does the frequent consumption of fermented foods impact health by stimulating the symbiotic relationship between humans and their gut microbiota? Which experimental methodologies would be the most adapted to answer these two issues and ensure a quick and reliable estimation of the beneficial role or the risk of a new fermented food based on more sustainable food resources? 
 
-3. Put computational biology and modeling at the heart of the knowledge acquisition process. Open up data and tools to the scientific community to better emphasize and support microbial functional biodiversity in food design.
+![]({{site.baseurl}}/img/domino_research_questions.png)
+ 
+**The DOMINO project will pursue six scientific ambitions:**
 
-4. Bring the discipline of food microbiology into a new era using multidisciplinary synthetic ecology approaches.
+1)	To cross-reference and reconcile data on the food and gut microbiome (diversity, functional activities) with those of human physiology and metabolism to allow for a more relevant identification of biomarkers related to the health effect of fermented foods. In particular, the project will launch a long-term nutritional study (6 months) on three European geographical locations (UK, France, Italy).
+2)	To design tailor-made microbial consortia taking advantage of the great natural diversity of food microbiota to go beyond the canonical concept of probiotic microbial strains.
+3)	Put computational biology and modelling at the heart of the knowledge acquisition process. Open up data and tools to the scientific community to better emphasize and support microbial functional biodiversity in food design.
+4)	Bring the discipline of food microbiology into a new era using multidisciplinary synthetic ecology approaches.
+5)	Utilize ex vivo models for rapid and standardized protocols for health benefit/risk assessment of fermented foods.
+6)	Drive the design of plant-based fermented products to meet the combined needs of societal food transition, the urgency of food system sustainability, and create the effervescence of a profitable economic market for small European companies. To meet this objective, the project will launch for the first time the creation of living-labs in 6 different European cultural areas (Estonia/Baltic countries, France, Italy, Spain, Germany/Austria, Ireland/UK). These living-labs will allow the realization of a vision of the future of fermented foods in Europe, while building the confidence of citizens on healthy food through their involvement and a real integration of their views.
 
-5. Utilize ex vivo models for rapid and standardized protocols for health benefit/risk assessment of fermented foods.
+### A European interdisciplinary consortium of excellence 
 
-6. Drive the design of plant-based fermented products to meet the combined needs of societal food transition, the urgency of food system sustainability, and create the effervescence of a profitable economic market for small European companies. To meet this objective, the project will launch for the first time the creation of living-labs in 6 different European cultural areas (Estonia/Baltic countries, France, Italy, Spain, Germany/Austria, Ireland/UK). These living-labs will allow the realization of a vision of the future of fermented foods in Europe, while building the confidence of citizens on healthy food through their involvement and a real integration of their views.
+![]({{site.baseurl}}/img/domino_eu_partners.png)
+ 
+Under the coordination of the Micalis Institute at INRAe Jouy-en-Josas (coord.: [Stéphane Chaillou](/team/stephane-chaillou/), Food Microbial Ecology lab), five other INRAE units in association with AgroParisTech and the CRNH of Auvergne (the Human Nutrition Unit of Theix, the Cheese Research Unit of Aurillac, the Mycology and Food Safety Unit of Bordeaux the Sayfood unit (Paris-Saclay Food & Bioproduct Engineering) and the MaIAGE unit (Mathematics and Computer Science Applied to the Genome and the Environment) will combine their skills with those of some twenty partners from 10 European countries in order to combine a scientific program highly marked by interdisciplinarity and to create a common thread between microbial ecology human nutrition, food process engineering, "omics" data modeling, consumer social sciences, food systems economics and participatory co-creation.
 
 
-## on the news
+### For more informations about the project
 
+- Domino web site (link to be released soon)
+- #dominoHE on [SciFoodHealth Linkedin account](https://www.linkedin.com/posts/scifoodhealth_fermentedfoods-fermentation-horizoneu-activity-7047176403892514816-hrHX) managed Eufic partner.
 - INRAE press release [DOMINO : un projet de recherche européen sur le rôle de la diversité des microbiotes d'aliments fermentés sur la santé](https://www.inrae.fr/actualites/domino-projet-recherche-europeen-role-diversite-microbiotes-daliments-fermentes-sante)
 
 
