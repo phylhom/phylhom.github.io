@@ -34,12 +34,12 @@ Can we define microbial solutions based on biodiversity to respond to the sustai
  
 **The DOMINO project will pursue six scientific ambitions:**
 
-1)	To cross-reference and reconcile data on the food and gut microbiome (diversity, functional activities) with those of human physiology and metabolism to allow for a more relevant identification of biomarkers related to the health effect of fermented foods. In particular, the project will launch a long-term nutritional study (6 months) on three European geographical locations (UK, France, Italy).
-2)	To design tailor-made microbial consortia taking advantage of the great natural diversity of food microbiota to go beyond the canonical concept of probiotic microbial strains.
-3)	Put computational biology and modelling at the heart of the knowledge acquisition process. Open up data and tools to the scientific community to better emphasize and support microbial functional biodiversity in food design.
-4)	Bring the discipline of food microbiology into a new era using multidisciplinary synthetic ecology approaches.
-5)	Utilize ex vivo models for rapid and standardized protocols for health benefit/risk assessment of fermented foods.
-6)	Drive the design of plant-based fermented products to meet the combined needs of societal food transition, the urgency of food system sustainability, and create the effervescence of a profitable economic market for small European companies. To meet this objective, the project will launch for the first time the creation of living-labs in 6 different European cultural areas (Estonia/Baltic countries, France, Italy, Spain, Germany/Austria, Ireland/UK). These living-labs will allow the realization of a vision of the future of fermented foods in Europe, while building the confidence of citizens on healthy food through their involvement and a real integration of their views.
+1. To cross-reference and reconcile data on the food and gut microbiome (diversity, functional activities) with those of human physiology and metabolism to allow for a more relevant identification of biomarkers related to the health effect of fermented foods. In particular, the project will launch a long-term nutritional study (6 months) on three European geographical locations (UK, France, Italy).
+2. To design tailor-made microbial consortia taking advantage of the great natural diversity of food microbiota to go beyond the canonical concept of probiotic microbial strains.
+3. Put computational biology and modelling at the heart of the knowledge acquisition process. Open up data and tools to the scientific community to better emphasize and support microbial functional biodiversity in food design.
+4. Bring the discipline of food microbiology into a new era using multidisciplinary synthetic ecology approaches.
+5. Utilize ex vivo models for rapid and standardized protocols for health benefit/risk assessment of fermented foods.
+6. Drive the design of plant-based fermented products to meet the combined needs of societal food transition, the urgency of food system sustainability, and create the effervescence of a profitable economic market for small European companies. To meet this objective, the project will launch for the first time the creation of living-labs in 6 different European cultural areas (Estonia/Baltic countries, France, Italy, Spain, Germany/Austria, Ireland/UK). These living-labs will allow the realization of a vision of the future of fermented foods in Europe, while building the confidence of citizens on healthy food through their involvement and a real integration of their views.
 
 ### A European interdisciplinary consortium of excellence 
 
