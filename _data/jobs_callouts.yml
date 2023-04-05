@@ -1,6 +1,15 @@
 style: is-light
 height: is-small
 items:
+  - title: Engineer
+    subtitle: Molecular Microbial Ecology
+    icon: fa-duotone fa-bacteria
+    description: >
+      Contract duration: 48 months
+
+      Start date: September 1st, 2023
+    call_to_action_name: Apply
+    call_to_action_link: /files/230404_Domino_IE_Job_offer_EV1.pdf
   - title: Post Doctoral fellowship
     subtitle: meta-omics and biostatistics
     icon: fa-solid fa-dna

@@ -2,6 +2,8 @@
 title: Domino
 subtitle: HE-RIA project
 #product_code: ABC123
+hero_link: /files/230404_Domino_IE_Job_offer_EV1.pdf
+hero_link_text: Apply now
 layout: project
 image: img/domino_eu_research.png
 start: 2023-03-01
