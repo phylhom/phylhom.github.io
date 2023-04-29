@@ -9,8 +9,6 @@ published: true
 #canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
 ---
 
-## Meeting with TFTAK for DOMINO Project
-
 Representing FME, Stephane was pleased to meet colleagues from Tallinn University of Technology ([TFTAK](https://tftak.eu/)) to discuss about [HorizonEU DOMINO](https://fme.micalis.fr/projects/domino/) project's development of microbial solutions for vegetable-based fermented foods. The meeting took place during a two-day visit (24-25th of April), where discussions and knowledge-sharing took place to kick-start the work plan for exciting fermented food case studies.
 
 During the visit, the INRAE team had the opportunity to visit the TFTAK laboratories and the Kadarbiku farming company, which produces various fermented vegetable products. This visit was very exciting and allowed for the sharing of experiences between both partners. The knowledge transfer from academic research to the production scale is vital, and TFTAK plays a significant role in this transfer by providing know-how and skills to the industry. The partnership with TFTAK also drives the research and development interactions at the national level in the Baltic countries.
