@@ -10,7 +10,7 @@ sitemap:
   exclude: 'yes'
 ---
 
-*Last extraction 2023-04-01 00:35:15*
+*Last extraction 2023-05-01 00:37:56.74599*
 
 <span class="csl-left-margin">1. </span><span
 class="csl-right-inline">Champomier-Vergès, M.-C. *et al.* [Le potentiel
@@ -18,12 +18,11 @@ insoupçonné des aliments fermentés](https://hal.inrae.fr/hal-03958354).
 *Ressources, la revue INRAE* 44 (2023).</span>
 
 <span class="csl-left-margin">2. </span><span
-class="csl-right-inline">Chaillou, S. *et al.* [Combination of
-High-Pressure Treatment at 500 MPa and Biopreservation with a
-Lactococcus lactis Strain for Lowering the Bacterial Growth during
-Storage of Diced Cooked Ham with Reduced Nitrite
-Salt.](https://doi.org/10.3390/microorganisms10020456) *Microorganisms*
-**10**, (2022).</span>
+class="csl-right-inline">Ladeira, R., Tap, J. & Derrien, M. [Exploring
+Bifidobacterium species community and functional variations with human
+gut microbiome structure and health beyond
+infancy](https://doi.org/10.20517/mrr.2023.01). *Microbiome Research
+Reports* **2**, 9 (2023).</span>
 
 <span class="csl-left-margin">3. </span><span
 class="csl-right-inline">Kothe, C. I., Mohellibi, N. & Renault, P.
@@ -366,70 +365,64 @@ complex.](https://doi.org/10.1186/1471-2164-15-272) *BMC genomics*
 **15**, 272 (2014).</span>
 
 <span class="csl-left-margin">51. </span><span
-class="csl-right-inline">Cailliez-Grimal, C. *et al.* [Complete
-Chromosome Sequence of Carnobacterium maltaromaticum LMA
-28.](https://doi.org/10.1128/genomeA.00115-12) *Genome announcements*
-**1**, (2013).</span>
-
-<span class="csl-left-margin">52. </span><span
 class="csl-right-inline">Chaillou, S., Lucquin, I., Najjari, A.,
 Zagorec, M. & Champomier-Vergès, M.-C. [Population genetics of
 Lactobacillus sakei reveals three lineages with distinct evolutionary
 histories.](https://doi.org/10.1371/journal.pone.0073253) *PloS one*
 **8**, e73253 (2013).</span>
 
-<span class="csl-left-margin">53. </span><span
+<span class="csl-left-margin">52. </span><span
 class="csl-right-inline">Cotillard, A. *et al.* [Dietary intervention
 impact on gut microbial gene
 richness.](https://doi.org/10.1038/nature12480) *Nature* **500**,
 585–588 (2013).</span>
 
-<span class="csl-left-margin">54. </span><span
+<span class="csl-left-margin">53. </span><span
 class="csl-right-inline">Le Chatelier, E. *et al.* [Richness of human
 gut microbiome correlates with metabolic
 markers.](https://doi.org/10.1038/nature12506) *Nature* **500**, 541–546
 (2013).</span>
 
-<span class="csl-left-margin">55. </span><span
+<span class="csl-left-margin">54. </span><span
 class="csl-right-inline">Morrison, D. A., Guédon, E. & Renault, P.
 [Competence for natural genetic transformation in the Streptococcus
 bovis group streptococci S. Infantarius and S.
 macedonicus.](https://doi.org/10.1128/JB.00230-13) *Journal of
 bacteriology* **195**, 2612–2620 (2013).</span>
 
-<span class="csl-left-margin">56. </span><span
+<span class="csl-left-margin">55. </span><span
 class="csl-right-inline">Guilbaud, M., Zagorec, M., Chaillou, S. &
 Champomier-Vergès, M.-C. [Intraspecies diversity of Lactobacillus sakei
 response to oxidative stress and variability of strain performance in
 mixed strains challenges.](https://doi.org/10.1016/j.fm.2011.07.011)
 *Food microbiology* **29**, 197–204 (2012).</span>
 
-<span class="csl-left-margin">57. </span><span
+<span class="csl-left-margin">56. </span><span
 class="csl-right-inline">Lucquin, I., Zagorec, M., Champomier-Vergès, M.
 & Chaillou, S. [Fingerprint of lactic acid bacteria population in beef
 carpaccio is influenced by storage process and seasonal
 changes.](https://doi.org/10.1016/j.fm.2011.08.001) *Food microbiology*
 **29**, 187–196 (2012).</span>
 
-<span class="csl-left-margin">58. </span><span
+<span class="csl-left-margin">57. </span><span
 class="csl-right-inline">Meslier, V., Loux, V. & Renault, P. [Genome
 sequence of Leuconostoc pseudomesenteroides strain 4882, isolated from a
 dairy starter culture.](https://doi.org/10.1128/JB.01696-12) *Journal of
 bacteriology* **194**, 6637 (2012).</span>
 
-<span class="csl-left-margin">59. </span><span
+<span class="csl-left-margin">58. </span><span
 class="csl-right-inline">Chaillou, S. *et al.* [Intraspecies genomic
 diversity and natural population structure of the meat-borne lactic acid
 bacterium Lactobacillus sakei.](https://doi.org/10.1128/AEM.01721-08)
 *Applied and environmental microbiology* **75**, 970–980 (2009).</span>
 
-<span class="csl-left-margin">60. </span><span
+<span class="csl-left-margin">59. </span><span
 class="csl-right-inline">Chaillou, S. *et al.* [The complete genome
 sequence of the meat-borne lactic acid bacterium Lactobacillus sakei
 23K.](https://doi.org/10.1038/nbt1160) *Nature biotechnology* **23**,
 1527–1533 (2005).</span>
 
-<span class="csl-left-margin">61. </span><span
+<span class="csl-left-margin">60. </span><span
 class="csl-right-inline">Marceau, A., Zagorec, M., Chaillou, S., Méra,
 T. & Champomier-Vergès, M.-C. [Evidence for involvement of at least six
 proteins in adaptation of Lactobacillus sakei to cold temperatures and
@@ -437,20 +430,20 @@ addition of NaCl.](https://doi.org/10.1128/AEM.70.12.7260-7268.2004)
 *Applied and environmental microbiology* **70**, 7260–7268
 (2004).</span>
 
-<span class="csl-left-margin">62. </span><span
+<span class="csl-left-margin">61. </span><span
 class="csl-right-inline">Champomier-Vergès, M.-C., Chaillou, S., Cornet,
 M. & Zagorec, M. [Erratum to "Lactobacillus sakei: Recent developments
 and future prospects" \[Research in Microbiology 152 (2001)
 839\].](https://doi.org/10.1016/s0923-2508(01)01296-7) *Research in
 microbiology* **153**, 115–123 (2002).</span>
 
-<span class="csl-left-margin">63. </span><span
+<span class="csl-left-margin">62. </span><span
 class="csl-right-inline">Dudez, A.-M. *et al.* [Physical and genetic map
 of the Lactobacillus sakei 23K
 chromosome.](https://doi.org/10.1099/00221287-148-2-421) *Microbiology
 (Reading, England)* **148**, 421–431 (2002).</span>
 
-<span class="csl-left-margin">64. </span><span
+<span class="csl-left-margin">63. </span><span
 class="csl-right-inline">Champomier-Vergès, M. C., Chaillou, S., Cornet,
 M. & Zagorec, M. [Lactobacillus sakei: Recent developments and future
 prospects.](https://doi.org/10.1016/s0923-2508(01)01267-0) *Research in
