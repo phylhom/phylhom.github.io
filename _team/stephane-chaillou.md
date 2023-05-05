@@ -3,7 +3,7 @@ title: Stephane Chaillou
 subtitle: Research Director 
 description: member card
 layout: member
-image: img/CHAILLOU-RESEAU-2.jpg
+image: img/CHAILLOU-STEPHANE-INRAe.jpg
 rank: 3
 features:
     - label: stephane.chaillou[at]inrae.fr
