@@ -28,10 +28,16 @@ layout: default
             <p>
                 <span class="icon">
                     {% if feature.icon %}
-                    <i class="fas {{ feature.icon }}"></i>
+                      {% if feature.icon_brand %}
+                        <i class="fab {{ feature.icon }}"></i>
+                      {% else %}
+                        <i class="fas {{ feature.icon }}"></i>
+                    {% endif %}
+
                     {% else %}
                     <i class="fas fa-circle fa-xs"></i>
                     {% endif %}
+
                 </span>
                 <span>
 				{% if feature.link %}
