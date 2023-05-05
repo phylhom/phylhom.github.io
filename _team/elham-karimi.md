@@ -8,7 +8,8 @@ image: /img/Photo_ElhamKARIMI.png
 rank: 8
 features:
     - label: Linkedin
-      icon: fa-solid fa-network-wired
+      icon: fa-brand fa-linkedin
+      icon_brand: true
       link: https://www.linkedin.com/in/elham-karimi-b3686074/
     - label: GitHub
       icon: fa-brand fa-github

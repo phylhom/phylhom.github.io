@@ -16,7 +16,8 @@ features:
       icon: fa-regular fa-book
       link: https://cv.archives-ouvertes.fr/marie-christine-champomier-verges
     - label: Linkedin
-      icon: fa-solid fa-network-wired
+      icon: fa-brand fa-linkedin
+      icon_brand: true
       link: https://www.linkedin.com/in/marie-champomier-verg%C3%A8s-8a365a87/
 
 

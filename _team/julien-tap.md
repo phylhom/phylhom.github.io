@@ -16,13 +16,17 @@ features:
       icon: fa-regular fa-book
       link: https://cv.archives-ouvertes.fr/julien-tap
     - label: Linkedin
-      icon: fa-solid fa-network-wired
+      icon: fa-brand fa-linkedin
+      icon_brand: true
       link: https://www.linkedin.com/in/julientap/
     - label: Twitter
-      icon: fa-solid fa-dove
+      icon: fa-brand fa-twitter
+      icon_brand: true
       link: https://www.twitter.com/julientap/
-
-
+    - label: GitHub
+      icon: fa-brand fa-github
+      icon_brand: true
+      link: https://github.com/tapj
 ---
 
 

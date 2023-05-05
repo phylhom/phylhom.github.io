@@ -13,7 +13,8 @@ features:
     - label: +33 1 34 65 25 27
       icon: fa-regular fa-phone
     - label: Linkedin
-      icon: fa-solid fa-network-wired
+      icon: fa-brand fa-linkedin
+      icon_brand: true
       link: https://www.linkedin.com/in/in%C3%A8s-h-44b306210/
 
 
