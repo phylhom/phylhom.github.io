@@ -31,7 +31,11 @@ items:
 
   - title: Apprentice
     subtitle: bioinformatician
+<<<<<<< HEAD
     icon: fa-regular fa-laptop
+=======
+    icon: fa-regular fa-laptop-binary
+>>>>>>> f7da4eb4c0a2fc7fc22028c11c38bfb4943a9d5c
     description: >
       Contract duration: 12 months
 
