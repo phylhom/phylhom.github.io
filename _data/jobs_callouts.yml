@@ -28,6 +28,16 @@ items:
       Start date: November 2, 2023
     call_to_action_name: Apply
     call_to_action_link: /files/Offre_emploi_CDD_TR_INRAe_Micalis_FME.pdf
+
+  - title: Apprentice
+    subtitle: bioinformatician
+    icon: fa-regular fa-laptop
+    description: >
+      Contract duration: 12 months
+
+      Start date: September 1, 2023
+    call_to_action_name: Apply
+    call_to_action_link: https://jobs.inrae.fr/ot-18257
   - title: Internship
     subtitle: student
     icon: fa-solid fa-graduation-cap
