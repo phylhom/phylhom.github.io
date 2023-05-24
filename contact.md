@@ -20,9 +20,7 @@ hero_height: is-small
               <p>marie-christine.champomier-verges[at]jouy.inra.fr</p>
               <h2 class="title is-4">Address</h2>
               <p>Domaine de Vilvert, 78350 Jouy-en-Josas, France</p>
-              <h2 class="title is-4">Current available position:</h2>
-              <p><a href="https://www.metasimfood.inrae.fr/sites/default/files/metasimfood/documents/INRAE-Postdoctoral-Offer-Synthetic-Ecology-2023_final.pdf">Metasimfood project</a></p>
-            </div>
+             </div>
           </div>
         </div>
       </div>
