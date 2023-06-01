@@ -10,7 +10,7 @@ sitemap:
   exclude: 'yes'
 ---
 
-*Last extraction 2023-05-01 00:37:56.74599*
+*Last extraction 2023-06-01 00:49:36.519149*
 
 <span class="csl-left-margin">1. </span><span
 class="csl-right-inline">Champomier-Vergès, M.-C. *et al.* [Le potentiel
@@ -25,20 +25,26 @@ infancy](https://doi.org/10.20517/mrr.2023.01). *Microbiome Research
 Reports* **2**, 9 (2023).</span>
 
 <span class="csl-left-margin">3. </span><span
+class="csl-right-inline">Ammoun, I. *et al.* [Lebanese fermented goat
+milk products: From tradition to
+meta-omics](https://doi.org/10.1016/j.foodres.2023.112762). *Food
+Research International* **168**, 112762 (2023).</span>
+
+<span class="csl-left-margin">4. </span><span
 class="csl-right-inline">Kothe, C. I., Mohellibi, N. & Renault, P.
 [Revealing the microbial heritage of traditional Brazilian cheeses
 through metagenomics](https://doi.org/10.1016/j.foodres.2022.111265).
 *Food Research International (Ottawa, Ont.)* **157**, 111265
 (2022).</span>
 
-<span class="csl-left-margin">4. </span><span
+<span class="csl-left-margin">5. </span><span
 class="csl-right-inline">Claus, P. *et al.* [Discrimination of spoiled
 beef and salmon stored under different atmospheres by an optoelectronic
 nose. Comparison with GC-MS
 measurements](https://doi.org/10.1016/j.fufo.2021.100106). *Future
 Foods* **5**, 100106 (2022).</span>
 
-<span class="csl-left-margin">5. </span><span
+<span class="csl-left-margin">6. </span><span
 class="csl-right-inline">Manthou, E., Coeuret, G., Chaillou, S. &
 Nychas, G.-J. E. [Metagenetic characterization of bacterial communities
 associated with ready-to-eat leafy vegetables and study of temperature
@@ -46,39 +52,39 @@ effect on their composition during
 storage](https://doi.org/10.1016/j.foodres.2022.111563). *Food Research
 International (Ottawa, Ont.)* **158**, 111563 (2022).</span>
 
-<span class="csl-left-margin">6. </span><span
+<span class="csl-left-margin">7. </span><span
 class="csl-right-inline">Borges, F. *et al.* [Contribution of omics to
 biopreservation: Toward food microbiome
 engineering](https://doi.org/10.3389/fmicb.2022.951182). *Frontiers in
 Microbiology* **13**, 951182 (2022).</span>
 
-<span class="csl-left-margin">7. </span><span
+<span class="csl-left-margin">8. </span><span
 class="csl-right-inline">Rul, F. *et al.* [Underlying evidence for the
 health benefits of fermented foods in
 humans](https://doi.org/10.1039/D1FO03989J). *Food & Function* **13**,
 4804–4824 (2022).</span>
 
-<span class="csl-left-margin">8. </span><span
+<span class="csl-left-margin">9. </span><span
 class="csl-right-inline">Lange, L. *et al.* [Microbiome ethics, guiding
 principles for microbiome research, use and knowledge
 management](https://doi.org/10.1186/s40793-022-00444-y). *Environmental
 Microbiome* **17**, 50 (2022).</span>
 
-<span class="csl-left-margin">9. </span><span
+<span class="csl-left-margin">10. </span><span
 class="csl-right-inline">Cernava, T. *et al.* [Metadata
 harmonization–Standards are the key for a better usage of omics data for
 integrative microbiome
 analysis](https://doi.org/10.1186/s40793-022-00425-1). *Environmental
 Microbiome* **17**, 33 (2022).</span>
 
-<span class="csl-left-margin">10. </span><span
+<span class="csl-left-margin">11. </span><span
 class="csl-right-inline">Grassotti, T. T. *et al.* [Fecal bacterial
 communities of wild black capuchin monkeys (Sapajus nigritus) from the
 Atlantic Forest biome in Southern Brazil are divergent from those of
 other non-human primates](https://doi.org/10.1016/j.crmicr.2021.100048).
 *Current Research in Microbial Sciences* **2**, 100048 (2021).</span>
 
-<span class="csl-left-margin">11. </span><span
+<span class="csl-left-margin">12. </span><span
 class="csl-right-inline">Kothe, C. I., Bolotin, A., Kraïem, B.-F.,
 Dridi, B. & Renault, P. [Unraveling the world of halophilic and
 halotolerant bacteria in cheese by combining cultural, genomic and
@@ -87,7 +93,7 @@ approaches.](https://doi.org/10.1016/j.ijfoodmicro.2021.109312)
 *International journal of food microbiology* **358**, 109312
 (2021).</span>
 
-<span class="csl-left-margin">12. </span><span
+<span class="csl-left-margin">13. </span><span
 class="csl-right-inline">Luong, N.-D. M. *et al.* [Application of a
 path-modelling approach for deciphering causality relationships between
 microbiota, volatile organic compounds and off-odour profiles during
@@ -95,27 +101,27 @@ meat spoilage](https://doi.org/10.1016/j.ijfoodmicro.2021.109208).
 *International Journal of Food Microbiology* **348**, 109208
 (2021).</span>
 
-<span class="csl-left-margin">13. </span><span
+<span class="csl-left-margin">14. </span><span
 class="csl-right-inline">Manthou, E., Coeuret, G., Chaillou, S. &
 Nychas, G.-J. E. [Evolution of fungal community associated with
 ready-to-eat pineapple during storage under different temperature
 conditions](https://doi.org/10.1016/j.fm.2021.103736). *Food
 Microbiology* **97**, 103736 (2021).</span>
 
-<span class="csl-left-margin">14. </span><span
+<span class="csl-left-margin">15. </span><span
 class="csl-right-inline">Verplaetse, E. *et al.* [Heme Uptake in
 Lactobacillus sakei Evidenced by a New Energy Coupling Factor (ECF)-Like
 Transport System.](https://doi.org/10.1128/AEM.02847-19) *Applied and
 environmental microbiology* **86**, (2020).</span>
 
-<span class="csl-left-margin">15. </span><span
+<span class="csl-left-margin">16. </span><span
 class="csl-right-inline">Zagdoun, M., Coeuret, G., N’Dione, M.,
 Champomier-Vergès, M.-C. & Chaillou, S. [Large microbiota survey reveals
 how the microbial ecology of cooked ham is shaped by different
 processing steps.](https://doi.org/10.1016/j.fm.2020.103547) *Food
 microbiology* **91**, 103547 (2020).</span>
 
-<span class="csl-left-margin">16. </span><span
+<span class="csl-left-margin">17. </span><span
 class="csl-right-inline">Poirier, S. *et al.* [Large-scale multivariate
 dataset on the characterization of microbiota diversity, microbial
 growth dynamics, metabolic spoilage volatilome and sensorial profiles of
@@ -124,7 +130,7 @@ concentration and packaging
 atmosphere.](https://doi.org/10.1016/j.dib.2020.105453) *Data in brief*
 **30**, 105453 (2020).</span>
 
-<span class="csl-left-margin">17. </span><span
+<span class="csl-left-margin">18. </span><span
 class="csl-right-inline">Terán, L. C. *et al.* [Nucleotide sequence and
 analysis of <span class="nocase">pRC12</span> and <span
 class="nocase">pRC18</span>, two theta-replicating plasmids harbored by
@@ -132,21 +138,21 @@ Lactobacillus curvatus CRL
 705.](https://doi.org/10.1371/journal.pone.0230857) *PloS one* **15**,
 e0230857 (2020).</span>
 
-<span class="csl-left-margin">18. </span><span
+<span class="csl-left-margin">19. </span><span
 class="csl-right-inline">Papadimitriou, K., Kline, K., Renault, P. &
 Kok, J. [Editorial: Omics and Systems Approaches to Study the Biology
 and Applications of Lactic Acid
 Bacteria.](https://doi.org/10.3389/fmicb.2020.01786) *Frontiers in
 microbiology* **11**, 1786 (2020).</span>
 
-<span class="csl-left-margin">19. </span><span
+<span class="csl-left-margin">20. </span><span
 class="csl-right-inline">Sanhoun, A. R. *et al.* [Traditional milk
 transformation schemes in Côte d’Ivoire and their impact on the
 prevalence of Streptococcus bovis complex bacteria in dairy
 products.](https://doi.org/10.1371/journal.pone.0233132) *PloS one*
 **15**, e0233132 (2020).</span>
 
-<span class="csl-left-margin">20. </span><span
+<span class="csl-left-margin">21. </span><span
 class="csl-right-inline">Aka, S. *et al.* [Characterization of lactic
 acid bacteria isolated from a traditional Ivoirian beer process to
 develop starter cultures for safe sorghum-based
@@ -154,34 +160,26 @@ beverages.](https://doi.org/10.1016/j.ijfoodmicro.2020.108547)
 *International journal of food microbiology* **322**, 108547
 (2020).</span>
 
-<span class="csl-left-margin">21. </span><span
+<span class="csl-left-margin">22. </span><span
 class="csl-right-inline">Kothe, C. I., Delbarre-Ladrat, C., Renault, P.
 & Passerini, D. [Draft-genome sequence data and phylogenomic comparison
 of two marine-sourced bacterial strains Pseudoalteromonas sp. MIP2626
 and Psychrobacter sp. BI730.](https://doi.org/10.1016/j.dib.2020.105898)
 *Data in brief* **31**, 105898 (2020).</span>
 
-<span class="csl-left-margin">22. </span><span
+<span class="csl-left-margin">23. </span><span
 class="csl-right-inline">Dugat-Bony, E. *et al.* [Viral metagenomic
 analysis of the cheese surface: A comparative study of rapid procedures
 for extracting viral
 particles](https://doi.org/10.1016/j.fm.2019.103278). *Food
 Microbiology* **85**, 103278 (2020).</span>
 
-<span class="csl-left-margin">23. </span><span
+<span class="csl-left-margin">24. </span><span
 class="csl-right-inline">Gboko, K. D. T. *et al.* [Risk factors for the
 carriage of Streptococcus infantarius subspecies infantarius isolated
 from African fermented dairy
 products.](https://doi.org/10.1371/journal.pone.0225452) *PloS one*
 **14**, e0225452 (2019).</span>
-
-<span class="csl-left-margin">24. </span><span
-class="csl-right-inline">Poirier, S. *et al.* [Detection of an
-amplification bias associated to Leuconostocaceae family with a
-universal primer routinely used for monitoring microbial community
-structures within food
-products.](https://doi.org/10.1186/s13104-018-3908-2) *BMC research
-notes* **11**, 802 (2018).</span>
 
 <span class="csl-left-margin">25. </span><span
 class="csl-right-inline">Poirier, S., Coeuret, G., Champomier-Vergès,
