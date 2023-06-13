@@ -4,6 +4,7 @@ subtitle: ANR project
 layout: project
 image: img/redlosses_research.png
 start: 2018-01-01
+end: 2021-12-31
 category: National
 features:
     - label: stephane.chaillou[at]inrae.fr

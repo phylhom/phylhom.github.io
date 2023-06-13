@@ -5,6 +5,7 @@ subtitle: COST Action
 layout: project
 image: https://fermentedfoods.eu/wp-content/uploads/2022/05/pimento-logo-1.svg
 start: 2021-11-08
+end: ongoing
 category: Europe
 features:
     - label: marie-christine.champomier-verges[at]inrae.fr

@@ -7,6 +7,7 @@ hero_link_text: Apply now
 layout: project
 image: img/domino_eu_research.png
 start: 2023-03-01
+end: ongoing
 category: Europe
 features:
     - label: stephane.chaillou[at]inrae.fr
