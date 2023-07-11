@@ -1,15 +1,15 @@
 style: is-light
 height: is-small
 items:
-  - title: Engineer
-    subtitle: Molecular Microbial Ecology
+  - title: Design Engineer
+    subtitle: Microbial Ecology
     icon: fa-duotone fa-bacteria
     description: >
-      Contract duration: 48 months
+      Contract duration: 24 months
 
-      Start date: September 1st, 2023
+      Start date: December 1st, 2023
     call_to_action_name: Apply
-    call_to_action_link: /files/230404_Domino_IE_Job_offer_EV1.pdf
+    call_to_action_link: https://jobs.inrae.fr/en/ot-18524
 #  - title: Post Doctoral fellowship
 #    subtitle: meta-omics and biostatistics
 #    icon: fa-solid fa-dna
@@ -19,25 +19,25 @@ items:
 #      Start date: July 1st 2023
 #    call_to_action_name: Apply
 #    call_to_action_link: https://www.metasimfood.inrae.fr/sites/default/files/metasimfood/documents/INRAE-Postdoctoral-Offer-Synthetic-Ecology-2023_final.pdf
-  - title: Research technician
-    subtitle: molecular biologist
-    icon: fa-regular fa-flask
+  # - title: Research technician
+  #   subtitle: molecular biologist
+  #   icon: fa-regular fa-flask
+  #   description: >
+  #     Contract duration: 15 months
+  #
+  #     Start date: November 2, 2023
+  #   call_to_action_name: Apply
+  #   call_to_action_link: /files/Offre_emploi_CDD_TR_INRAe_Micalis_FME.pdf
+
+  - title: Assistant Engineer
+    subtitle: Microbiology
+    icon: fa-regular fa-bacteria
     description: >
-      Contract duration: 15 months
+      Contract duration: 18 months
 
-      Start date: November 2, 2023
+    Start date: October 1, 2023
     call_to_action_name: Apply
-    call_to_action_link: /files/Offre_emploi_CDD_TR_INRAe_Micalis_FME.pdf
-
-  - title: Apprentice
-    subtitle: bioinformatician
-    icon: fa-regular fa-laptop
-    description: >
-      Contract duration: 12 months
-
-      Start date: September 1, 2023
-    call_to_action_name: Apply
-    call_to_action_link: https://jobs.inrae.fr/ot-18257
+    call_to_action_link: https://jobs.inrae.fr/en/ot-18523
 
   - title: Internship
     subtitle: student
