@@ -30,12 +30,12 @@ items:
   #   call_to_action_link: /files/Offre_emploi_CDD_TR_INRAe_Micalis_FME.pdf
 
   - title: Assistant Engineer
-    subtitle: Microbiology
-    icon: fa-regular fa-bacteria
+    subtitle: Microbial Ecology
+    icon: fa-light fa-bacteria
     description: >
       Contract duration: 18 months
 
-    Start date: October 1, 2023
+      Start date: October 1, 2023
     call_to_action_name: Apply
     call_to_action_link: https://jobs.inrae.fr/en/ot-18523
 
