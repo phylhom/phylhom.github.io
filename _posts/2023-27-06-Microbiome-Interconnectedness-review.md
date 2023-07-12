@@ -11,7 +11,7 @@ published: true
 
 ## Exploring the Interconnected World of Microbiomes
 
-In our latest review[^1], we reveal the critical roles of microbiomes in maintaining ecosystem health and their extensive interconnectivity across different environments. These diverse microbial communities are exchanged constantly, affecting everything from climate regulation to human health.
+In our contribution to the last Microbiome Support CSA review, coordinated by A. sessitch and T. Kostic[^1], we reveal the critical roles of microbiomes in maintaining ecosystem health and their extensive interconnectivity across different environments. These diverse microbial communities are exchanged constantly, affecting everything from climate regulation to human health.
 
 While some transfer events may be harmful, such as the spread of pathogens, our study highlights the significant positive impacts of microbiome exchange. Transferred microbes can introduce novel functions beneficial for ecosystem adaptation and human health.
 
