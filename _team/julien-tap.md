@@ -42,8 +42,7 @@ Julien is currently a research scientist at INRAE [Micalis institute](https://ww
 ## Selected publications
 
 <div class="box" markdown="1">
-
-- Ladeira, Tap and Derrien. [Exploring *Bifidobacterium* species community and functional variations with human gut microbiome structure and health beyond infancy](https://oaepublish.com/mrr/article/view/5583) *Microbiome Res Rep* 2023;2:9
+- Tap *et al.* [Global branches and local states of the human gut microbiome define associations with environmental and intrinsic factors](https://www.nature.com/articles/s41467-023-38558-7). 2023. *Nature communications*
 - Tap *et al.* [The Human Gut Microbiota in all its States: From Disturbance to Resilience](https://linkinghub.elsevier.com/retrieve/pii/B9780128192658000395). Comprehensive Gut Microbiota, *Elsevier*, pp.161-178, 2022. 
 - Tap *et al.* [Diet and gut microbiome interactions of relevance for symptoms in irritable bowel syndrome](https://link.springer.com/article/10.1186/s40168-021-01018-9). 2021. *Microbiome*
 - Tap *et al.* [Identification of an intestinal microbiota signature associated with severity of irritable bowel syndrome](https://www.sciencedirect.com/science/article/pii/S0016508516351745). 2017. *Gastroenterology*
