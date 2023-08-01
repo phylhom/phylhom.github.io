@@ -10,46 +10,46 @@ sitemap:
   exclude: 'yes'
 ---
 
-*Last extraction 2023-07-01 00:46:49.036624*
+*Last extraction 2023-08-01 00:40:40.895432*
 
 <span class="csl-left-margin">1. </span><span
-class="csl-right-inline">Champomier-Vergès, M.-C. *et al.* [Le potentiel
-insoupçonné des aliments fermentés](https://hal.inrae.fr/hal-03958354).
-*Ressources, la revue INRAE* 44 (2023).</span>
-
-<span class="csl-left-margin">2. </span><span
-class="csl-right-inline">Ladeira, R., Tap, J. & Derrien, M. [Exploring
-Bifidobacterium species community and functional variations with human
-gut microbiome structure and health beyond
-infancy](https://doi.org/10.20517/mrr.2023.01). *Microbiome Research
-Reports* **2**, 9 (2023).</span>
-
-<span class="csl-left-margin">3. </span><span
 class="csl-right-inline">Ammoun, I. *et al.* [Lebanese fermented goat
 milk products: From tradition to
 meta-omics](https://doi.org/10.1016/j.foodres.2023.112762). *Food
 Research International* **168**, 112762 (2023).</span>
 
-<span class="csl-left-margin">4. </span><span
+<span class="csl-left-margin">2. </span><span
 class="csl-right-inline">Rodriguez, C. I. *et al.* [Curated and
 harmonized gut microbiome 16S <span class="nocase">rRNA</span> amplicon
 data from dietary fiber intervention studies in
 humans](https://doi.org/10.1038/s41597-023-02254-4). *Scientific Data*
 **10**, 346 (2023).</span>
 
-<span class="csl-left-margin">5. </span><span
+<span class="csl-left-margin">3. </span><span
 class="csl-right-inline">Tap, J. *et al.* [Global branches and local
 states of the human gut microbiome define associations with
 environmental and intrinsic
 factors](https://doi.org/10.1038/s41467-023-38558-7). *Nature
 Communications* **14**, 3310 (2023).</span>
 
+<span class="csl-left-margin">4. </span><span
+class="csl-right-inline">Sessitsch, A. *et al.* [Microbiome
+Interconnectedness throughout Environments with Major Consequences for
+Healthy People and a Healthy
+Planet](https://doi.org/10.1128/mmbr.00212-22). *Microbiology and
+Molecular Biology Reviews* **0**, e00212–22 (2023).</span>
+
+<span class="csl-left-margin">5. </span><span
+class="csl-right-inline">Champomier-Vergès, M.-C. *et al.* [Le potentiel
+insoupçonné des aliments fermentés](https://hal.inrae.fr/hal-03958354).
+*Ressources, la revue INRAE* 44 (2023).</span>
+
 <span class="csl-left-margin">6. </span><span
-class="csl-right-inline">Tap, J. *et al.* [Global branches and local
-states of the human gut microbiome define associations with
-environmental and intrinsic
-factors](https://doi.org/10.1038/s41467-023-38558-7). *Nature
-Communications* **14**, 3310 (2023).</span>
+class="csl-right-inline">Ladeira, R., Tap, J. & Derrien, M. [Exploring
+Bifidobacterium species community and functional variations with human
+gut microbiome structure and health beyond
+infancy](https://doi.org/10.20517/mrr.2023.01). *Microbiome Research
+Reports* **2**, 9 (2023).</span>
 
 <span class="csl-left-margin">7. </span><span
 class="csl-right-inline">Kothe, C. I., Mohellibi, N. & Renault, P.
@@ -377,38 +377,31 @@ macedonicus.](https://doi.org/10.1128/JB.00230-13) *Journal of
 bacteriology* **195**, 2612–2620 (2013).</span>
 
 <span class="csl-left-margin">54. </span><span
-class="csl-right-inline">Guilbaud, M., Zagorec, M., Chaillou, S. &
-Champomier-Vergès, M.-C. [Intraspecies diversity of Lactobacillus sakei
-response to oxidative stress and variability of strain performance in
-mixed strains challenges.](https://doi.org/10.1016/j.fm.2011.07.011)
-*Food microbiology* **29**, 197–204 (2012).</span>
-
-<span class="csl-left-margin">55. </span><span
 class="csl-right-inline">Lucquin, I., Zagorec, M., Champomier-Vergès, M.
 & Chaillou, S. [Fingerprint of lactic acid bacteria population in beef
 carpaccio is influenced by storage process and seasonal
 changes.](https://doi.org/10.1016/j.fm.2011.08.001) *Food microbiology*
 **29**, 187–196 (2012).</span>
 
-<span class="csl-left-margin">56. </span><span
+<span class="csl-left-margin">55. </span><span
 class="csl-right-inline">Meslier, V., Loux, V. & Renault, P. [Genome
 sequence of Leuconostoc pseudomesenteroides strain 4882, isolated from a
 dairy starter culture.](https://doi.org/10.1128/JB.01696-12) *Journal of
 bacteriology* **194**, 6637 (2012).</span>
 
-<span class="csl-left-margin">57. </span><span
+<span class="csl-left-margin">56. </span><span
 class="csl-right-inline">Chaillou, S. *et al.* [Intraspecies genomic
 diversity and natural population structure of the meat-borne lactic acid
 bacterium Lactobacillus sakei.](https://doi.org/10.1128/AEM.01721-08)
 *Applied and environmental microbiology* **75**, 970–980 (2009).</span>
 
-<span class="csl-left-margin">58. </span><span
+<span class="csl-left-margin">57. </span><span
 class="csl-right-inline">Chaillou, S. *et al.* [The complete genome
 sequence of the meat-borne lactic acid bacterium Lactobacillus sakei
 23K.](https://doi.org/10.1038/nbt1160) *Nature biotechnology* **23**,
 1527–1533 (2005).</span>
 
-<span class="csl-left-margin">59. </span><span
+<span class="csl-left-margin">58. </span><span
 class="csl-right-inline">Marceau, A., Zagorec, M., Chaillou, S., Méra,
 T. & Champomier-Vergès, M.-C. [Evidence for involvement of at least six
 proteins in adaptation of Lactobacillus sakei to cold temperatures and
@@ -416,13 +409,13 @@ addition of NaCl.](https://doi.org/10.1128/AEM.70.12.7260-7268.2004)
 *Applied and environmental microbiology* **70**, 7260–7268
 (2004).</span>
 
-<span class="csl-left-margin">60. </span><span
+<span class="csl-left-margin">59. </span><span
 class="csl-right-inline">Dudez, A.-M. *et al.* [Physical and genetic map
 of the Lactobacillus sakei 23K
 chromosome.](https://doi.org/10.1099/00221287-148-2-421) *Microbiology
 (Reading, England)* **148**, 421–431 (2002).</span>
 
-<span class="csl-left-margin">61. </span><span
+<span class="csl-left-margin">60. </span><span
 class="csl-right-inline">Champomier-Vergès, M. C., Chaillou, S., Cornet,
 M. & Zagorec, M. [Lactobacillus sakei: Recent developments and future
 prospects.](https://doi.org/10.1016/s0923-2508(01)01267-0) *Research in
