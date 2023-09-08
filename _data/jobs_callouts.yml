@@ -1,15 +1,15 @@
 style: is-light
 height: is-small
 items:
-  - title: Design Engineer
+  - title: Assistant Engineer
     subtitle: Microbial Ecology
     icon: fa-duotone fa-bacteria
     description: >
-      Contract duration: 24 months
+      Contract duration: 6 years
 
       Start date: December 1st, 2023
     call_to_action_name: Apply
-    call_to_action_link: https://jobs.inrae.fr/en/ot-18524
+    call_to_action_link: https://jobs.inrae.fr/en/ot-18979
 #  - title: Post Doctoral fellowship
 #    subtitle: meta-omics and biostatistics
 #    icon: fa-solid fa-dna
