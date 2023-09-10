@@ -4,7 +4,7 @@ subtitle : Internship student
 description: Master internship student
 layout: member
 image: "/img/ali-youncha.png"
-rank: 9
+rank: 10
 features:
   - label: ali.youncha[at]inrae.fr
     icon: fa-regular fa-envelope

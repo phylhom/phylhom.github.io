@@ -5,7 +5,7 @@ description: Master internship student
 #product_code: ABC124
 layout: member
 image: "/img/ines-hasniou.jpg"
-rank: 8
+rank: 10
 features:
     - label: ines.hasniou[at]inrae.fr
       icon: fa-regular fa-envelope
