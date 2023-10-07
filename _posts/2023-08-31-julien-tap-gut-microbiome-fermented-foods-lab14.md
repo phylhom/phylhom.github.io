@@ -1,27 +1,24 @@
 ---
 layout: post
-title:  "A Glimpse into LAB14: Insights on the Future of Lactic Acid Bacteria"
-date:   2022-08-31 16:50:07
+title:  "A Glimpse into LAB14: Insights on the Future of Lactic Acid Bacteria science"
+date:   2023-08-31 16:50:07
 categories: congress
-description: "Julien Tap talk at 14th Symposium of Lactic Acid Bacteria Egmong aan Zee"
+description: "Third scientific meeting of anr metasimfood project."
 image: '/img/LAB14.jpg'
-#hero_image: '/img/7975205041_2c198e09d9_k.jpg'
-#hero_darken: true
 published: true
+#canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
 ---
-
-**A Glimpse into LAB14**
 
 The 14th Symposium of Lactic Acid Bacteria (LAB14) in Egmond aan Zee, Netherlands, was a landmark event in the world of microbial ecology. 
 Renowned experts from across the globe congregated to discuss the latest advancements in the field.
 
 The symposium touched upon diverse topics, including:
 
-1) Microbial Communities
-2) Genetics and Genomics
-3) Fermentation and Metabolism, with an emphasis on the role of LABs in fermenting plant-based proteins
-4) Host-Microbe Interactions
-5 Bacteriophages and Antimicrobials
+1. Microbial Communities
+2. Genetics and Genomics
+3. Fermentation and Metabolism, with an emphasis on the role of LABs in fermenting plant-based proteins
+4. Host-Microbe Interactions
+5. Bacteriophages and Antimicrobials
 
 Among the speakers was [Julien](/team/julien-tap/), who delivered a keynote lecture titled '*Next-Gen Fermented Food: Harnessing Gut Microbiome Diversity and Functions*'. His presentation was a synthesis of recent research and insights into the dynamic realm of the gut microbiome.
 
@@ -48,4 +45,5 @@ For those who missed the symposium or wish to delve deeper, the slides from his 
 
 
 [^4]: Julien Tap. Next-Gen Fermented Food: Harnessing Gut Microbiome Diversity and Functions. 14th International Symposium on Lactic Acid Bacteria, Aug 2023, Egmond aan Zee, Netherlands.[hal-04195035](https://hal.inrae.fr/hal-04195035) 
+
 
