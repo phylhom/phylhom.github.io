@@ -2,10 +2,10 @@
 title: Domino
 subtitle: HE-RIA project
 #product_code: ABC123
-hero_link: /files/230404_Domino_IE_Job_offer_EV1.pdf
-hero_link_text: Apply now
+hero_link: https://www.domino-euproject.eu/
+hero_link_text: Website
 layout: project
-image: img/domino_eu_research.png
+image: img/eu_domino_logo.png
 start: 2023-03-01
 end: ongoing
 category: Europe
