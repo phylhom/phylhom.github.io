@@ -53,7 +53,7 @@ Under the coordination of the Micalis Institute at INRAe Jouy-en-Josas (coord.: 
 
 ### For more informations about the project
 
-- Domino web site (link to be released soon)
+- [Domino web site](https://www.domino-euproject.eu/)
 - #dominoHE on [SciFoodHealth Linkedin account](https://www.linkedin.com/posts/scifoodhealth_fermentedfoods-fermentation-horizoneu-activity-7047176403892514816-hrHX) managed Eufic partner.
 - INRAE press release [DOMINO : un projet de recherche européen sur le rôle de la diversité des microbiotes d'aliments fermentés sur la santé](https://www.inrae.fr/actualites/domino-projet-recherche-europeen-role-diversite-microbiotes-daliments-fermentes-sante)
 
