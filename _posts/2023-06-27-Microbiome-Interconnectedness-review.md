@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "our last review about the Interconnected World of Microbiomes"
+title:  "Exploring the Interconnected World of Microbiomes"
 date:   2023-06-27 18:30:00
 categories: publication
 description: "Microbiome Interconnectedness throughout Environments with Major Consequences for Healthy People and a Healthy Planet"
@@ -8,8 +8,6 @@ image: 'data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExIWF
 published: true
 #canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
 ---
-
-## Exploring the Interconnected World of Microbiomes
 
 In our contribution to the last Microbiome Support CSA review, coordinated by A. sessitch and T. Kostic[^1], we reveal the critical roles of microbiomes in maintaining ecosystem health and their extensive interconnectivity across different environments. These diverse microbial communities are exchanged constantly, affecting everything from climate regulation to human health.
 
