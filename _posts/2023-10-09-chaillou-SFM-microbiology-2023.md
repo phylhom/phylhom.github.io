@@ -10,7 +10,7 @@ published: true
 ---
 
 
-The 18th national congress for the French Microbiology Society (SFM) was held in Rennes the 4-6th October. Stéphane was welcome as a guest and gave an introduction conference in the session dedicated to “microbes and functional foods”.  He delivered a 25 min talk untitled ”Design of microbial solutions for sustainable and healthy fermented food: perspectives & challenges”.
+The 18th national congress for the French Microbiology Society (SFM) was held in Rennes the 4-6th October. [Stéphane](/team/stephane-chaillou/) was welcome as a guest and gave an introduction conference in the session dedicated to “microbes and functional foods”.  He delivered a 25 min talk untitled *”Design of microbial solutions for sustainable and healthy fermented food: perspectives & challenges”*.
 
 ![](/img/2023_news_sfm.png)
 
@@ -23,7 +23,7 @@ Key highlights from Stephane’s lecture included:
 4.	A challenge for implementing health benefits in the design 
 
 A specific focus was also given during the presentation to explain the framework of national and European projects running in this field.
-Stephane’s presentation can be downloaded [here](https://filesender.renater.fr/?s=download&token=f4cd21fc-17fd-418b-b7bb-48a7c7eea44a).
+Stephane’s presentation can be downloaded [here](https://filesender.renater.fr/download.php?token=f4cd21fc-17fd-418b-b7bb-48a7c7eea44a&files_ids=29993381).
 
 
 
