@@ -2,7 +2,7 @@
 layout: post
 title:  "COST PIMENTO 2022 workshop"
 date:   2022-10-28 10:50:07
-categories: workshop
+categories: meeting
 description: "FME director part of COST PIMENTO"
 image: '/img/pimento_logo.jfif'
 hero_image: '/img/7975205041_2c198e09d9_k.jpg'
