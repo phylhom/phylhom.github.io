@@ -4,7 +4,7 @@ subtitle: Microbial Ecology Engineer
 description: Design Engineer
 layout: member
 image: /img/alice_marant.jpg
-rank: 9
+rank: 10
 features:
     - label: alice.marant[at]inrae.fr
       icon: fa-regular fa-envelope
