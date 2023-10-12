@@ -47,24 +47,25 @@ show_sidebar: false
 {% endfor %}
 
 
+<!-- Button to show alumni -->
 
- <!-- ALUMNI -->
+    <center>
+      <button id="showAlumniBtn" class="button is-primary">Show Alumni</button>
+    </center>
 
-<div class="column is-12">
+
+
+
+<!-- ALUMNI -->
+<div class="column is-12 is-hidden" id="alumniSection">
   <h2 class="title is-2 has-text-centered">Alumni</h2>
-
-
-
 
   <div class="columns is-multiline">
     {% assign sorted_alumni = site.team | where:"type", "alumni" | sort:page.sort %}
     {% for people in sorted_alumni %}
     <div class="column is-3-desktop is-6-tablet">
-
       <a href="{{ people.url | relative_url }}">
-
         <div class="card shadow-hover">
-
           {% if people.image %}
           <div class="card-image">
             <figure class="image is-1by1 is-fullwidth">
@@ -72,23 +73,26 @@ show_sidebar: false
             </figure>
           </div>
           {% endif %}
-        <div class="card-content">
-
-          <p class="title is-4">{{ people.title }}</p>
-          <p class="subtitle is-4">{{ people.subtitle }}</p>
-          <!--<p class="title is-5 has-text-right">{{ people.rank }}</p>-->
-
+          <div class="card-content">
+            <p class="title is-4">{{ people.title }}</p>
+            <p class="subtitle is-4">{{ people.subtitle }}</p>
+          </div>
         </div>
-      </div>
-
-    </a>
+      </a>
+    </div>
+    {% endfor %}
   </div>
+</div>
 
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const btn = document.getElementById("showAlumniBtn");
+  const section = document.getElementById("alumniSection");
 
-  {% endfor %}
-
- </div>
-
-
+  btn.addEventListener("click", function() {
+    section.classList.toggle("is-hidden");
+  });
+});
+</script>
 
 </div>
