@@ -34,8 +34,8 @@ show_sidebar: false
         {% endif %}
         <div class="card-content">
 
-          <p class="title is-4">{{ people.title }}</p>
-          <p class="subtitle is-4">{{ people.subtitle }}</p>
+          <p class="title is-5">{{ people.title }}</p>
+          <p class="subtitle is-5">{{ people.subtitle }}</p>
           <!--<p class="title is-5 has-text-right">{{ people.rank }}</p>-->
 
         </div>
@@ -63,7 +63,7 @@ show_sidebar: false
   <div class="columns is-multiline">
     {% assign sorted_alumni = site.team | where:"type", "alumni" | sort:page.sort %}
     {% for people in sorted_alumni %}
-    <div class="column is-3-desktop is-6-tablet">
+    <div class="column is-3-desktop is-3-tablet">
       <a href="{{ people.url | relative_url }}">
         <div class="card shadow-hover">
           {% if people.image %}
@@ -74,8 +74,8 @@ show_sidebar: false
           </div>
           {% endif %}
           <div class="card-content">
-            <p class="title is-4">{{ people.title }}</p>
-            <p class="subtitle is-4">{{ people.subtitle }}</p>
+            <p class="title is-6">{{ people.title }}</p>
+            <p class="subtitle is-6">{{ people.subtitle }}</p>
           </div>
         </div>
       </a>
