@@ -4,6 +4,7 @@ subtitle: Internship student
 description: Master internship student
 #product_code: ABC124
 layout: member
+type: alumni
 image: "/img/ines-hasniou.jpg"
 rank: 10
 features:

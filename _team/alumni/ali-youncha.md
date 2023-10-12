@@ -3,6 +3,7 @@ title: Ali Youncha
 subtitle : Internship student
 description: Master internship student
 layout: member
+type: alumni
 image: "/img/ali-youncha.png"
 rank: 10
 features:
