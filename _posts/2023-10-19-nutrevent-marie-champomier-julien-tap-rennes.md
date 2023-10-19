@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Key Takeaways from NutrEvent 2023 Rennes Participation"
-date:   2023-10-19 12:50:07
+date:   2023-10-19 8:50:07
 categories: congress
 description: "Food Microbial Ecology Lab Update from NutrEvent"
 image: '/img/2023_NUTREVENT_banniere_LinkedIn_FR.jpg'
