@@ -22,7 +22,7 @@ The symposium touched upon diverse topics, including:
 
 Among the speakers was [Julien](/team/julien-tap/), who delivered a keynote lecture titled '*Next-Gen Fermented Food: Harnessing Gut Microbiome Diversity and Functions*'. His presentation was a synthesis of recent research and insights into the dynamic realm of the gut microbiome.
 
-![](/img/Julien_Tap_LAB_2023_Egmond_aan_Zee.jpg)
+![Julien Tap LAB14](/img/Julien_Tap_LAB_2023_Egmond_aan_Zee.jpg)
 
 Key highlights from Julien's lecture included:
 
