@@ -3,7 +3,7 @@ layout: post
 title:  "A Glimpse into LAB14: Insights on the Future of Lactic Acid Bacteria science"
 date:   2023-08-31 16:50:07
 categories: congress
-description: "Third scientific meeting of anr metasimfood project."
+description: "Julien Tap talk at LAB14"
 image: '/img/LAB14.jpg'
 published: true
 #canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
