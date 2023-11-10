@@ -4,6 +4,7 @@ subtitle: Research Scientist
 description: member card
 #product_code: ABC124
 layout: member
+type: alumni
 image: https://media-exp1.licdn.com/dms/image/C4D03AQH5dquo8PbZHw/profile-displayphoto-shrink_800_800/0/1626540214530?e=2147483647&v=beta&t=vnMjdASrWb7r8EMvqAk4yAh51lH4wXM6FNQnvUIliV4
 rank: 7
 features:
