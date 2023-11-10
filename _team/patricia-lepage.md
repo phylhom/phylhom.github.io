@@ -1,5 +1,5 @@
 ---
-title: Patricia lepage
+title: Patricia Lepage
 subtitle: Research Director Team leader
 description: member card
 #product_code: ABC124
