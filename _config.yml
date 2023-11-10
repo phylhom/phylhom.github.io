@@ -1,12 +1,12 @@
 # Site Settings
 lang: en
 title: Phylogeny and Physiology of the Human Microbiome
-tagline: PhylHom
-email: karine.le-roux@inrae.fr
+tagline: PhylHom Lab
+email: your-email@domain.com
 description: >
   Phylogeny and Physiology of the Human Microbiome INRAE Micalis website
 baseurl: ""
-url: "https://phylhom.github.io"
+url: ""
 permalink: pretty
 favicon: favicon.png
 # gh_sponsor: tapj
@@ -25,6 +25,7 @@ disqus:
   # shortname: my_disqus_shortname
   shortname:
 
+publisher: "PhylHom Lab"
 
 plugins:
   - jekyll-sitemap
@@ -33,6 +34,7 @@ plugins:
   - jekyll-seo-tag
   - kramdown-parser-gfm
   - jekyll-redirect-from
+  - jekyll-news-sitemap
 
 exclude:
   - Gemfile
@@ -80,6 +82,10 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+    permalink: /team/:path/
+  alumni:
+    output: true
+    permalink: /team/alumni/:path/
   projects:
     output: true
     layout: product
