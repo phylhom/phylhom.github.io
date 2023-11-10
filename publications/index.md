@@ -4,419 +4,145 @@ title: Publications
 layout: page
 #callouts: home_callouts
 hero_image: /img/FME_Banner_website_V3.png
-hero_darken: fasle
+hero_darken: false
 show_sidebar: false
 sitemap:
   exclude: 'yes'
 ---
 
-*Last extraction 2023-11-01 00:34:50.291603*
-
-<span class="csl-left-margin">1. </span><span
-class="csl-right-inline">Ammoun, I. *et al.* [Lebanese fermented goat
-milk products: From tradition to
-meta-omics](https://doi.org/10.1016/j.foodres.2023.112762). *Food
-Research International* **168**, 112762 (2023).</span>
-
-<span class="csl-left-margin">2. </span><span
-class="csl-right-inline">Rodriguez, C. I. *et al.* [Curated and
-harmonized gut microbiome 16S <span class="nocase">rRNA</span> amplicon
-data from dietary fiber intervention studies in
-humans](https://doi.org/10.1038/s41597-023-02254-4). *Scientific Data*
-**10**, 346 (2023).</span>
-
-<span class="csl-left-margin">3. </span><span
-class="csl-right-inline">Tap, J. *et al.* [Global branches and local
-states of the human gut microbiome define associations with
-environmental and intrinsic
-factors](https://doi.org/10.1038/s41467-023-38558-7). *Nature
-Communications* **14**, 3310 (2023).</span>
-
-<span class="csl-left-margin">4. </span><span
-class="csl-right-inline">Sessitsch, A. *et al.* [Microbiome
-Interconnectedness throughout Environments with Major Consequences for
-Healthy People and a Healthy
-Planet](https://doi.org/10.1128/mmbr.00212-22). *Microbiology and
-Molecular Biology Reviews* **0**, e00212–22 (2023).</span>
-
-<span class="csl-left-margin">5. </span><span
-class="csl-right-inline">Champomier-Vergès, M.-C. *et al.* [Le potentiel
-insoupçonné des aliments fermentés](https://hal.inrae.fr/hal-03958354).
-*Ressources, la revue INRAE* 44 (2023).</span>
-
-<span class="csl-left-margin">6. </span><span
-class="csl-right-inline">Ladeira, R., Tap, J. & Derrien, M. [Exploring
-Bifidobacterium species community and functional variations with human
-gut microbiome structure and health beyond
-infancy](https://doi.org/10.20517/mrr.2023.01). *Microbiome Research
-Reports* **2**, 9 (2023).</span>
-
-<span class="csl-left-margin">7. </span><span
-class="csl-right-inline">Poirier, S. *et al.* [Holistic integration of
-omics data reveals the drivers that shape the ecology of microbial meat
-spoilage scenarios](https://doi.org/10.3389/fmicb.2023.1286661).
-*Frontiers in Microbiology* **14**, 1286661 (2023).</span>
-
-<span class="csl-left-margin">8. </span><span
-class="csl-right-inline">Kothe, C. I., Mohellibi, N. & Renault, P.
-[Revealing the microbial heritage of traditional Brazilian cheeses
-through metagenomics](https://doi.org/10.1016/j.foodres.2022.111265).
-*Food Research International (Ottawa, Ont.)* **157**, 111265
-(2022).</span>
-
-<span class="csl-left-margin">9. </span><span
-class="csl-right-inline">Claus, P. *et al.* [Discrimination of spoiled
-beef and salmon stored under different atmospheres by an optoelectronic
-nose. Comparison with GC-MS
-measurements](https://doi.org/10.1016/j.fufo.2021.100106). *Future
-Foods* **5**, 100106 (2022).</span>
-
-<span class="csl-left-margin">10. </span><span
-class="csl-right-inline">Manthou, E., Coeuret, G., Chaillou, S. &
-Nychas, G.-J. E. [Metagenetic characterization of bacterial communities
-associated with ready-to-eat leafy vegetables and study of temperature
-effect on their composition during
-storage](https://doi.org/10.1016/j.foodres.2022.111563). *Food Research
-International (Ottawa, Ont.)* **158**, 111563 (2022).</span>
-
-<span class="csl-left-margin">11. </span><span
-class="csl-right-inline">Borges, F. *et al.* [Contribution of omics to
-biopreservation: Toward food microbiome
-engineering](https://doi.org/10.3389/fmicb.2022.951182). *Frontiers in
-Microbiology* **13**, 951182 (2022).</span>
-
-<span class="csl-left-margin">12. </span><span
-class="csl-right-inline">Rul, F. *et al.* [Underlying evidence for the
-health benefits of fermented foods in
-humans](https://doi.org/10.1039/D1FO03989J). *Food & Function* **13**,
-4804–4824 (2022).</span>
-
-<span class="csl-left-margin">13. </span><span
-class="csl-right-inline">Lange, L. *et al.* [Microbiome ethics, guiding
-principles for microbiome research, use and knowledge
-management](https://doi.org/10.1186/s40793-022-00444-y). *Environmental
-Microbiome* **17**, 50 (2022).</span>
-
-<span class="csl-left-margin">14. </span><span
-class="csl-right-inline">Cernava, T. *et al.* [Metadata
-harmonization–Standards are the key for a better usage of omics data for
-integrative microbiome
-analysis](https://doi.org/10.1186/s40793-022-00425-1). *Environmental
-Microbiome* **17**, 33 (2022).</span>
-
-<span class="csl-left-margin">15. </span><span
-class="csl-right-inline">Grassotti, T. T. *et al.* [Fecal bacterial
-communities of wild black capuchin monkeys (Sapajus nigritus) from the
-Atlantic Forest biome in Southern Brazil are divergent from those of
-other non-human primates](https://doi.org/10.1016/j.crmicr.2021.100048).
-*Current Research in Microbial Sciences* **2**, 100048 (2021).</span>
-
-<span class="csl-left-margin">16. </span><span
-class="csl-right-inline">Kothe, C. I., Bolotin, A., Kraïem, B.-F.,
-Dridi, B. & Renault, P. [Unraveling the world of halophilic and
-halotolerant bacteria in cheese by combining cultural, genomic and
-metagenomic
-approaches.](https://doi.org/10.1016/j.ijfoodmicro.2021.109312)
-*International journal of food microbiology* **358**, 109312
-(2021).</span>
-
-<span class="csl-left-margin">17. </span><span
-class="csl-right-inline">Luong, N.-D. M. *et al.* [Application of a
-path-modelling approach for deciphering causality relationships between
-microbiota, volatile organic compounds and off-odour profiles during
-meat spoilage](https://doi.org/10.1016/j.ijfoodmicro.2021.109208).
-*International Journal of Food Microbiology* **348**, 109208
-(2021).</span>
-
-<span class="csl-left-margin">18. </span><span
-class="csl-right-inline">Manthou, E., Coeuret, G., Chaillou, S. &
-Nychas, G.-J. E. [Evolution of fungal community associated with
-ready-to-eat pineapple during storage under different temperature
-conditions](https://doi.org/10.1016/j.fm.2021.103736). *Food
-Microbiology* **97**, 103736 (2021).</span>
-
-<span class="csl-left-margin">19. </span><span
-class="csl-right-inline">Verplaetse, E. *et al.* [Heme Uptake in
-Lactobacillus sakei Evidenced by a New Energy Coupling Factor (ECF)-Like
-Transport System.](https://doi.org/10.1128/AEM.02847-19) *Applied and
-environmental microbiology* **86**, (2020).</span>
-
-<span class="csl-left-margin">20. </span><span
-class="csl-right-inline">Zagdoun, M., Coeuret, G., N’Dione, M.,
-Champomier-Vergès, M.-C. & Chaillou, S. [Large microbiota survey reveals
-how the microbial ecology of cooked ham is shaped by different
-processing steps.](https://doi.org/10.1016/j.fm.2020.103547) *Food
-microbiology* **91**, 103547 (2020).</span>
-
-<span class="csl-left-margin">21. </span><span
-class="csl-right-inline">Poirier, S. *et al.* [Large-scale multivariate
-dataset on the characterization of microbiota diversity, microbial
-growth dynamics, metabolic spoilage volatilome and sensorial profiles of
-two industrially produced meat products subjected to changes in lactate
-concentration and packaging
-atmosphere.](https://doi.org/10.1016/j.dib.2020.105453) *Data in brief*
-**30**, 105453 (2020).</span>
-
-<span class="csl-left-margin">22. </span><span
-class="csl-right-inline">Terán, L. C. *et al.* [Nucleotide sequence and
-analysis of <span class="nocase">pRC12</span> and <span
-class="nocase">pRC18</span>, two theta-replicating plasmids harbored by
-Lactobacillus curvatus CRL
-705.](https://doi.org/10.1371/journal.pone.0230857) *PloS one* **15**,
-e0230857 (2020).</span>
-
-<span class="csl-left-margin">23. </span><span
-class="csl-right-inline">Papadimitriou, K., Kline, K., Renault, P. &
-Kok, J. [Editorial: Omics and Systems Approaches to Study the Biology
-and Applications of Lactic Acid
-Bacteria.](https://doi.org/10.3389/fmicb.2020.01786) *Frontiers in
-microbiology* **11**, 1786 (2020).</span>
-
-<span class="csl-left-margin">24. </span><span
-class="csl-right-inline">Sanhoun, A. R. *et al.* [Traditional milk
-transformation schemes in Côte d’Ivoire and their impact on the
-prevalence of Streptococcus bovis complex bacteria in dairy
-products.](https://doi.org/10.1371/journal.pone.0233132) *PloS one*
-**15**, e0233132 (2020).</span>
-
-<span class="csl-left-margin">25. </span><span
-class="csl-right-inline">Aka, S. *et al.* [Characterization of lactic
-acid bacteria isolated from a traditional Ivoirian beer process to
-develop starter cultures for safe sorghum-based
-beverages.](https://doi.org/10.1016/j.ijfoodmicro.2020.108547)
-*International journal of food microbiology* **322**, 108547
-(2020).</span>
-
-<span class="csl-left-margin">26. </span><span
-class="csl-right-inline">Kothe, C. I., Delbarre-Ladrat, C., Renault, P.
-& Passerini, D. [Draft-genome sequence data and phylogenomic comparison
-of two marine-sourced bacterial strains Pseudoalteromonas sp. MIP2626
-and Psychrobacter sp. BI730.](https://doi.org/10.1016/j.dib.2020.105898)
-*Data in brief* **31**, 105898 (2020).</span>
-
-<span class="csl-left-margin">27. </span><span
-class="csl-right-inline">Dugat-Bony, E. *et al.* [Viral metagenomic
-analysis of the cheese surface: A comparative study of rapid procedures
-for extracting viral
-particles](https://doi.org/10.1016/j.fm.2019.103278). *Food
-Microbiology* **85**, 103278 (2020).</span>
-
-<span class="csl-left-margin">28. </span><span
-class="csl-right-inline">Gboko, K. D. T. *et al.* [Risk factors for the
-carriage of Streptococcus infantarius subspecies infantarius isolated
-from African fermented dairy
-products.](https://doi.org/10.1371/journal.pone.0225452) *PloS one*
-**14**, e0225452 (2019).</span>
-
-<span class="csl-left-margin">29. </span><span
-class="csl-right-inline">Terán, L. C. *et al.* [Phylogenomic Analysis of
-Lactobacillus curvatus Reveals Two Lineages Distinguished by Genes for
-Fermenting Plant-Derived
-Carbohydrates.](https://doi.org/10.1093/gbe/evy106) *Genome biology and
-evolution* **10**, 1516–1525 (2018).</span>
-
-<span class="csl-left-margin">30. </span><span
-class="csl-right-inline">Couvigny, B. *et al.* [Identification of New
-Factors Modulating Adhesion Abilities of the Pioneer Commensal Bacterium
-Streptococcus salivarius.](https://doi.org/10.3389/fmicb.2018.00273)
-*Frontiers in microbiology* **9**, 273 (2018).</span>
-
-<span class="csl-left-margin">31. </span><span
-class="csl-right-inline">Isenring, J. *et al.* [Streptococcus
-gallolyticus subsp. Gallolyticus endocarditis isolate interferes with
-coagulation and activates the contact
-system.](https://doi.org/10.1080/21505594.2017.1393600) *Virulence*
-**9**, 248–261 (2018).</span>
-
-<span class="csl-left-margin">32. </span><span
-class="csl-right-inline">Kaindi, D. W. M. *et al.* [Colorectal
-cancer-associated Streptococcus infantarius subsp. Infantarius differ
-from a major dairy lineage providing evidence for pathogenic, pathobiont
-and food-grade lineages.](https://doi.org/10.1038/s41598-018-27383-4)
-*Scientific reports* **8**, 9181 (2018).</span>
-
-<span class="csl-left-margin">33. </span><span
-class="csl-right-inline">Kaindi, D. W. M. *et al.* [Investigating the
-association between African spontaneously fermented dairy products,
-faecal carriage of Streptococcus infantarius subsp. Infantarius and
-colorectal adenocarcinoma in
-Kenya.](https://doi.org/10.1016/j.actatropica.2017.10.018) *Acta
-tropica* **178**, 10–18 (2018).</span>
-
-<span class="csl-left-margin">34. </span><span
-class="csl-right-inline">Jans, C. *et al.* [African fermented dairy
-products - Overview of predominant technologically important
-microorganisms focusing on African Streptococcus infantarius variants
-and potential future applications for enhanced food safety and
-security.](https://doi.org/10.1016/j.ijfoodmicro.2017.03.012)
-*International journal of food microbiology* **250**, 27–36
-(2017).</span>
-
-<span class="csl-left-margin">35. </span><span
-class="csl-right-inline">Delorme, C. *et al.* [Study of Streptococcus
-thermophilus population on a world-wide and historical collection by a
-new MLST scheme.](https://doi.org/10.1016/j.ijfoodmicro.2016.11.016)
-*International journal of food microbiology* **242**, 70–81
-(2017).</span>
-
-<span class="csl-left-margin">36. </span><span
-class="csl-right-inline">Couvigny, B. *et al.* [Three glycosylated
-serine-rich repeat proteins play a pivotal role in adhesion and
-colonization of the pioneer commensal bacterium, Streptococcus
-salivarius.](https://doi.org/10.1111/1462-2920.13853) *Environmental
-microbiology* **19**, 3579–3594 (2017).</span>
-
-<span class="csl-left-margin">37. </span><span
-class="csl-right-inline">Fougy, L. *et al.* [Reducing Salt in Raw Pork
-Sausages Increases Spoilage and Correlates with Reduced Bacterial
-Diversity.](https://doi.org/10.1128/AEM.00323-16) *Applied and
-environmental microbiology* **82**, 3928–3939 (2016).</span>
-
-<span class="csl-left-margin">38. </span><span
-class="csl-right-inline">Papadimitriou, K., Mavrogonatou, E., Bolotin,
-A., Tsakalidou, E. & Renault, P. [Whole-Genome Sequence of the Cheese
-Isolate Streptococcus macedonicus
-679.](https://doi.org/10.1128/genomeA.01025-16) *Genome announcements*
-**4**, (2016).</span>
-
-<span class="csl-left-margin">39. </span><span
-class="csl-right-inline">Chaillou, S. *et al.* [Origin and ecological
-selection of core and food-specific bacterial communities associated
-with meat and seafood spoilage.](https://doi.org/10.1038/ismej.2014.202)
-*The ISME journal* **9**, 1105–1118 (2015).</span>
-
-<span class="csl-left-margin">40. </span><span
-class="csl-right-inline">Delorme, C., Abraham, A.-L., Renault, P. &
-Guédon, E. [Genomics of Streptococcus salivarius, a major human
-commensal.](https://doi.org/10.1016/j.meegid.2014.10.001) *Infection,
-genetics and evolution : journal of molecular epidemiology and
-evolutionary genetics in infectious diseases* **33**, 381–392
-(2015).</span>
-
-<span class="csl-left-margin">41. </span><span
-class="csl-right-inline">Couvigny, B. *et al.* [Streptococcus
-thermophilus Biofilm Formation: A Remnant Trait of Ancestral Commensal
-Life?](https://doi.org/10.1371/journal.pone.0128099) *PloS one* **10**,
-e0128099 (2015).</span>
-
-<span class="csl-left-margin">42. </span><span
-class="csl-right-inline">Couvigny, B. *et al.* [Commensal Streptococcus
-salivarius Modulates PPARγ Transcriptional Activity in Human Intestinal
-Epithelial Cells.](https://doi.org/10.1371/journal.pone.0125371) *PloS
-one* **10**, e0125371 (2015).</span>
-
-<span class="csl-left-margin">43. </span><span
-class="csl-right-inline">Papadimitriou, K. *et al.* [Acquisition through
-horizontal gene transfer of plasmid <span class="nocase">pSMA198</span>
-by Streptococcus macedonicus ACA-DC 198 points towards the dairy origin
-of the species.](https://doi.org/10.1371/journal.pone.0116337) *PloS
-one* **10**, e0116337 (2015).</span>
-
-<span class="csl-left-margin">44. </span><span
-class="csl-right-inline">Chaillou, S. *et al.* [Quantification and
-efficiency of Lactobacillus sakei strain mixtures used as protective
-cultures in ground beef.](https://doi.org/10.1016/j.meatsci.2013.08.009)
-*Meat science* **97**, 332–338 (2014).</span>
-
-<span class="csl-left-margin">45. </span><span
-class="csl-right-inline">Nielsen, H. B. *et al.* [Identification and
-assembly of genomes and genetic elements in complex metagenomic samples
-without using reference genomes.](https://doi.org/10.1038/nbt.2939)
-*Nature biotechnology* **32**, 822–828 (2014).</span>
-
-<span class="csl-left-margin">46. </span><span
-class="csl-right-inline">Cheeseman, K. *et al.* [Multiple recent
-horizontal transfers of a large genomic region in cheese making
-fungi.](https://doi.org/10.1038/ncomms3876) *Nature communications*
-**5**, 2876 (2014).</span>
-
-<span class="csl-left-margin">47. </span><span
-class="csl-right-inline">Kaci, G. *et al.* [Anti-inflammatory properties
-of Streptococcus salivarius, a commensal bacterium of the oral cavity
-and digestive tract.](https://doi.org/10.1128/AEM.03133-13) *Applied and
-environmental microbiology* **80**, 928–934 (2014).</span>
-
-<span class="csl-left-margin">48. </span><span
-class="csl-right-inline">Ceuppens, S. *et al.* [Molecular Methods in
-Food Safety Microbiology: Interpretation and Implications of Nucleic
-Acid Detection.](https://doi.org/10.1111/1541-4337.12072) *Comprehensive
-reviews in food science and food safety* **13**, 551–577 (2014).</span>
-
-<span class="csl-left-margin">49. </span><span
-class="csl-right-inline">Almeida, M. *et al.* [Construction of a dairy
-microbial genome catalog opens new perspectives for the metagenomic
-analysis of dairy fermented
-products.](https://doi.org/10.1186/1471-2164-15-1101) *BMC genomics*
-**15**, 1101 (2014).</span>
-
-<span class="csl-left-margin">50. </span><span
-class="csl-right-inline">Papadimitriou, K. *et al.* [Comparative
-genomics of the dairy isolate Streptococcus macedonicus ACA-DC 198
-against related members of the Streptococcus bovis/Streptococcus equinus
-complex.](https://doi.org/10.1186/1471-2164-15-272) *BMC genomics*
-**15**, 272 (2014).</span>
-
-<span class="csl-left-margin">51. </span><span
-class="csl-right-inline">Chaillou, S., Lucquin, I., Najjari, A.,
-Zagorec, M. & Champomier-Vergès, M.-C. [Population genetics of
-Lactobacillus sakei reveals three lineages with distinct evolutionary
-histories.](https://doi.org/10.1371/journal.pone.0073253) *PloS one*
-**8**, e73253 (2013).</span>
-
-<span class="csl-left-margin">52. </span><span
-class="csl-right-inline">Cotillard, A. *et al.* [Dietary intervention
-impact on gut microbial gene
-richness.](https://doi.org/10.1038/nature12480) *Nature* **500**,
-585–588 (2013).</span>
-
-<span class="csl-left-margin">53. </span><span
-class="csl-right-inline">Le Chatelier, E. *et al.* [Richness of human
-gut microbiome correlates with metabolic
-markers.](https://doi.org/10.1038/nature12506) *Nature* **500**, 541–546
-(2013).</span>
-
-<span class="csl-left-margin">54. </span><span
-class="csl-right-inline">Morrison, D. A., Guédon, E. & Renault, P.
-[Competence for natural genetic transformation in the Streptococcus
-bovis group streptococci S. Infantarius and S.
-macedonicus.](https://doi.org/10.1128/JB.00230-13) *Journal of
-bacteriology* **195**, 2612–2620 (2013).</span>
-
-<span class="csl-left-margin">55. </span><span
-class="csl-right-inline">Lucquin, I., Zagorec, M., Champomier-Vergès, M.
-& Chaillou, S. [Fingerprint of lactic acid bacteria population in beef
-carpaccio is influenced by storage process and seasonal
-changes.](https://doi.org/10.1016/j.fm.2011.08.001) *Food microbiology*
-**29**, 187–196 (2012).</span>
-
-<span class="csl-left-margin">56. </span><span
-class="csl-right-inline">Meslier, V., Loux, V. & Renault, P. [Genome
-sequence of Leuconostoc pseudomesenteroides strain 4882, isolated from a
-dairy starter culture.](https://doi.org/10.1128/JB.01696-12) *Journal of
-bacteriology* **194**, 6637 (2012).</span>
-
-<span class="csl-left-margin">57. </span><span
-class="csl-right-inline">Chaillou, S. *et al.* [The complete genome
-sequence of the meat-borne lactic acid bacterium Lactobacillus sakei
-23K.](https://doi.org/10.1038/nbt1160) *Nature biotechnology* **23**,
-1527–1533 (2005).</span>
-
-<span class="csl-left-margin">58. </span><span
-class="csl-right-inline">Marceau, A., Zagorec, M., Chaillou, S., Méra,
-T. & Champomier-Vergès, M.-C. [Evidence for involvement of at least six
-proteins in adaptation of Lactobacillus sakei to cold temperatures and
-addition of NaCl.](https://doi.org/10.1128/AEM.70.12.7260-7268.2004)
-*Applied and environmental microbiology* **70**, 7260–7268
-(2004).</span>
-
-<span class="csl-left-margin">59. </span><span
-class="csl-right-inline">Dudez, A.-M. *et al.* [Physical and genetic map
-of the Lactobacillus sakei 23K
-chromosome.](https://doi.org/10.1099/00221287-148-2-421) *Microbiology
-(Reading, England)* **148**, 421–431 (2002).</span>
-
-<span class="csl-left-margin">60. </span><span
-class="csl-right-inline">Champomier-Vergès, M. C., Chaillou, S., Cornet,
-M. & Zagorec, M. [Lactobacillus sakei: Recent developments and future
-prospects.](https://doi.org/10.1016/s0923-2508(01)01267-0) *Research in
-microbiology* **152**, 839–848 (2001).</span>
+             
+<h3>PUBLICATIONS 2022</h3>
+<p>Vallet N, Le Grand S, Bondeelle L, Hoareau B, Corneau A, Bouteiller D, Tournier S, Lew-Derivry L, Bohineust A, Tourret M, Gibert D, Mayeur E, Itzykson RA, Pacchiardi K, Ingram B, Cassonnet S, <strong>Lepage P</strong>, Peffault de Latour R, Socie G, Bergeron A, Michonneau D. <a href="https://pubmed.ncbi.nlm.nih.gov/35984904/" target="_blank">Azithromycin promotes relapse by disrupting immune and metabolic networks after allogeneic stem cell transplantation.</a> Blood. 2022 Aug 19:blood.2022016926. doi: 10.1182/blood.2022016926. Epub ahead of print. PMID: 35984904.</p>
+<p>Toubon G, Butel MJ, Rozé JC, <strong>Lepage P</strong>, Delannoy J, Ancel PY, Charles MA, Aires J; EPIFLORE Study Group. <a href="https://pubmed.ncbi.nlm.nih.gov/35935237/" target="_blank">Very Preterm Children Gut Microbiota Comparison at the Neonatal Period of 1 Month and 3.5 Years of Life.</a> Front Microbiol. 2022 Jul 22;13:919317. doi: 10.3389/fmicb.2022.919317. PMID: 35935237; PMCID: PMC9354809.</p>
+<p>Couturier J, <strong>Lepage P</strong>, Jolivet S, Delannoy J, Mesa V, Ancel PY, Rozé JC, Butel MJ, Barbut F, Aires J. <a href="https://pubmed.ncbi.nlm.nih.gov/35873148/" target="_blank">Gut Microbiota Diversity of Preterm Neonates Is Associated With <em>Clostridioides Difficile</em> Colonization</a>. Front Cell Infect Microbiol. 2022 Jul 6;12:907323. doi: 10.3389/fcimb.2022.907323. PMID: 35873148; PMCID: PMC9296818.</p>
+<p><strong>Ilhan ZE</strong>, Brochard V, Lapaque N, Auvin S, <strong>Lepage P</strong>. <a href="https://pubmed.ncbi.nlm.nih.gov/35183703/" target="_blank">Exposure to anti-seizure medications impact growth of gut bacterial species and subsequent host response.</a> Neurobiol Dis. 2022 Jun 1;167:105664. doi: 10.1016/j.nbd.2022.105664. Epub 2022 Feb 17. PMID: 35183703.</p>
+<p>Zouiouich S, Mariadassou M, Rué O, Vogtmann E, Huybrechts I, Severi G, Boutron-Ruault MC, Senore C, Naccarati A, Mengozzi G, Kozlakidis Z, Jenab M, Sinha R, Gunter MJ, <strong>Leclerc M</strong>. <a href="https://pubmed.ncbi.nlm.nih.gov/34782392/" target="_blank">Comparison of Fecal Sample Collection Methods for Microbial Analysis Embedded within Colorectal Cancer Screening Programs.</a> Cancer Epidemiol Biomarkers Prev. 2022 Feb;31(2):305-314. doi: 10.1158/1055-9965.EPI-21-0188. Epub 2021 Nov 15. PMID: 34782392.</p><h3>PUBLICATIONS 2021</h3>
+<p><strong>Leclerc M</strong>, Bedu-Ferrari C, Etienne-Mesmin L, Mariadassou M, Lebreuilly L, Tran SL, <strong>Brazeau L</strong>, Mayeur C, Delmas J, Rué O, Denis S, Blanquet-Diot S, Ramarao N. <a href="https://pubmed.ncbi.nlm.nih.gov/34519530/" target="_blank">Nitric Oxide Impacts Human Gut Microbiota Diversity and Functionalities.</a> mSystems. 2021 Oct 26;6(5):e0055821. doi: 10.1128/mSystems.00558-21. Epub 2021 Sep 14. PMID: 34519530; PMCID: PMC8547463.</p>
+<p>Colnet B, Sieber CMK, Perraudeau F, <strong>Leclerc M</strong>. <a href="https://pubmed.ncbi.nlm.nih.gov/34690938/" target="_blank">FiberGrowth Pipeline: A Framework Toward Predicting Fiber-Specific Growth From Human Gut Bacteroidetes Genomes</a>. Front Microbiol. 2021 Oct 6;12:632567. doi: 10.3389/fmicb.2021.632567. PMID: 34690938; PMCID: PMC8527192.</p>
+<p>Mondot S, Poirier P, Abou-Bacar A, Greigert V, Brunet J, Nourrisson C, Randrianarivelojosia M, Razafindrakoto JL, Morel E, Rakotomalala RS, <strong>Leclerc M</strong>, <strong>Le Roux K</strong>, <strong>Monot C</strong>, <strong>Lepage P</strong>, Candolfi E. <a href="https://pubmed.ncbi.nlm.nih.gov/34480059/" target="_blank">Parasites and diet as main drivers of the Malagasy gut microbiome richness and function.</a> Sci Rep. 2021 Sep 3;11(1):17630. doi: 10.1038/s41598-021-96967-4. PMID: 34480059; PMCID: PMC8417078.</p>
+<p><strong>Clauss M</strong>, Gérard P, Mosca A, <strong>Leclerc M</strong>. <a href="https://pubmed.ncbi.nlm.nih.gov/34179053/" target="_blank">Interplay Between Exercise and Gut Microbiome in the Context of Human Health and Performance.</a> Front Nutr. 2021 Jun 10;8:637010. doi: 10.3389/fnut.2021.637010. PMID: 34179053; PMCID: PMC8222532.</p>
+<p>Sterlin D, Larsen M, Fadlallah J, Parizot C, Vignes M, Autaa G, Dorgham K, Juste C, <strong>Lepage P</strong>, Aboab J, Vicart S, Maillart E, Gout O, Lubetzki C, Deschamps R, Papeix C, Gorochov G. <a href="https://pubmed.ncbi.nlm.nih.gov/33975914/" target="_blank">Perturbed Microbiota/Immune Homeostasis in Multiple Sclerosis.</a> Neurol Neuroimmunol Neuroinflamm. 2021 May 11;8(4):e997. doi: 10.1212/NXI.0000000000000997. PMID: 33975914; PMCID: PMC8114833.</p>
+<p>Berland M, Cadiou J, Levenez F, Galleron N, Quinquis B, Thirion F, Gauthier F, Le Chatelier E, Plaza Oñate F, Schwintner C, Rabot S, <strong>Lepage P</strong>, Ehrlich D, Doré J, Juste C. <a href="https://pubmed.ncbi.nlm.nih.gov/33623056/" target="_blank">High engraftment capacity of frozen ready-to-use human fecal microbiota transplants assessed in germ-free mice.</a> Sci Rep. 2021 Feb 23;11(1):4365. doi: 10.1038/s41598-021-83638-7. PMID: 33623056; PMCID: PMC7902644.</p><h3>PUBLICATIONS 2020</h3>
+<p>Hueso T, Ekpe K, Mayeur C, Gatse A, Joncquel-Chevallier Curt M, Gricourt G, Rodriguez C, Burdet C, Ulmann G, Neut C, Amini SE, <strong>Lepage P</strong>, Raynard B, Willekens C, Micol JB, De Botton S, Yakoub-Agha I, Gottrand F, Desseyn JL, Thomas M, Woerther PL, Seguy D. <a href="https://pubmed.ncbi.nlm.nih.gov/32893715/" target="_blank">Impact and consequences of intensive chemotherapy on intestinal barrier and microbiota in acute myeloid leukemia: the role of mucosal strengthening</a>. Gut Microbes. 2020 Nov 9;12(1):1800897. doi: 10.1080/19490976.2020.1800897. PMID: 32893715; PMCID: PMC7524297.</p>
+<p>Tauzin AS, Pereira MR, Van Vliet LD, Colin PY, Laville E, Esque J, Laguerre S, Henrissat B, Terrapon N, Lombard V, <strong>Leclerc M</strong>, Doré J, Hollfelder F, Potocki-Veronese G. <a href="https://pubmed.ncbi.nlm.nih.gov/33004077/" target="_blank">Investigating host-microbiome interactions by droplet based microfluidics</a>. Microbiome. 2020 Oct 1;8(1):141. doi: 10.1186/s40168-020-00911-z. PMID: 33004077; PMCID: PMC7531118.</p>
+<p>Rozé JC, Ancel PY, Marchand-Martin L, Rousseau C, Montassier E, <strong>Monot C</strong>, <strong>Le Roux K</strong>, Butin M, Resche-Rigon M, Aires J, Neu J, <strong>Lepage P</strong>, Butel MJ; EPIFLORE Study Group. <a href="https://pubmed.ncbi.nlm.nih.gov/32965499/" target="_blank">Assessment of Neonatal Intensive Care Unit Practices and Preterm Newborn Gut Microbiota and 2-Year Neurodevelopmental Outcomes</a>. JAMA Netw Open. 2020 Sep 1;3(9):e2018119. doi: 10.1001/jamanetworkopen.2020.18119. PMID: 32965499; PMCID: PMC7512059.</p>
+<p>Roberti MP, Yonekura S, Duong CPM, Picard M, Ferrere G, Tidjani Alou M, Rauber C, Iebba V, Lehmann CHK, Amon L, Dudziak D, Derosa L, Routy B, Flament C, Richard C, Daillère R, Fluckiger A, Van Seuningen I, Chamaillard M, Vincent A, Kourula S, Opolon P, Ly P, Pizzato E, Becharef S, Paillet J, Klein C, Marliot F, Pietrantonio F, Benoist S, Scoazec JY, Dartigues P, Hollebecque A, Malka D, Pagès F, Galon J, Gomperts Boneca I, <strong>Lepage P</strong>, Ryffel B, Raoult D, Eggermont A, Vanden Berghe T, Ghiringhelli F, Vandenabeele P, Kroemer G, Zitvogel L. <a href="https://pubmed.ncbi.nlm.nih.gov/32451498" target="_blank">Chemotherapy-induced ileal crypt apoptosis and the ileal microbiome shape immunosurveillance and prognosis of proximal colon cancer</a>. Nat Med. 2020 Jun;26(6):919-931. doi: 10.1038/s41591-020-0882-8. Epub 2020 May 25. PMID: 32451498.</p>
+<p>Coutzac C, Jouniaux JM, Paci A, Schmidt J, Mallardo D, Seck A, Asvatourian V, Cassard L, Saulnier P, Lacroix L, Woerther PL, Vozy A, Naigeon M, Nebot-Bral L, Desbois M, Simeone E, Mateus C, Boselli L, Grivel J, Soularue E, <strong>Lepage P</strong>, Carbonnel F, Ascierto PA, Robert C, Chaput N. <a href="https://www.ncbi.nlm.nih.gov/pubmed/32358520" target="_blank">Systemic short chain fatty acids limit antitumor effect of CTLA-4 blockade in hosts with cancer</a>. Nat Commun. 2020 May 1;11(1):2168. doi: 10.1038/s41467-020-16079-x. PubMed PMID: 32358520.</p>
+<p>Massacci FR, Berri M, Lemonnier G, Guettier E, Blanc F, Jardet D, Rossignol MN, Mercat MJ, Doré J, <strong>Lepage P</strong>, Rogel-Gaillard C, Estellé J. <a href="https://pubmed.ncbi.nlm.nih.gov/33499995/" target="_blank">Late weaning is associated with increased microbial diversity and Faecalibacterium prausnitzii abundance in the fecal microbiota of piglets</a>. Anim Microbiome. 2020 Jan 16;2(1):2. doi: 10.1186/s42523-020-0020-4. PMID: 33499995; PMCID: PMC7807523.</p><h3>PUBLICATIONS 2019</h3>
+<p>Chaput N, <strong>Lepage P</strong>, Coutzac C, Soularue E, <strong>Le Roux K</strong>, <strong>Monot C</strong>, Boselli L, Routier E, Cassard L, Collins M, Vaysse T, Marthey L, Eggermont A, Asvatourian V, Lanoy E, Mateus C, Robert C, Carbonnel F. <a href="https://pubmed.ncbi.nlm.nih.gov/31408090/" target="_blank">Baseline gut microbiota predicts clinical response and colitis in metastatic melanoma patients treated with ipilimumab</a>. Ann Oncol. 2019 Dec 1;30(12):2012. doi: 10.1093/annonc/mdz224. Erratum for: Ann Oncol. 2017 Jun 1;28(6):1368-1379. PMID: 31408090.</p>
+<p>Kayser BD, Prifti E, Lhomme M, Belda E, Dao MC, Aron-Wisnewsky J; <strong>MICRO-Obes Consortium</strong>, Kontush A, Zucker JD, Rizkalla SW, Dugail I, Clément K. <a href="https://www.ncbi.nlm.nih.gov/pubmed/31605240" target="_blank">Elevated serum ceramides are linked with obesity-associated gut dysbiosis and impaired glucose metabolism</a>. Metabolomics. 2019 Oct 11;15(11):140. doi: 10.1007/s11306-019-1596-0. PubMed PMID: 31605240.</p>
+<p>Rincel M, Aubert P, Chevalier J, Grohard PA, Basso L, Monchaux de Oliveira C, Helbling JC, Lévy É, Chevalier G, Leboyer M, Eberl G, Layé S, Capuron L, Vergnolle N, Neunlist M, Boudin H, <strong>Lepage P</strong>, Darnaudéry M. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30872090" target="_blank">Multi-hit early life adversity affects gut microbiota, brain and behavior in a sex-dependent manner</a>. Brain Behav Immun. 2019 Aug;80:179-192. doi: 10.1016/j.bbi.2019.03.006. Epub 2019 Mar 11. PubMed PMID: 30872090.</p>
+<p>Pigneur B, <strong>Lepage P</strong>, <strong>Mondot S</strong>, Schmitz J, Goulet O, Doré J, Ruemmele FM. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30541015" target="_blank">Mucosal Healing and Bacterial Composition in Response to Enteral Nutrition Vs Steroid-based Induction Therapy-A Randomised Prospective Clinical Trial in Children With Crohn's Disease</a>. J Crohns Colitis. 2019 Jul 25;13(7):846-855. doi: 10.1093/ecco-jcc/jjy207. PubMed PMID: 30541015.</p>
+<p>Vidal-Lletjós S, Andriamihaja M, Blais A, Grauso M, <strong>Lepage P</strong>, Davila AM, Gaudichon C, <strong>Leclerc M</strong>, Blachier F, Lan A. <a href="https://www.ncbi.nlm.nih.gov/pubmed/31367158" target="_blank">Mucosal healing progression after acute colitis in mice</a>. World J Gastroenterol. 2019 Jul 21;25(27):3572-3589. doi: 10.3748/wjg.v25.i27.3572. PubMed PMID: 31367158; PubMed Central PMCID: PMC6658396.</p>
+<p>Nay K, Jollet M, Goustard B, Baati N, Vernus B, Pontones M, Lefeuvre-Orfila L, Bendavid C, Rué O, Mariadassou M, Bonnieu A, Ollendorff V, <strong>Lepage P</strong>, Derbré F, Koechlin-Ramonatxo C. <a href="https://www.ncbi.nlm.nih.gov/pubmed/31039010" target="_blank">Gut bacteria are critical for optimal muscle function: a potential link with glucose homeostasis</a>. Am J Physiol Endocrinol Metab. 2019 Jul 1;317(1):E158-E171. doi: 10.1152/ajpendo.00521.2018. Epub 2019 Apr 30. PubMed PMID: 31039010.</p>
+<p><strong>Chemouny JM</strong>, Gleeson PJ, Abbad L, Lauriero G, Boedec E, <strong>Le Roux K</strong>, <strong>Monot C</strong>, <strong>Bredel M</strong>, Bex-Coudrat J, Sannier A, Daugas E, Vrtovsnik F, Gesualdo L, <strong>Leclerc M</strong>, Berthelot L, Ben Mkaddem S, <strong>Lepage P</strong>, Monteiro RC. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30462346" target="_blank">Modulation of the microbiota by oral antibiotics treats immunoglobulin A nephropathy in humanized mice</a>. Nephrol Dial Transplant. 2019 Jul 1;34(7):1135-1144. doi: 10.1093/ndt/gfy323. PubMed PMID: 30462346.</p>
+<p>Burz SD, Abraham AL, Fonseca F, David O, Chapron A, Béguet-Crespel F, Cénard S, <strong>Le Roux K</strong>, Patrascu O, Levenez F, Schwintner C, Blottière HM, Béra-Maillet C, <strong>Lepage P</strong>, Doré J, Juste C. <a href="https://www.ncbi.nlm.nih.gov/pubmed/31222022" target="_blank">A Guide for Ex Vivo Handling and Storage of Stool Samples Intended for Fecal Microbiota Transplantation</a>. Sci Rep. 2019 Jun 20;9(1):8897. doi: 10.1038/s41598-019-45173-4. PubMed PMID: 31222022; PubMed Central PMCID: PMC6586871.</p>
+<p>Laville E, Perrier J, Bejar N, Maresca M, Esque J, Tauzin AS, Bouhajja E, <strong>Leclerc M</strong>, Drula E, Henrissat B, Berdah S, Di Pasquale E, Robe P, Potocki-Veronese G. <a href="https://www.ncbi.nlm.nih.gov/pubmed/31275257" target="_blank">Investigating Host Microbiota Relationships Through Functional Metagenomics</a>. Front Microbiol. 2019 Jun 7;10:1286. doi: 10.3389/fmicb.2019.01286. eCollection 2019. PubMed PMID: 31275257; PubMed Central PMCID: PMC6593285.</p>
+<p>Fadlallah J, Sterlin D, Fieschi C, Parizot C, Dorgham K, El Kafsi H, Autaa G, Ghillani-Dalbin P, Juste C, <strong>Lepage P</strong>, Malphettes M, Galicier L, Boutboul D, Clément K, André S, Marquet F, Tresallet C, Mathian A, Miyara M, Oksenhendler E, Amoura Z, Yssel H, Larsen M, Gorochov G. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30554723" target="_blank">Synergistic convergence of microbiota-specific systemic IgG and secretory IgA</a>. J Allergy Clin Immunol. 2019 Apr;143(4):1575-1585.e4. doi: 10.1016/j.jaci.2018.09.036. Epub 2018 Dec 13. PubMed PMID: 30554723.</p>
+<p>Keravec M, Mounier J, Guilloux CA, Fangous MS, <strong>Mondot S</strong>, Vallet S, Gouriou S, Le Berre R, Rault G, Férec C, Barbier G, <strong>Lepage P</strong>, <strong>Héry-Arnaud G</strong>. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30956802" target="_blank">Porphyromonas, a potential predictive biomarker of Pseudomonas aeruginosa pulmonary infection in cystic fibrosis</a>. BMJ Open Respir Res. 2019 Mar 12;6(1):e000374. doi: 10.1136/bmjresp-2018-000374. eCollection 2019. PubMed PMID: 30956802; PubMed Central PMCID: PMC6424284.</p>
+<p>Vidal-Lletjós S, Andriamihaja M, Blais A, Grauso M, <strong>Lepage P</strong>, Davila AM, Viel R, Gaudichon C, <strong>Leclerc M</strong>, Blachier F, Lan A. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30823387" target="_blank">Dietary Protein Intake Level Modulates Mucosal Healing and Mucosa-Adherent Microbiota in Mouse Model of Colitis</a>. Nutrients. 2019 Feb 28;11(3). pii: E514. doi: 10.3390/nu11030514. PubMed PMID: 30823387; PubMed Central PMCID: PMC6471602.</p>
+<p>Dao MC, Sokolovska N, Brazeilles R, Affeldt S, Pelloux V, Prifti E, Chilloux J, Verger EO, Kayser BD, Aron-Wisnewsky J, Ichou F, Pujos-Guillot E, Hoyles L, Juste C, Doré J, Dumas ME, Rizkalla SW, Holmes BA, Zucker JD, Clément K; <strong>MICRO-Obes Consortium</strong>. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30804813" target="_blank">A Data Integration Multi-Omics Approach to Study Calorie Restriction-Induced Changes in Insulin Sensitivity</a>. Front Physiol. 2019 Feb 5;9:1958. doi: 10.3389/fphys.2018.01958. eCollection 2018. PubMed PMID: 30804813; PubMed Central PMCID: PMC6371001.</p><h3>PUBLICATIONS 2018</h3>
+<p>Soularue E, <strong>Lepage P</strong>, Colombel JF, Coutzac C, Faleck D, Marthey L, Collins M, Chaput N, Robert C, Carbonnel F. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30131322" target="_blank">Enterocolitis due to immune checkpoint inhibitors: a systematic review</a>. Gut. 2018 Nov;67(11):2056-2067. doi: 10.1136/gutjnl-2018-316948. Epub 2018 Aug 21. Review. PubMed PMID: 30131322.</p>
+<p>Just S, <strong>Mondot S</strong>, Ecker J, Wegner K, Rath E, Gau L, Streidl T, <strong>Hery-Arnaud G</strong>, Schmidt S, Lesker TR, Bieth V, Dunkel A, Strowig T, Hofmann T, Haller D, Liebisch G, Gérard P, Rohn S, <strong>Lepage P</strong>, Clavel T. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30071904" target="_blank">The gut microbiota drives the impact of bile acids and fat source in diet on mouse metabolism</a>. Microbiome. 2018 Aug 2;6(1):134. doi: 10.1186/s40168-018-0510-8. PubMed PMID: 30071904; PubMed Central PMCID: PMC6091023.</p>
+<p>Maroilley T, Berri M, Lemonnier G, Esquerré D, Chevaleyre C, Mélo S, Meurens F, Coville JL, Leplat JJ, Rau A, Bed'hom B, Vincent-Naulleau S, Mercat MJ, Billon Y, <strong>Lepage P</strong>, Rogel-Gaillard C, Estellé J. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29899562" target="_blank">Immunome differences between porcine ileal and jejunal Peyer's patches revealed by global transcriptome sequencing of gut-associated lymphoid tissues</a>. Sci Rep. 2018 Jun 13;8(1):9077. doi: 10.1038/s41598-018-27019-7. PubMed PMID: 29899562; PubMed Central PMCID: PMC5998120.</p>
+<p>Fadlallah J, El Kafsi H, Sterlin D, Juste C, Parizot C, Dorgham K, Autaa G, Gouas D, Almeida M, <strong>Lepage P</strong>, Pons N, Le Chatelier E, Levenez F, Kennedy S, Galleron N, de Barros JP, Malphettes M, Galicier L, Boutboul D, Mathian A, Miyara M, Oksenhendler E, Amoura Z, Doré J, Fieschi C, Ehrlich SD, Larsen M, Gorochov G. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29720448" target="_blank">Microbial ecology perturbation in human IgA deficiency</a>. Sci Transl Med. 2018 May 2;10(439). pii: eaan1217. doi: 10.1126/scitranslmed.aan1217. PubMed PMID: 29720448.</p>
+<p>Darnaud M, Dos Santos A, Gonzalez P, Augui S, Lacoste C, Desterke C, De Hertogh G, Valentino E, Braun E, Zheng J, Boisgard R, Neut C, Dubuquoy L, Chiappini F, Samuel D, <strong>Lepage P</strong>, Guerrieri F, Doré J, Bréchot C, Moniaux N, Faivre J. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29133078" target="_blank">Enteric Delivery of Regenerating Family Member 3 alpha Alters the Intestinal Microbiota and Controls Inflammation in Mice With Colitis</a>. Gastroenterology. 2018 Mar;154(4):1009-1023.e14. doi: 10.1053/j.gastro.2017.11.003. Epub 2017 Nov 11. PubMed PMID: 29133078</p>
+<p>Oberli M, Douard V, Beaumont M, <strong>Jaoui D</strong>, Devime F, Laurent S, Chaumontet C, Mat D, Le Feunteun S, Michon C, Davila AM, Fromentin G, Tomé D, Souchon I, <strong>Leclerc M</strong>, Gaudichon C, Blachier F. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28994235" target="_blank">Lipo-Protein Emulsion Structure in the Diet Affects Protein Digestion Kinetics, Intestinal Mucosa Parameters and Microbiota Composition</a>. Mol Nutr Food Res. 2018 Jan;62(2). doi: 10.1002/mnfr.201700570. Epub 2018 Jan 2. PubMed PMID: 28994235</p>
+<p>Kökten T, Gibot S, <strong>Lepage P</strong>, D'Alessio S, Hablot J, Ndiaye NC, Busby-Venner H, <strong>Monot C</strong>, Garnier B, Moulin D, Jouzeau JY, Hansmannel F, Danese S, Guéant JL, Muller S, Peyrin-Biroulet L. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28961797" target="_blank">TREM-1 Inhibition Restores Impaired Autophagy Activity and Reduces Colitis in Mice</a>. J Crohns Colitis. 2018 Jan 24;12(2):230-244. doi: 10.1093/ecco-jcc/jjx129. PubMed PMID: 28961797</p><h3>PUBLICATIONS 2017</h3>
+<p><strong>Lepage P</strong>. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/28506730" target="_blank">The human gut microbiota: Interactions with the host and dysfunctions</a>]. Rev Mal Respir. 2017 Dec;34(10):1085-1090. doi: 10.1016/j.rmr.2016.11.003. Epub 2017 May 12. French. PubMed PMID: 28506730</p>
+<p>Coutzac C, Adam J, Soularue E, Collins M, Racine A, Mussini C, Boselli L, Kamsukom N, Mateus C, Charrier M, Cassard L, Planchard D, Ribrag V, Fizazi K, Loriot Y, <strong>Lepage P</strong>, Scoazec JY, Robert C, Carbonnel F, Chaput N. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28967957" target="_blank">Colon Immune-Related Adverse Events: Anti-CTLA-4 and Anti-PD-1 Blockade Induce Distinct Immunopathological Entities</a>. J Crohns Colitis. 2017 Oct 1;11(10):1238-1246. doi: 10.1093/ecco-jcc/jjx081. PubMed PMID: 28967957</p>
+<p>Beaumont M*, <strong>Jaoui D*</strong>, Douard V, Mat D, Koeth F, Goustard B, Mayeur C, <strong>Mondot S</strong>, <strong>Hovaghimian A</strong>, Le Feunteun S, Chaumontet C, Davila AM, Tomé D, Souchon I, Michon C, Fromentin G, Blachier F, <strong>Leclerc M</strong>. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28512779" target="_blank">Structure of protein emulsion in food impacts intestinal microbiota, caecal luminal content composition and distal intestine characteristics in rats</a>. Mol Nutr Food Res. 2017 Oct;61(10). doi: 10.1002/mnfr.201700078. Epub 2017 Jul 5. PubMed PMID: 28512779</p>
+<p>De Arcangelis A, Hamade H, Alpy F, Normand S, Bruyère E, Lefebvre O, Méchine-Neuville A, Siebert S, Pfister V, <strong>Lepage P</strong>, Laquerriere P, Dembele D, Delanoye-Crespin A, Rodius S, Robine S, Kedinger M, Van Seuningen I, Simon-Assmann P, Chamaillard M, Labouesse M, Georges-Labouesse E. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27371534" target="_blank">Hemidesmosome integrity protects the colon against colitis and colorectal cancer</a>. Gut. 2017 Oct;66(10):1748-1760. doi: 10.1136/gutjnl-2015-310847. Epub 2016 Jul 1. PubMed PMID: 27371534; PubMed Central PMCID: PMC5595104</p>
+<p>Rozé JC, Ancel PY, <strong>Lepage P</strong>, Martin-Marchand L, <strong>Al Nabhani Z</strong>, Delannoy J, Picaud JC, Lapillonne A, Aires J, Durox M, Darmaun D, Neu J, Butel MJ; Nutrition EPIPAGE 2 study group and the EPIFLORE Study Group. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28659297" target="_blank">Nutritional strategies and gut microbiota composition as risk factors for necrotizing enterocolitis in very-preterm infants</a>. Am J Clin Nutr. 2017 Sep;106(3):821-830. doi: 10.3945/ajcn.117.152967. Epub 2017 Jun 28. PubMed PMID: 28659297; PubMed Central PMCID: PMC5573022</p>
+<p>Chaput N, <strong>Lepage P</strong>, Coutzac C, Soularue E, <strong>Le Roux K</strong>, <strong>Monot C</strong>, Boselli L, Routier E, Cassard L, Collins M, Vaysse T, Marthey L, Eggermont A, Asvatourian V, Lanoy E, Mateus C, Robert C, Carbonnel F. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28368458" target="_blank">Baseline gut microbiota predicts clinical response and colitis in metastatic melanoma patients treated with ipilimumab</a>. Ann Oncol. 2017 Jun 1;28(6):1368-1379. doi: 10.1093/annonc/mdx108. PubMed PMID: 28368458</p>
+<p>Gillard L, Mayeur C, Robert V, Pingenot I, Le Beyec J, Bado A, <strong>Lepage P</strong>, Thomas M, Joly F. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28469580" target="_blank">Microbiota Is Involved in Post-resection Adaptation in Humans with Short Bowel Syndrome</a>. Front Physiol. 2017 Apr 19;8:224. doi: 10.3389/fphys.2017.00224. eCollection 2017. PubMed PMID: 28469580; PubMed Central PMCID: PMC5395573</p>
+<p>Carbonnel F, Soularue E, Coutzac C, Chaput N, Mateus C, <strong>Lepage P</strong>, Robert C. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28093620" target="_blank">Inflammatory bowel disease and cancer response due to anti-CTLA-4: is it in the flora?</a> Semin Immunopathol. 2017 Apr;39(3):327-331. doi: 10.1007/s00281-016-0613-x. Epub 2017 Jan 16. Review. PubMed PMID: 28093620</p>
+<p>Wegner K, Just S, Gau L, Mueller H, Gérard P, <strong>Lepage P</strong>, Clavel T, Rohn S. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27822648" target="_blank">Rapid analysis of bile acids in different biological matrices using LC-ESI-MS/MS for the investigation of bile acid transformation by mammalian gut bacteria</a>. Anal Bioanal Chem. 2017 Feb;409(5):1231-1245. doi: 10.1007/s00216-016-0048-1. Epub 2016 Nov 7. PubMed PMID: 27822648</p>
+<p>Patrascu O, Béguet-Crespel F, Marinelli L, Le Chatelier E, Abraham AL, <strong>Leclerc M</strong>, Klopp C, Terrapon N, Henrissat B, Blottière HM, Doré J, Béra-Maillet C. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28091525" target="_blank">A fibrolytic potential in the human ileum mucosal microbiota revealed by functional metagenomic</a>. Sci Rep. 2017 Jan 16;7:40248. doi: 10.1038/srep40248. PubMed PMID: 28091525; PubMed Central PMCID: PMC5238381</p>
+<p>Guinet-Charpentier C, <strong>Lepage P</strong>, Morali A, Chamaillard M, Peyrin-Biroulet L. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26818618" target="_blank">Effects of enteral polymeric diet on gut microbiota in children with Crohn's disease</a>. Gut. 2017 Jan;66(1):194-195. doi: 10.1136/gutjnl-2015-311058. Epub 2016 Jan 27. PubMed PMID: 26818618</p><h3>PUBLICATIONS 2016</h3>
+<p><strong>Raguideau S</strong>, Plancade S, Pons N, <strong>Leclerc M</strong>, Laroche B. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27984592" target="_blank">Inferring Aggregated Functional Traits from Metagenomic Data Using Constrained Non-negative Matrix Factorization: Application to Fiber Degradation in the Human Gut Microbiota</a>. PLoS Comput Biol. 2016 Dec 16;12(12):e1005252. doi: 10.1371/journal.pcbi.1005252. eCollection 2016 Dec. PubMed PMID: 27984592; PubMed Central PMCID: PMC5161307</p>
+<p>Ramayo-Caldas Y, <strong>Mach N</strong>, <strong>Lepage P</strong>, Levenez F, Denis C, Lemonnier G, Leplat JJ, Billon Y, Berri M, Doré J, Rogel-Gaillard C, Estellé J. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27177190" target="_blank">Phylogenetic network analysis applied to pig gut microbiota identifies an ecosystem structure linked with growth traits</a>. ISME J. 2016 Dec;10(12):2973-2977. doi: 10.1038/ismej.2016.77. Epub 2016 May 13. PubMed PMID: 27177190; PubMed Central PMCID: PMC5148198</p>
+<p><strong>Al Nabhani Z</strong>, <strong>Lepage P</strong>, Mauny P, Montcuquet N, Roy M, <strong>Le Roux K</strong>, Dussaillant M, Berrebi D, Hugot JP, Barreau F. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27147452" target="_blank">Nod2 Deficiency Leads to a Specific and Transmissible Mucosa-associated Microbial Dysbiosis Which Is Independent of the Mucosal Barrier Defect</a>. J Crohns Colitis. 2016 Dec;10(12):1428-1436. Epub 2016 May 4. PubMed PMID: 27147452</p>
+<p>Daillère R, Vétizou M, Waldschmitt N, Yamazaki T, Isnard C, Poirier-Colame V, Duong CPM, Flament C, <strong>Lepage P</strong>, Roberti MP, Routy B, Jacquelot N, Apetoh L, Becharef S, Rusakiewicz S, Langella P, Sokol H, Kroemer G, Enot D, Roux A, Eggermont A, Tartour E, Johannes L, Woerther PL, Chachaty E, Soria JC, Golden E, Formenti S, Plebanski M, Madondo M, Rosenstiel P, Raoult D, Cattoir V, Boneca IG, Chamaillard M, Zitvogel L. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27717798" target="_blank">Enterococcus hirae and Barnesiella intestinihominis Facilitate Cyclophosphamide-Induced Therapeutic Immunomodulatory Effects</a>. Immunity. 2016 Oct 18;45(4):931-943. doi: 10.1016/j.immuni.2016.09.009. Epub 2016 Oct 4. PubMed PMID: 27717798</p>
+<p><strong>Raguideau S</strong>, Laroche B, <strong>Leclerc M</strong>, Plancade S. <a href="https://www.sciencedirect.com/science/article/pii/S2405896316327689" target="_blank">A Constrained NMF Approach to Analyze Quantitative Metagenomic Data</a>. IFAC-PapersOnLine, Volume 49, Issue 26, 2016, Pages 71-76</p>
+<p>Zantow J, Just S, Lagkouvardos I, Kisling S, Dübel S, <strong>Lepage P</strong>, Clavel T, Hust M. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27703179" target="_blank">Mining gut microbiome oligopeptides by functional metaproteome display</a>. Sci Rep. 2016 Oct 5;6:34337. doi: 10.1038/srep34337. PubMed PMID: 27703179; PubMed Central PMCID: PMC5050496</p>
+<p>Pedersen HK, Gudmundsdottir V, Nielsen HB, Hyotylainen T, Nielsen T, Jensen BA, Forslund K, Hildebrand F, Prifti E, Falony G, Le Chatelier E, Levenez F, Doré J, Mattila I, Plichta DR, Pöhö P, Hellgren LI, Arumugam M, Sunagawa S, Vieira-Silva S, Jørgensen T, Holm JB, Trošt K; <strong>MetaHIT Consortium</strong>, Kristiansen K, Brix S, Raes J, Wang J, Hansen T, Bork P, Brunak S, Oresic M, Ehrlich SD, Pedersen O. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27409811" target="_blank">Human gut microbes impact host serum metabolome and insulin sensitivity</a>. Nature. 2016 Jul 21;535(7612):376-81. Epub 2016 Jul 13. PubMed PMID: 27409811</p>
+<p>Pitt JM, Vétizou M, Daillère R, Roberti MP, Yamazaki T, Routy B, <strong>Lepage P</strong>, Boneca IG, Chamaillard M, Kroemer G, Zitvogel L. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27332730" target="_blank">Resistance Mechanisms to Immune-Checkpoint Blockade in Cancer: Tumor-Intrinsic and -Extrinsic Factors</a>. Immunity. 2016 Jun 21;44(6):1255-69. doi: 10.1016/j.immuni.2016.06.001. Review. PubMed PMID: 27332730</p>
+<p><strong>Mondot S</strong>, <strong>Lepage P</strong>, Seksik P, Allez M, Tréton X, Bouhnik Y, Colombel JF, <strong>Leclerc M</strong>, Pochart P, Doré J, Marteau P; GETAID. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26628508" target="_blank">Structural robustness of the gut mucosal microbiota is associated with Crohn's disease remission after surgery</a>. Gut. 2016 Jun;65(6):954-62. doi: 10.1136/gutjnl-2015-309184. Epub 2015 Dec 1. PubMed PMID: 26628508; PubMed Central PMCID: PMC4893116</p>
+<p><strong>Mondot S</strong>, <strong>Lepage P</strong>. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26945826" target="_blank">The human gut microbiome and its dysfunctions through the meta-omics prism</a>. Ann N Y Acad Sci. 2016 May;1372(1):9-19. doi: 10.1111/nyas.13033. Epub 2016 Mar 4. PubMed PMID: 26945826</p>
+<p>Llopis M, Cassard AM, Wrzosek L, Boschat L, Bruneau A, Ferrere G, Puchois V, Martin JC, <strong>Lepage P</strong>, Le Roy T, Lefèvre L, Langelier B, Cailleux F, González-Castro AM, Rabot S, Gaudin F, Agostini H, Prévot S, Berrebi D, Ciocan D, Jousse C, Naveau S, Gérard P, Perlemuter G. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26642859" target="_blank">Intestinal microbiota contributes to individual susceptibility to alcoholic liver disease</a>. Gut. 2016 May;65(5):830-9. doi: 10.1136/gutjnl-2015-310585. Epub 2015 Dec 7. PubMed PMID: 26642859</p>
+<p><strong>Alnabhani Z</strong>, Hugot JP, Montcuquet N, <strong>Le Roux K</strong>, Dussaillant M, Roy M, <strong>Leclerc M</strong>, Cerf-Bensussan N, <strong>Lepage P*</strong>, Barreau F*. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26963567" target="_blank">Respective Roles of Hematopoietic and Nonhematopoietic Nod2 on the Gut Microbiota and Mucosal Homeostasis</a>. Inflamm Bowel Dis. 2016 Apr;22(4):763-73. doi: 10.1097/MIB.0000000000000749. PubMed PMID: 26963567</p>
+<p>Mosca A, <strong>Leclerc M</strong>, Hugot JP. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27065999" target="_blank">Gut Microbiota Diversity and Human Diseases: Should We Reintroduce Key Predators in Our Ecosystem?</a> Front Microbiol. 2016 Mar 31;7:455. doi: 10.3389/fmicb.2016.00455. eCollection 2016. PubMed PMID: 27065999; PubMed Central PMCID: PMC4815357</p>
+<p>Dao MC, Everard A, Aron-Wisnewsky J, Sokolovska N, Prifti E, Verger EO, Kayser BD, Levenez F, Chilloux J, Hoyles L; <strong>MICRO-Obes Consortium</strong>, Dumas ME, Rizkalla SW, Doré J, Cani PD, Clément K. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26100928" target="_blank">Akkermansia muciniphila and improved metabolic health during a dietary intervention in obesity: relationship with gut microbiome richness and ecology</a>. Gut. 2016 Mar;65(3):426-36. doi: 10.1136/gutjnl-2014-308778. Epub 2015 Jun 22. PubMed PMID: 26100928</p>
+<p>Pitt JM, Vétizou M, Gomperts Boneca I, <strong>Lepage P</strong>, Chamaillard M, Zitvogel L. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28197360" target="_blank">Enhancing the clinical coverage and anticancer efficacy of immune checkpoint blockade through manipulation of the gut microbiota</a>. Oncoimmunology. 2016 Feb 18;6(1):e1132137. doi: 10.1080/2162402X.2015.1132137. eCollection 2017. PubMed PMID: 28197360; PubMed Central PMCID: PMC5283646</p><h3>PUBLICATIONS 2015</h3>
+<p>Forslund K, Hildebrand F, Nielsen T, Falony G, Le Chatelier E, Sunagawa S, Prifti E, Vieira-Silva S, Gudmundsdottir V, Krogh Pedersen H, Arumugam M, Kristiansen K, Voigt AY, Vestergaard H, Hercog R, Igor Costea P, Kultima JR, Li J, Jørgensen T, Levenez F, Dore J; <strong>MetaHIT consortium</strong>, Nielsen HB, Brunak S, Raes J, Hansen T, Wang J, Ehrlich SD, Bork P, Pedersen O. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26633628" target="_blank">Disentangling type 2 diabetes and metformin treatment signatures in the human gut microbiota</a>. Nature. 2015 Dec 10;528(7581):262-6. doi: 10.1038/nature15766. Epub 2015 Dec 2. PubMed PMID: 26633628; PubMed Central PMCID: PMC4681099</p>
+<p><strong>Tap J</strong>, Furet JP, Bensaada M, Philippe C, Roth H, Rabot S, Lakhdari O, Lombard V, Henrissat B, Corthier G, Fontaine E, Doré J, <strong>Leclerc M</strong>. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26235304" target="_blank">Gut microbiota richness promotes its stability upon increased dietary fibre intake in healthy adults</a>. Environ Microbiol. 2015 Dec;17(12):4954-64. doi: 10.1111/1462-2920.13006. Epub 2015 Sep 3. PubMed PMID: 26235304</p>
+<p>Vétizou M, Pitt JM, Daillère R, <strong>Lepage P</strong>, Waldschmitt N, Flament C, Rusakiewicz S, Routy B, Roberti MP, Duong CP, Poirier-Colame V, Roux A, Becharef S, Formenti S, Golden E, Cording S, Eberl G, Schlitzer A, Ginhoux F, Mani S, Yamazaki T, Jacquelot N, Enot DP, Bérard M, Nigou J, Opolon P, Eggermont A, Woerther PL, Chachaty E, Chaput N, Robert C, Mateus C, Kroemer G, Raoult D, Boneca IG, Carbonnel F, Chamaillard M, Zitvogel L. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26541610" target="_blank">Anticancer immunotherapy by CTLA-4 blockade relies on the gut microbiota</a>. Science. 2015 Nov 27;350(6264):1079-84. doi: 10.1126/science.aad1329. Epub 2015 Nov 5. PubMed PMID: 26541610</p>
+<p>Shoaie S, Ghaffari P, Kovatcheva-Datchary P, Mardinoglu A, Sen P, Pujos-Guillot E, de Wouters T, Juste C, Rizkalla S, Chilloux J, Hoyles L, Nicholson JK; <strong>MICRO-Obes Consortium</strong>, Dore J, Dumas ME, Clement K, Bäckhed F, Nielsen J. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26244934" target="_blank">Quantifying Diet-Induced Metabolic Changes of the Human Gut Microbiome</a>. Cell Metab. 2015 Aug 4;22(2):320-31. doi: 10.1016/j.cmet.2015.07.001. PubMed PMID: 26244934</p>
+<p>Lévy J, Cacheux W, Bara MA, L'Hermitte A, <strong>Lepage P</strong>, Fraudeau M, Trentesaux C, Lemarchand J, Durand A, Crain AM, Marchiol C, Renault G, Dumont F, Letourneur F, Delacre M, Schmitt A, Terris B, Perret C, Chamaillard M, Couty JP, Romagnolo B. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26214133" target="_blank">Intestinal inhibition of Atg7 prevents tumour initiation through a microbiome-influenced immune response and suppresses tumour growth</a>. Nat Cell Biol. 2015 Aug;17(8):1062-73. doi: 10.1038/ncb3206. Epub 2015 Jul 27. PubMed PMID: 26214133</p>
+<p><strong>Mach N</strong>, Berri M, Estellé J, Levenez F, Lemonnier G, Denis C, Leplat JJ, Chevaleyre C, Billon Y, Doré J, Rogel-Gaillard C, <strong>Lepage P</strong>. <a href="https://www.ncbi.nlm.nih.gov/pubmed/25727666" target="_blank">Early-life establishment of the swine gut microbiome and impact on host phenotypes</a>. Environ Microbiol Rep. 2015 Jun;7(3):554-69. doi: 10.1111/1758-2229.12285. Epub 2015 May 6. PubMed PMID: 25727666</p>
+<p>Miquel S, <strong>Leclerc M</strong>, Martin R, Chain F, Lenoir M, <strong>Raguideau S</strong>, Hudault S, Bridonneau C, Northen T, Bowen B, Bermúdez-Humarán LG, Sokol H, Thomas M, Langella P. <a href="http://www.ncbi.nlm.nih.gov/pubmed/25900655" target="_blank">Identification of Metabolic Signatures Linked to Anti-Inflammatory Effects of Faecalibacterium prausnitzii</a>. MBio. 2015 Apr 21;6(2). pii: e00300-15. doi: 10.1128/mBio.00300-15. PubMed PMID: 25900655</p>
+<p>Martin C, Burgel PR, <strong>Lepage P</strong>, Andréjak C, Blic J, Bourdin A, Brouard J, Chanez P, Dalphin JC, Deslée G, Deschildre A, Gosset P, Touqui L, Dusser D. <a href="http://www.ncbi.nlm.nih.gov/pubmed/25726559" target="_blank">Host-microbe interactions in distal airways: relevance to chronic airway diseases</a>. Eur Respir Rev. 2015 Mar;24(135):78-91. Review. PubMed PMID: 25726559</p>
+<p>Viaud S, Daillère R, Boneca IG, <strong>Lepage P</strong>, Langella P, Chamaillard M, Pittet MJ, Ghiringhelli F, Trinchieri G, Goldszmid R, Zitvogel L. <a href="https://www.ncbi.nlm.nih.gov/pubmed/24832470" target="_blank">Gut microbiome and anticancer immune response: really hot Sh*t!</a> Cell Death Differ. 2015 Feb;22(2):199-214. doi: 10.1038/cdd.2014.56. Epub 2014 May 16. Review. PubMed PMID: 24832470; PubMed Central PMCID: PMC4291500</p><h3>PUBLICATIONS 2014</h3>
+<p>Juste C, Kreil DP, Beauvallet C, Guillot A, Vaca S, Carapito C, <strong>Mondot S</strong>, Sykacek P, Sokol H, Blon F, Lepercq P, Levenez F, Valot B, Carré W, Loux V, Pons  N, David O, Schaeffer B, <strong>Lepage P</strong>, Martin P, Monnet V, Seksik P, Beaugerie L, Ehrlich SD, Gibrat JF, Van Dorsselaer A, Doré J. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24436141" target="_blank">Bacterial protein signals are associated with Crohn's disease</a>. Gut. 2014 Oct;63(10):1566-77. doi: 10.1136/gutjnl-2012-303786. Epub 2014 Jan 16. PubMed PMID: 24436141; PubMed Central PMCID: PMC4173658</p>
+<p>Viaud S, Daillère R, Boneca IG, <strong>Lepage P</strong>, Pittet MJ, Ghiringhelli F, Trinchieri G, Goldszmid R, Zitvogel L. <a href="http://www.ncbi.nlm.nih.gov/pubmed/25074615" target="_blank">Harnessing the intestinal microbiome for optimal therapeutic immunomodulation</a>. Cancer Res. 2014 Aug 15;74(16):4217-21. doi: 10.1158/0008-5472.CAN-14-0987. Epub 2014 Jul 29. PubMed PMID: 25074615</p>
+<p>Li J, Jia H, Cai X, Zhong H, Feng Q, Sunagawa S, Arumugam M, Kultima JR, Prifti E, Nielsen T, Juncker AS, Manichanh C, Chen B, Zhang W, Levenez F, Wang J, Xu X, Xiao L, Liang S, Zhang D, Zhang Z, Chen W, Zhao H, Al-Aama JY, Edris S, Yang H, Wang J, Hansen T, Nielsen HB, Brunak S, Kristiansen K, Guarner F, Pedersen O, Doré J, Ehrlich SD; <strong>MetaHIT Consortium</strong>, Bork P, Wang J; MetaHIT Consortium. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24997786" target="_blank">An integrated catalog of reference genes in the human gut microbiome</a>. Nat Biotechnol. 2014 Aug;32(8):834-41. doi: 10.1038/nbt.2942. Epub 2014 Jul 6. PubMed PMID: 24997786</p>
+<p>Clavel T, Desmarchelier C, Haller D, Gérard P, Rohn S, <strong>Lepage P</strong>, Daniel H. <a href="http://www.ncbi.nlm.nih.gov/pubmed/25003516" target="_blank">Intestinal microbiota in metabolic diseases: From bacterial community structure and functions to species of pathophysiological relevance</a>. Gut Microbes. 2014 Jul  1;5(4):544-51. doi: 10.4161/gmic.29331. Epub 2014 Jul 8. PubMed PMID: 25003516</p>
+<p>De Paepe M, <strong>Leclerc M</strong>, Tinsley CR, Petit MA. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24734220" target="_blank">Bacteriophages: an underestimated role in human and animal health?</a> Front Cell Infect Microbiol. 2014 Mar 28;4:39. doi: 10.3389/fcimb.2014.00039. eCollection 2014. Review. PubMed PMID: 24734220; PubMed Central PMCID: PMC3975094</p>
+<p>Duca F, Gérard P, Covasa M, <strong>Lepage P</strong>. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24732926" target="_blank">Metabolic interplay between gut bacteria and their host</a>. Front Horm Res. 2014;42:73-82. doi: 10.1159/000358315. Epub 2014  Apr 7. PubMed PMID: 24732926</p>
+<p>Slezak K, Krupova Z, Rabot S, Loh G, Levenez F, Descamps A, <strong>Lepage P</strong>, Doré J,  Bellier S, Blaut M. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24637599" target="_blank">Association of germ-free mice with a simplified human intestinal microbiota results in a shortened intestine</a>. Gut Microbes. 2014 Mar-Apr;5(2):176-82. doi: 10.4161/gmic.28203. Epub 2014 Feb 13. PubMed PMID: 24637599; PubMed Central PMCID: PMC4063842</p>
+<p><strong>Mach N</strong>, Berri M, Esquerré D, Chevaleyre C, Lemonnier G, Billon Y, <strong>Lepage P</strong>, Oswald IP, Doré J, Rogel-Gaillard C, Estellé J. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24533095" target="_blank">Extensive expression differences  along porcine small intestine evidenced by transcriptome sequencing</a>. PLoS One. 2014 Feb 12;9(2):e88515. doi: 10.1371/journal.pone.0088515. eCollection 2014. PubMed PMID: 24533095; PubMed Central PMCID: PMC3922923</p>
+<p>Daniel H, Moghaddas Gholami A, Berry D, Desmarchelier C, Hahne H, Loh G, <strong>Mondot S</strong>, <strong>Lepage P</strong>, Rothballer M, Walker A, Böhm C, Wenning M, Wagner M, Blaut M, Schmitt-Kopplin P, Kuster B, Haller D, Clavel T. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24030595" target="_blank">High-fat diet alters gut microbiota physiology in mice</a>. ISME J. 2014 Feb;8(2):295-308. doi: 10.1038/ismej.2013.155. Epub 2013 Sep 12. PubMed PMID: 24030595; PubMed Central PMCID: PMC3906816</p>
+<p>Viaud S, Daillère R, Yamazaki T, <strong>Lepage P</strong>, Boneca I, Goldszmid R, Trinchieri G, Zitvogel L. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24800167" target="_blank">Why should we need the gut microbiota to respond to cancer therapies?</a> Oncoimmunology. 2014 Jan 1;3(1):e27574. Epub 2014 Jan 17. PubMed PMID: 24800167; PubMed Central PMCID: PMC4006853</p><h3>PUBLICATIONS 2013</h3>
+<p>Le Roy T, Llopis M, <strong>Lepage P</strong>, Bruneau A, Rabot S, Bevilacqua C, Martin P, Philippe C, Walker F, Bado A, Perlemuter G, Cassard-Doulcier AM, Gérard P. <a href="http://www.ncbi.nlm.nih.gov/pubmed/23197411" target="_blank">Intestinal microbiota determines development of non-alcoholic fatty liver disease in mice</a>. Gut. 2013 Dec;62(12):1787-94. doi: 10.1136/gutjnl-2012-303816. Epub 2012 Nov 29. PubMed PMID: 23197411</p>
+<p>Viaud S, Saccheri F, Mignot G, Yamazaki T, Daillère R, Hannani D, Enot DP, Pfirschke C, Engblom C, Pittet MJ, Schlitzer A, Ginhoux F, Apetoh L, Chachaty E,  Woerther PL, Eberl G, Bérard M, Ecobichon C, Clermont D, Bizet C, Gaboriau-Routhiau V, Cerf-Bensussan N, Opolon P, Yessaad N, Vivier E, Ryffel B, Elson CO, Doré J, Kroemer G, <strong>Lepage P</strong>, Boneca IG, Ghiringhelli F, Zitvogel L. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24264990" target="_blank">The intestinal microbiota modulates the anticancer immune effects of cyclophosphamide</a>. Science. 2013 Nov 22;342(6161):971-6. doi: 10.1126/science.1240537. PubMed PMID: 24264990; PubMed Central PMCID: PMC4048947</p>
+<p><strong>Mondot S</strong>, de Wouters T, Doré J, <strong>Lepage P</strong>. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24246975" target="_blank">The human gut microbiome and its dysfunctions</a>. Dig Dis. 2013;31(3-4):278-85. doi: 10.1159/000354678. Epub 2013 Nov 14. Review. PubMed PMID: 24246975</p>
+<p>Cecchini DA, Laville E, Laguerre S, Robe P, <strong>Leclerc M</strong>, Doré J, Henrissat B, Remaud-Siméon M, Monsan P, Potocki-Véronèse G. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24066026" target="_blank">Functional metagenomics reveals novel pathways of prebiotic breakdown by human gut bacteria</a>. PLoS One. 2013 Sep 16;8(9):e72766. doi: 10.1371/journal.pone.0072766. eCollection 2013. PubMed PMID: 24066026; PubMed Central PMCID: PMC3774763</p>
+<p>Cotillard A, Kennedy SP, Kong LC, Prifti E, Pons N, Le Chatelier E, Almeida M, Quinquis B, Levenez F, Galleron N, Gougis S, Rizkalla S, Batto JM, Renault P; <strong>ANR MicroObes consortium</strong>, Doré J, Zucker JD, Clément K, Ehrlich SD. <a href="http://www.ncbi.nlm.nih.gov/pubmed/23985875" target="_blank">Dietary intervention impact on gut microbial gene richness</a>. Nature. 2013 Aug 29;500(7464):585-8. doi: 10.1038/nature12480. Erratum in: Nature. 2013 Oct 24;502(7472)580. PubMed PMID: 23985875</p>
+<p>Le Chatelier E, Nielsen T, Qin J, Prifti E, Hildebrand F, Falony G, Almeida M, Arumugam M, Batto JM, Kennedy S, Leonard P, Li J, Burgdorf K, Grarup N, Jørgensen T, Brandslund I, Nielsen HB, Juncker AS, Bertalan M, Levenez F, Pons N, Rasmussen S, Sunagawa S, <strong>Tap J</strong>, Tims S, Zoetendal EG, Brunak S, Clément K, Doré J, Kleerebezem M, Kristiansen K, Renault P, Sicheritz-Ponten T, de Vos WM, Zucker JD, Raes J, Hansen T; <strong>MetaHIT consortium</strong>, Bork P, Wang J, Ehrlich SD, Pedersen O. <a href="http://www.ncbi.nlm.nih.gov/pubmed/23985870" target="_blank">Richness of human gut microbiome correlates with metabolic markers</a>. Nature. 2013 Aug 29;500(7464):541-6. doi: 10.1038/nature12506. PubMed PMID: 23985870</p>
+<p><strong>Lepage P</strong>, <strong>Leclerc MC</strong>, Joossens M, <strong>Mondot S</strong>, Blottière HM, Raes J, Ehrlich D, Doré J. <a href="http://www.ncbi.nlm.nih.gov/pubmed/22525886" target="_blank">A metagenomic insight into our gut's microbiome</a>. Gut. 2013 Jan;62(1):146-58. doi: 10.1136/gutjnl-2011-301805. Epub 2012 Apr 23. Review. PubMed PMID: 22525886</p><h3>PUBLICATIONS 2012</h3>
+<p>de Wouters T, Doré J, <strong>Lepage P. </strong><a href="http://www.ncbi.nlm.nih.gov/pubmed/23295690" target="_blank">Does our food (environment) change our gut microbiome ('in-vironment'): a potential role for inflammatory bowel disease?</a> Dig Dis. 2012;30 Suppl 3:33-9. doi: 10.1159/000342595. Epub 2013 Jan 3. Review. PubMed PMID: 23295690</p>
+<p><strong>Mondot S</strong>, Barreau F, Al Nabhani Z, Dussaillant M, <strong>Le Roux K</strong>, Doré J, <strong>Leclerc M</strong>, Hugot JP, <strong>Lepage P</strong>. <a href="http://www.ncbi.nlm.nih.gov/pubmed/21868489" target="_blank">Altered gut microbiota composition in immune-impaired Nod2(-/-) mice</a>. Gut. 2012 Apr;61(4):634-5. doi: 10.1136/gutjnl-2011-300478. Epub 2011 Aug 25. PubMed PMID: 21868489</p><h3>PUBLICATIONS 2011</h3>
+<p>Amar J, Serino M, Lange C, Chabo C, Iacovoni J, <strong>Mondot S</strong>, <strong>Lepage P</strong>, Klopp C, Mariette J, Bouchez O, Perez L, Courtney M, Marre M, Klopp P, Lantieri O, Doré J, Charles M, Balkau B, Burcelin R; D.E.S.I.R. Study Group. <a href="http://www.ncbi.nlm.nih.gov/pubmed/21976140" target="_blank">Involvement of tissue bacteria in the onset of diabetes in humans: evidence for a concept</a>. Diabetologia. 2011 Dec;54(12):3055-61. doi: 10.1007/s00125-011-2329-8. PubMed PMID: 21976140</p>
+<p><strong>Lepage P</strong>, Häsler R, Spehlmann ME, Rehman A, Zvirbliene A, Begun A, Ott S, Kupcinskas L, Doré J, Raedler A, Schreiber S. <a href="http://www.ncbi.nlm.nih.gov/pubmed/21621540" target="_blank">Twin study indicates loss of interaction between microbiota and mucosa of patients with ulcerative colitis</a>. Gastroenterology. 2011 Jul;141(1):227-36. doi: 10.1053/j.gastro.2011.04.011. Epub 2011 Apr 16. PubMed PMID: 21621540</p>
+<p><strong>Muñoz-Tamayo R</strong>, Laroche B, Walter E, Doré J, Duncan SH, Flint HJ, <strong>Leclerc M</strong>. <a href="http://www.ncbi.nlm.nih.gov/pubmed/21388423" target="_blank">Kinetic modelling of lactate utilization and butyrate production by key human colonic bacterial species</a>. FEMS Microbiol Ecol. 2011 Jun;76(3):615-24. doi: 10.1111/j.1574-6941.2011.01085.x. Epub 2011 Apr 18. PubMed PMID: 21388423</p>
+<p><strong> </strong>Arumugam M, Raes J, Pelletier E, Le Paslier D, Yamada T, Mende DR, Fernandes GR, <strong>Tap J</strong>, Bruls T, Batto JM, Bertalan M, Borruel N, Casellas F, Fernandez L, Gautier L, Hansen T, Hattori M, Hayashi T, Kleerebezem M, Kurokawa K, <strong>Leclerc M</strong>, Levenez F, Manichanh C, Nielsen HB, Nielsen T, Pons N, Poulain J, Qin J, Sicheritz-Ponten T, Tims S, Torrents D, Ugarte E, Zoetendal EG, Wang J, Guarner F, Pedersen O, de Vos WM, Brunak S, Doré J; MetaHIT Consortium, Antolín M, Artiguenave F, Blottiere HM, Almeida M, Brechot C, Cara C, Chervaux C, Cultrone A, Delorme C, Denariaz G, Dervyn R, Foerstner KU, Friss C, van de Guchte M, Guedon E, Haimet F, Huber W, van Hylckama-Vlieg J, Jamet A, Juste C, Kaci G, Knol J, Lakhdari O, Layec S, <strong>Le Roux K</strong>, Maguin E, Mérieux A, Melo Minardi R, M'rini C, Muller J, Oozeer R, Parkhill J, Renault P, Rescigno M, Sanchez N, Sunagawa S, Torrejon A, Turner K, Vandemeulebrouck G, Varela E, Winogradsky Y, Zeller G, Weissenbach J, Ehrlich SD, Bork P. <a href="http://www.ncbi.nlm.nih.gov/pubmed/21508958" target="_blank">Enterotypes of the human gut microbiome</a>.<a href="http://www.ncbi.nlm.nih.gov/pubmed/21508958" target="_blank"> </a>Nature. 2011 May 12;473(7346):174-80. doi: 10.1038/nature09944. Epub 2011 Apr 20. Erratum in: Nature. 2011 Jun 30;474(7353):666. Nature. 2014 Feb 27;506(7489):516. PubMed PMID: 21508958; PubMed Central PMCID: PMC3728647</p>
+<p>Rousseau C, Levenez F, Fouqueray C, Doré J, Collignon A, <strong>Lepage P</strong>. <a href="http://www.ncbi.nlm.nih.gov/pubmed/21177896" target="_blank">Clostridium difficile colonization in early infancy is accompanied by changes in intestinal microbiota composition</a>. J Clin Microbiol. 2011 Mar;49(3):858-65. doi: 10.1128/JCM.01507-10. Epub 2010 Dec 22. PubMed PMID: 21177896; PubMed Central PMCID: PMC3067754</p>
+<p>Gloux K, Berteau O, El Oumami H, Béguet F, <strong>Leclerc M</strong>, Doré J. <a href="http://www.ncbi.nlm.nih.gov/pubmed/20615998" target="_blank">A metagenomic β-glucuronidase uncovers a core adaptive function of the human intestinal microbiome</a>. Proc Natl Acad Sci U S A. 2011 Mar 15;108 Suppl 1:4539-46. doi: 10.1073/pnas.1000066107. Epub 2010 Jun 25. PubMed PMID: 20615998; PubMed Central PMCID: PMC3063586</p>
+<p><strong>Mondot S</strong>, Kang S, Furet JP, Aguirre de Carcer D, McSweeney C, Morrison M, Marteau P, Doré J, <strong>Leclerc M</strong>. <a href="http://www.ncbi.nlm.nih.gov/pubmed/20722058" target="_blank">Highlighting new phylogenetic specificities of Crohn's disease microbiota</a>. Inflamm Bowel Dis. 2011 Jan;17(1):185-92. doi: 10.1002/ibd.21436. Epub 2010 Aug 18. PubMed PMID: 20722058</p><h3>PUBLICATIONS 2010</h3>
+<p>Kang S, Denman SE, Morrison M, Yu Z, Dore J, <strong>Leclerc M</strong>, McSweeney CS. <a href="http://www.ncbi.nlm.nih.gov/pubmed/20848492" target="_blank">Dysbiosis of fecal microbiota in Crohn's disease patients as revealed by a custom phylogenetic microarray</a>. Inflamm Bowel Dis. 2010 Dec;16(12):2034-42. doi: 10.1002/ibd.21319. PubMed PMID: 20848492</p>
+<p>Tasse L, Bercovici J, Pizzut-Serin S, Robe P, <strong>Tap J</strong>, Klopp C, Cantarel BL, Coutinho PM, Henrissat B, <strong>Leclerc M</strong>, Doré J, Monsan P, Remaud-Simeon M, Potocki-Veronese G. <a href="http://www.ncbi.nlm.nih.gov/pubmed/20841432" target="_blank">Functional metagenomics to mine the human gut microbiome for dietary fiber catabolic enzymes</a>. Genome Res. 2010 Nov;20(11):1605-12. doi: 10.1101/gr.108332.110. Epub 2010 Sep 14. PubMed PMID: 20841432; PubMed Central PMCID: PMC2963823</p>
+<p>Dusko Ehrlich S; <strong>MetaHIT consortium</strong>. <a href="http://www.ncbi.nlm.nih.gov/pubmed/20889001" target="_blank">[Metagenomics of the intestinal microbiota: potential applications]</a>. Gastroenterol Clin Biol. 2010 Sep;34 Suppl 1:S23-8. doi: 10.1016/S0399-8320(10)70017-8. French. PubMed PMID: 20889001</p>
+<p><strong>Muñoz-Tamayo R</strong>, Laroche B, Walter E, Doré J, <strong>Leclerc M</strong>. <a href="http://www.ncbi.nlm.nih.gov/pubmed/20561534" target="_blank">Mathematical modelling of carbohydrate degradation by human colonic microbiota</a>. J Theor Biol. 2010 Sep 7;266(1):189-201. doi: 10.1016/j.jtbi.2010.05.040. Epub 2010 Jun 16. PubMed PMID: 20561534</p>
+<p>Rehman A, <strong>Lepage P</strong>, Nolte A, Hellmig S, Schreiber S, Ott SJ. <a href="http://www.ncbi.nlm.nih.gov/pubmed/20522625" target="_blank">Transcriptional activity of the dominant gut mucosal microbiota in chronic inflammatory bowel disease patients</a>. J Med Microbiol. 2010 Sep;59(Pt 9):1114-22. doi: 10.1099/jmm.0.021170-0. Epub 2010 Jun 3. PubMed PMID: 20522625</p>
+<p>Donnet-Hughes A, Perez PF, Doré J, <strong>Leclerc M</strong>, Levenez F, Benyacoub J, Serrant P, Segura-Roggero I, Schiffrin EJ. <a href="http://www.ncbi.nlm.nih.gov/pubmed/20633308" target="_blank">Potential role of the intestinal microbiota of the mother in neonatal immune education</a>. Proc Nutr Soc. 2010 Aug;69(3):407-15. doi: 10.1017/S0029665110001898. PubMed PMID: 20633308</p>
+<p>Qin J, Li R, Raes J, Arumugam M, Burgdorf KS, Manichanh C, Nielsen T, Pons N, Levenez F, Yamada T, Mende DR, Li J, Xu J, Li S, Li D, Cao J, Wang B, Liang H, Zheng H, Xie Y, <strong>Tap J</strong>, <strong>Lepage P</strong>, Bertalan M, Batto JM, Hansen T, Le Paslier D, Linneberg A, Nielsen HB, Pelletier E, Renault P, Sicheritz-Ponten T, Turner K, Zhu H, Yu C, Li S, Jian M, Zhou Y, Li Y, Zhang X, Li S, Qin N, Yang H, Wang J, Brunak S, Doré J, Guarner F, Kristiansen K, Pedersen O, Parkhill J, Weissenbach J; <strong>MetaHIT Consortium</strong>, Bork P, Ehrlich SD, Wang J. <a href="http://www.ncbi.nlm.nih.gov/pubmed/20203603" target="_blank">A human gut microbial gene catalogue established by metagenomic sequencing</a>. Nature. 2010 Mar 4;464(7285):59-65. doi: 10.1038/nature08821. PubMed PMID: 20203603; PubMed Central PMCID: PMC3779803</p><h3>PUBLICATIONS 2009</h3>
+<p><strong>Tap J</strong>, <strong>Mondot S</strong>, Levenez F, Pelletier E, Caron C, Furet JP, Ugarte E, <strong>Muñoz-Tamayo R</strong>, Paslier DL, Nalin R, Dore J, <strong>Leclerc M</strong>. <a href="http://www.ncbi.nlm.nih.gov/pubmed/19601958" target="_blank">Towards the human intestinal microbiota phylogenetic core</a>. Environ Microbiol. 2009 Oct;11(10):2574-84. doi: 10.1111/j.1462-2920.2009.01982.x. Epub 2009 Jul 6. PubMed PMID: 19601958</p>
+<p>Furet JP, Firmesse O, Gourmelon M, Bridonneau C, <strong>Tap J</strong>, <strong>Mondot S</strong>, Doré J, Corthier G. <a href="http://www.ncbi.nlm.nih.gov/pubmed/19302550" target="_blank">Comparative assessment of human and farm animal faecal microbiota using real-time quantitative PCR</a>. FEMS Microbiol Ecol. 2009 Jun;68(3):351-62. doi: 10.1111/j.1574-6941.2009.00671.x. Epub 2009 Mar 19. PubMed PMID: 19302550</p><h3>PUBLICATIONS 2008</h3>
+<p>Kuehbacher T, Rehman A, <strong>Lepage P</strong>, Hellmig S, Fölsch UR, Schreiber S, Ott SJ. <a href="http://www.ncbi.nlm.nih.gov/pubmed/19018031" target="_blank">Intestinal TM7 bacterial phylogenies in active inflammatory bowel disease</a>. J Med Microbiol. 2008 Dec;57(Pt 12):1569-76. doi: 10.1099/jmm.0.47719-0. PubMed PMID: 19018031</p>
+<p>Spehlmann ME, Begun AZ, Burghardt J, <strong>Lepage P</strong>, Raedler A, Schreiber S. <a href="http://www.ncbi.nlm.nih.gov/pubmed/18253950" target="_blank">Epidemiology of inflammatory bowel disease in a German twin cohort: results of a nationwide study</a>. Inflamm Bowel Dis. 2008 Jul;14(7):968-76. doi: 10.1002/ibd.20380. PubMed PMID: 18253950</p>
+<p><strong>Lepage P</strong>, Colombet J, Marteau P, Sime-Ngando T, Doré J, <strong>Leclerc M</strong>. <a href="http://www.ncbi.nlm.nih.gov/pubmed/18268057" target="_blank">Dysbiosis in inflammatory bowel disease: a role for bacteriophages?</a> Gut. 2008 Mar;57(3):424-5. doi: 10.1136/gut.2007.134668. PubMed PMID: 18268057</p><h3>PUBLICATIONS 2007</h3>
+<p>Gérard P, Lepercq P, <strong>Leclerc M</strong>, Gavini F, Raibaud P, Juste C. <a href="http://www.ncbi.nlm.nih.gov/pubmed/17616613" target="_blank">Bacteroides sp. strain D8, the first cholesterol-reducing bacterium isolated from human feces</a>. Appl Environ Microbiol. 2007 Sep;73(18):5742-9. Epub 2007 Jul 6. PubMed PMID: 17616613; PubMed Central PMCID: PMC2074900</p>
+<p>Chassard C, Goumy V, <strong>Leclerc M</strong>, Del'homme C, Bernalier-Donadille A. <a href="http://www.ncbi.nlm.nih.gov/pubmed/17391327" target="_blank">Characterization of the xylan-degrading microbial community from human faeces</a>. FEMS Microbiol Ecol. 2007 Jul;61(1):121-31. Epub 2007 Mar 28. PubMed PMID: 17391327</p>
+<p>Gloux K, <strong>Leclerc M</strong>, Iliozer H, L'Haridon R, Manichanh C, Corthier G, Nalin R, Blottière HM, Doré J. <a href="http://www.ncbi.nlm.nih.gov/pubmed/17400773" target="_blank">Development of high-throughput phenotyping of metagenomic clones from the human gut microbiome for modulation of eukaryotic cell growth</a>. Appl Environ Microbiol. 2007 Jun;73(11):3734-7. Epub 2007 Mar 30. PubMed PMID: 17400773; PubMed Central PMCID: PMC1932692</p>
+<p>Vasquez N, Mangin I, <strong>Lepage P</strong>, Seksik P, Duong JP, Blum S, Schiffrin E, Suau A, Allez M, Vernier G, Tréton X, Doré J, Marteau P, Pochart P. <a href="http://www.ncbi.nlm.nih.gov/pubmed/17206669" target="_blank">Patchy distribution of mucosal lesions in ileal Crohn's disease is not linked to differences in the dominant mucosa-associated bacteria: a study using fluorescence in situ hybridization and temporal temperature gradient gel electrophoresis</a>. Inflamm Bowel Dis. 2007 Jun;13(6):684-92. PubMed PMID: 17206669</p>
+<p>Perez PF, Doré J, <strong>Leclerc M</strong>, Levenez F, Benyacoub J, Serrant P, Segura-Roggero I, Schiffrin EJ, Donnet-Hughes A. <a href="http://www.ncbi.nlm.nih.gov/pubmed/17332189" target="_blank">Bacterial imprinting of the neonatal immune system: lessons from maternal cells?</a> Pediatrics. 2007 Mar;119(3):e724-32. PubMed PMID: 17332189</p>
+<p>Sokol H, <strong>Lepage P</strong>, Seksik P, Doré J, Marteau P. <a href="http://www.ncbi.nlm.nih.gov/pubmed/17172591" target="_blank">Molecular comparison of dominant microbiota associated with injured versus healthy mucosa in ulcerative colitis</a>. Gut. 2007 Jan;56(1):152-4. PubMed PMID: 17172591; PubMed Central PMCID: PMC1856643</p><h3>PUBLICATIONS 2006</h3>
+<p>Seksik P, Sokol H, <strong>Lepage P</strong>, Vasquez N, Manichanh C, Mangin I, Pochart P, Doré J, Marteau P. <a href="http://www.ncbi.nlm.nih.gov/pubmed/16961738" target="_blank">Review article: the role of bacteria in onset and perpetuation of inflammatory bowel disease</a>. Aliment Pharmacol Ther. 2006 Oct;24 Suppl 3:11-8. Review. PubMed PMID: 16961738</p>
+<p>Sokol H, <strong>Lepage P</strong>, Seksik P, Doré J, Marteau P. <a href="http://www.ncbi.nlm.nih.gov/pubmed/16954244" target="_blank">Temperature gradient gel electrophoresis of fecal 16S rRNA reveals active Escherichia coli in the microbiota of patients with ulcerative colitis</a>. J Clin Microbiol. 2006 Sep;44(9):3172-7. PubMed PMID: 16954244; PubMed Central PMCID: PMC1594675</p>
+<p>Sokol H, Seksik P, Rigottier-Gois L, Lay C, <strong>Lepage P</strong>, Podglajen I, Marteau P, Doré J. <a href="http://www.ncbi.nlm.nih.gov/pubmed/16432374" target="_blank">Specificities of the fecal microbiota in inflammatory bowel disease</a>. Inflamm Bowel Dis. 2006 Feb;12(2):106-11. PubMed PMID: 16432374</p><h3>PUBLICATIONS 2005</h3>
+<p>Clavel T, Fallani M, <strong>Lepage P</strong>, Levenez F, Mathey J, Rochet V, Sérézat M, Sutren M, Henderson G, Bennetau-Pelissero C, Tondu F, Blaut M, Doré J, Coxam V. <a href="http://www.ncbi.nlm.nih.gov/pubmed/16317121" target="_blank">Isoflavones and functional foods alter the dominant intestinal microbiota in postmenopausal women</a>. J Nutr. 2005 Dec;135(12):2786-92. PubMed PMID: 16317121</p>
+<p>De La Cochetière MF, Durand T, <strong>Lepage P</strong>, Bourreille A, Galmiche JP, Doré J. <a href="http://www.ncbi.nlm.nih.gov/pubmed/16272491" target="_blank">Resilience of the dominant human fecal microbiota upon short-course antibiotic challenge</a>. J Clin Microbiol. 2005 Nov;43(11):5588-92. PubMed PMID: 16272491; PubMed Central PMCID: PMC1287787</p>
+<p>Seksik P, <strong>Lepage</strong> P, de la Cochetière MF, Bourreille A, Sutren M, Galmiche JP, Doré J, Marteau P. <a href="http://www.ncbi.nlm.nih.gov/pubmed/16145122" target="_blank">Search for localized dysbiosis in Crohn's disease ulcerations by temporal temperature gradient gel electrophoresis of 16S rRNA</a>. J Clin Microbiol. 2005 Sep;43(9):4654-8. PubMed PMID: 16145122; PubMed Central PMCID: PMC1234104</p>
+<p><strong>Lepage P</strong>, Seksik P, Sutren M, de la Cochetière MF, Jian R, Marteau P, Doré J. <a href="http://www.ncbi.nlm.nih.gov/pubmed/15867587" target="_blank">Biodiversity of the mucosa-associated microbiota is stable along the distal digestive tract in healthy individuals and patients with IBD</a>. Inflamm Bowel Dis. 2005 May;11(5):473-80. PubMed PMID: 15867587</p><h3>PUBLICATIONS 2004</h3>
+<p>Marteau P, Seksik P, <strong>Lepage P</strong>, Doré J. <a href="http://www.ncbi.nlm.nih.gov/pubmed/15544550" target="_blank">Cellular and physiological effects of probiotics and prebiotics</a>. Mini Rev Med Chem. 2004 Oct;4(8):889-96. Review. PubMed PMID: 15544550</p>
+<p>Marteau P, <strong>Lepage P</strong>, Mangin I, Suau A, Doré J, Pochart P, Seksik P. <a href="http://www.ncbi.nlm.nih.gov/pubmed/15352889" target="_blank">Review article: gut flora and inflammatory bowel disease</a>. Aliment Pharmacol Ther. 2004 Oct;20 Suppl 4:18-23. Review. PubMed PMID: 15352889</p>
+<p><strong>Leclerc M</strong>, Delgènes JP, Godon JJ. <a href="http://www.ncbi.nlm.nih.gov/pubmed/15250883" target="_blank">Diversity of the archaeal community in 44 anaerobic digesters as determined by single strand conformation polymorphism analysis and 16S rDNA sequencing</a>. Environ Microbiol. 2004 Aug;6(8):809-19. PubMed PMID: 15250883</p><h3>PUBLICATIONS ANTERIEURES</h3>
+<p>Béjà O, Spudich EN, Spudich JL, <strong>Leclerc M</strong>, DeLong EF. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11459054" target="_blank">Proteorhodopsin phototrophy in the ocean</a>. Nature. 2001 Jun 14;411(6839):786-9. PubMed PMID: 11459054</p>
+<p>Delbès C, <strong>Leclerc M</strong>, Zumstein E, Godon JJ, Moletta R. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11379112" target="_blank">A molecular method to study population and activity dynamics in anaerobic digestors</a>. Water Sci Technol. 2001;43(1):51-7. PubMed PMID: 11379112</p>
+<p><strong>Leclerc M</strong>, Delbes C, Moletta R, Godon J. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11137601" target="_blank">Single strand conformation polymorphism monitoring of 16S rDNA Archaea during start-up of an anaerobic digester</a>. FEMS Microbiol Ecol. 2001 Jan;34(3):213-220. PubMed PMID: 11137601</p>
+<p><strong>Leclerc M</strong>, Elfoul-Bensaid L, Bernalier A. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9688815" target="_blank">Effect of yeast extract on growth and metabolism of H2-utilizing acetogenic bacteria from the human colon</a>. Curr Microbiol. 1998 Sep;37(3):166-71. PubMed PMID: 9688815</p>
+<p><strong>Leclerc M</strong>, Bernalier A, Donadille G, Lelait M. <a href="http://www.ncbi.nlm.nih.gov/pubmed/16887606" target="_blank">H2/CO2 metabolism in acetogenic bacteria isolated from the human colon</a>. Anaerobe. 1997 Oct;3(5):307-15. PubMed PMID: 16887606</p>
+<p><strong>Leclerc M</strong>, Bernalier A, Lelait M, Grivet JP. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9011041" target="_blank">13C-NMR study of glucose and pyruvate catabolism in four acetogenic species isolated from the human colon</a>. FEMS Microbiol Lett. 1997 Jan 15;146(2):199-204. PubMed PMID: 9011041</p>
+<p>Bernalier A, Willems A, <strong>Leclerc M</strong>, Rochet V, Collins MD. <a href="http://www.ncbi.nlm.nih.gov/pubmed/8703194" target="_blank">Ruminococcus hydrogenotrophicus sp. nov., a new H2/CO2-utilizing acetogenic bacterium isolated from human feces</a>. Arch Microbiol. 1996 Sep;166(3):176-83. PubMed PMID: 8703194</p>
+<p>Bernalier A, Rochet V, <strong>Leclerc M</strong>, Doré J, Pochart P. <a href="http://www.ncbi.nlm.nih.gov/pubmed/8662179" target="_blank">Diversity of H2/CO2-utilizing acetogenic bacteria from feces of non-methane-producing humans</a>. Curr Microbiol. 1996 Aug;33(2):94-9. PubMed PMID: 8662179</p></div>
