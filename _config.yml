@@ -8,7 +8,7 @@ description: >
 baseurl: ""
 url: ""
 permalink: pretty
-favicon: favicon.png
+favicon: favicon.ico
 # gh_sponsor: tapj
 #hide_share_buttons: true
 theme_color: '#ed6e6c'
