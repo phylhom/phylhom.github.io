@@ -1,17 +1,17 @@
 # Site Settings
 lang: en
-title: Food Microbial Ecology Lab
-tagline: FME Lab
-email: your-email@domain.com
+title: Phylogeny and Physiology of the Human Microbiome
+tagline: PhylHom
+email: karine.le-roux@inrae.fr
 description: >
-  Food Microbial Ecology Lab INRAE Micalis website
+  Phylogeny and Physiology of the Human Microbiome INRAE Micalis website
 baseurl: ""
-url: "https://fme.micalis.fr"
+url: "https://phylhom.github.io"
 permalink: pretty
 favicon: favicon.png
 # gh_sponsor: tapj
 #hide_share_buttons: true
-theme_color: '#00a3a6'
+theme_color: '#ed6e6c'
 fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 
@@ -23,7 +23,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: 
+  shortname:
 
 
 plugins:
@@ -34,7 +34,7 @@ plugins:
   - kramdown-parser-gfm
   - jekyll-redirect-from
 
-exclude: 
+exclude:
   - Gemfile
   - clean-theme.gemspec
   - Gemfile.lock
@@ -75,17 +75,17 @@ highlighter: rouge
 footer_menu: example_footer_menu
 
 collections:
-  team: 
+  team:
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
-  projects: 
+  projects:
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
-  products: 
+  products:
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
