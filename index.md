@@ -17,6 +17,9 @@ The team's work aims to understand how the human gut microbiota represents a lev
 
 The PhylHom team is attached to the MICA and AlimH departments and this theme is part of MICA's thematic area 3 and AlimH's CT2.
 
+![](/img/PhylHom schema_anglais.jpg)
+
+
 We analyze the functions of the gut microbiota by "omic" methods and anaerobic culture in particular nutritional and clinical contexts.
 
 Our specificity lies in the fact that, thanks to the control of these methods and a network of collaborators, we can integrate our data with the nutritional and clinical data. It is then possible for us to work on the formalism of our hypotheses and thus to realize bioinformatic or mathematical modeling.
