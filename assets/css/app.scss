@@ -3,7 +3,9 @@
 
 
 
-$primary: #9ed6e3;
+//$primary: #9ed6e3;
+$primary: #7eabb5;
+
 
 
 // Import Main CSS file from theme
@@ -12,5 +14,5 @@ $primary: #9ed6e3;
 
 
 .hero.is-primary.is-bold {
-    background-image: linear-gradient(141deg, #9ed6e3  0%, #b1dee8 71%, #000000 100%);
+    background-image: linear-gradient(141deg, #7eabb5  0%, #b1dee8 71%, #9ed6e3 100%);
 }

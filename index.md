@@ -1,6 +1,6 @@
 ---
 title: Phylogeny and Physiology of the Human Microbiome
-subtitle: INRAE | Micalis institute | Université Paris Saclay
+subtitle: Lepage lab | INRAE | Micalis institute | Université Paris Saclay
 layout: page
 callouts: home_callouts
 hero_image: /img/FME_Banner_website_V3.png

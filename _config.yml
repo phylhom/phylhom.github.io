@@ -1,7 +1,7 @@
 # Site Settings
 lang: en
-title: Phylogeny and Physiology of the Human Microbiome
-tagline: PhylHom Lab
+title: PhylHom
+tagline: Phylogeny and Physiology of the Human Microbiome
 email: your-email@domain.com
 description: >
   Phylogeny and Physiology of the Human Microbiome INRAE Micalis website
@@ -11,7 +11,7 @@ permalink: pretty
 favicon: favicon.ico
 # gh_sponsor: tapj
 #hide_share_buttons: true
-theme_color: '#9ed6e3'
+theme_color: '#7eabb5'
 fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 
