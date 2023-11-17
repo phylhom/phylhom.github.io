@@ -4,7 +4,7 @@ subtitle: Research Director Team leader
 description: member card
 #product_code: ABC124
 layout: member
-image: http://www.micalis.fr/var/internet6_national_micalis/storage/images/media/images/screen-shot-2017-08-21-at-10.56.14-am/73649-2-fre-FR/Screen-Shot-2017-08-21-at-10.56.14-AM_medium.jpg
+image: /img/Patricia2.jpg
 rank: 1
 features:
     - label: patricia.lepage[at]inrae.fr

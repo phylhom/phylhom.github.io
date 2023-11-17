@@ -4,7 +4,7 @@ subtitle: PhD student
 description: member card
 #product_code: ABC124
 layout: member
-image: https://media.licdn.com/dms/image/C4D03AQGJo0f63CPchw/profile-displayphoto-shrink_200_200/0/1612362199791?e=1704931200&v=beta&t=jGvxJwSlXD5kflCZgya68DLrNUlos7MNhd3OVOEB_dw
+image: /img/Hiba.jpg
 rank: 4
 features:
     - label: hiba.yazbek[at]inrae.fr

@@ -4,7 +4,7 @@ subtitle: Research technician
 description: member card
 #product_code: ABC124
 layout: member
-image: http://www.micalis.fr/var/internet6_national_micalis/storage/images/poles-et-equipes/pole-ecosystemes-alimentaires-et-digestifs/phylogenie-et-physiologie-du-microbiome-humain-patricia-lepage/membres-de-l-equipe/karine-le-roux/56035-30-eng-GB/Karine-Le-Roux_inra_image.jpg
+image: /img/Karine2.jpg
 rank: 2
 features:
     - label: karine.le-roux[at]inrae.fr

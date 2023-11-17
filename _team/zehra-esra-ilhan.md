@@ -4,7 +4,7 @@ subtitle: Research Scientist
 description: member card
 #product_code: ABC124
 layout: member
-image: https://media.licdn.com/dms/image/C5603AQE8kIBOr9M9dg/profile-displayphoto-shrink_200_200/0/1575990460606?e=1704931200&v=beta&t=6F-pRfamsyLlHfad-LglhsgklWGFQMoqdbBujIMG6UI
+image: /img/Esra2.jpg
 rank: 3
 features:
     - label: zehra-esra.ilhan[at]inrae.fr

@@ -4,7 +4,7 @@ subtitle: Post-doctoral researcher
 description: member card
 #product_code: ABC124
 layout: member
-image: http://www.micalis.fr/var/internet6_national_micalis/storage/images/poles-et-equipes/pole-ecosystemes-alimentaires-et-digestifs/phylogenie-et-physiologie-du-microbiome-humain-patricia-lepage/membres-de-l-equipe/constance-patin/91692-58-eng-GB/Constance-Patin_inra_image.jpg
+image: /img/Constance2.jpg
 rank: 5
 features:
     - label: constance.patin[at]inrae.fr
