@@ -17,7 +17,7 @@ hero_height: is-small
           <div class="card-content">
             <div class="content">
               <h2 class="title is-4">Email</h2>
-              <p>patricia.lepage[at]jouy.inra.fr</p>
+              <p>patricia.lepage[at]inrae.fr</p>
               <h2 class="title is-4">Address</h2>
               <p>Institut Micalis, Domaine de Vilvert, 78350 Jouy-en-Josas, France</p>
              </div>
