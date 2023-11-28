@@ -5,7 +5,7 @@ subtitle: ANR 2019
 hero_link: https://anr.fr/Projet-ANR-19-CE17-0033	
 hero_link_text: Website	
 layout: project	
-image: /img/PhylHom schema_anglais.jpg	
+image: 	
 #start:	
 #end: 	
 category: Microbiome and xenobiotic metabolism / drug response	
