@@ -20,6 +20,7 @@ features:
 #hero_darken: true	
 ---	
 
+
 TrilliAED. The gut microbiome associated with anti-epileptic drug response in children with epilepsy [funded by ANR 2019]	
 	
 Antiepileptic drug resistance is a major burden for patients and society, with around 25% of the world's 70 million epilepsy patients being drug-resistant. 	
@@ -28,6 +29,7 @@ https://anr.fr/Projet-ANR-19-CE17-0033
 	
 Coordination: Patricia LEPAGE / PhylHom - Micalis	
 	
-Partners: 	APHP Robert Debr? (S. Auvin)
-                     INRAE Institut Micalis (L. Naudon and N. Lapaque)	
-                     CEA SPI SmartMS Platform (A. Pruvost/ F. Castelli)	
+Partners: 	
+  - APHP Robert Debr? (S. Auvin)
+  - INRAE Institut Micalis (L. Naudon and N. Lapaque)	
+  - CEA SPI SmartMS Platform (A. Pruvost/ F. Castelli)	

@@ -1,37 +1,27 @@
 ---
-title: ClosNEC
+title: ClosNEC. Clostridium and pathophysiology of neonatal ulcerative enterocolitis clinical and molecular approaches
 subtitle: ANR PRTS 2013
-#product_code: ABC123
-#hero_link: https://www.domino-euproject.eu/
-#hero_link_text: Website
+#product_code: 
+hero_link: http://www.agence-nationale-recherche.fr/projet-anr/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-PRTS-0018
+hero_link_text: Website
 layout: project
-image: /img/PhylHom schema_anglais.jpg
-start: 2013
-#end: ongoing
-category: National
+image: 
+#start:
+#end: 
+category: PREVIOUS PROJECTS
 features:
-    #- label: stephane.chaillou[at]inrae.fr
-    #  icon: fa-regular fa-envelope
-    #  link: mailto:stephane.chaillou@inrae.fr
-    #- label: +33 1 34 65 21 06
-    #  icon: fa-regular fa-phone
+    #- label: 
+    #  icon: 
+    #  link: 
+    #- label: 
+    #  icon: 
 #rating: 3
-#hero_image: '/img/fermented_foods.png'
+#hero_image: 
 #hero_darken: true
 ---
 
 
+Ulceronecrotizing enterocolitis (ECUN) is a digestive pathology affecting premature infants with a high morbi-mortality. Although its pathophysiology remains poorly understood, bacterial intestinal colonization of the premature infant is a risk factor. Bacterial involvement in ECUN is based on the fermentation of undigested lactose in the small intestine by colonic bacteria, leading to hyperproduction of metabolites involved in the genesis of lesions. The clinical signs of ECUN are consistent with a clostridial etiology. In animal models of ECUN, these bacteria, frequently isolated from samples of ECUN cases, cause digestive lesions linked to the hyperproduction of butyric acid, a product of lactose fermentation.
+Our aim is to demonstrate the biological involvement of clostridia in the etiology of ECUN by comparing the microbiota of premature infants who have or have not developed ECUN, and to search for biomarkers of pathogenicity. This project will provide new clinical and mechanistic data with a view to improving the management and prevention of this dramatic digestive disease of the very premature.
 
-
-
-- ClosNEC "Clostridium and pathophysiology of ulcerative necrotizing enterocolitis of the newborn baby: clinical and molecular approaches"
-
-Partners: J. Aires (Univ Paris V, Coord.), JC. Rozé (CHU de Nantes), S. Rabot (INRA-ANAXEM-Micalis)
-
-Funding: ANR PRTS 2013
-
-[http://www.agence-nationale-recherche.fr/projet-anr/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-PRTS-0018)](http://www.agence-nationale-recherche.fr/projet-anr/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-PRTS-0018)
-
-Ulceronecrotizing enterocolitis (NEC) is a digestive pathology affecting premature babies with high morbidity and mortality. If its pathophysiology remains poorly known, bacterial intestinal colonization of prematurity is a risk factor. The bacterial involvement in NEC is based on the fermentation of undigested lactose in the small intestine by colonic bacteria leading to hyper-production of metabolites involved in the genesis of lesions. The clinical signs of NEC are consistent with a Clostridian etiology. These bacteria, often isolated from samples from NEC cases, cause in NEC animal model digestive lesions related to hyperproduction of butyric acid, lactose fermentation product.
-
-Our goal is to demonstrate the biological involvement of clostridia in the etiology of NEC by comparing the microbiota of premature infants with or without NEC and to search for biomarkers of pathogenicity. This project will bring new clinical and mechanistic data in order to improve the care and prevention of this dramatic digestive disease of the premature baby.
+http://www.agence-nationale-recherche.fr/projet-anr/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-PRTS-0018

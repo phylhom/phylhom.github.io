@@ -20,7 +20,7 @@ features:
 #hero_darken: true	
 ---	
 
-	
+
 GUMME. Effects of endocrine disruptors on children's gut microbiota: the gut-brain communication axis [funded by ANR 2017]	
 	
 The overall aim of the GUMME project is to contribute to understanding the links between early exposure to EPs (PFCs, phenols, phthalates), the gut microbiota and neurodevelopment up to age 3.	
