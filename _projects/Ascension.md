@@ -1,11 +1,11 @@
 ---
-title: ASCENSION. Randomized study comparing the addition of the Crohn's Disease Exclusion Diet (CDED) on top of standard therapy versus standard therapy alone in pediatric patients with unstable Crohn's disease
+title: ASCENSION
 subtitle: PHRC 2020
 #product_code: 
 #hero_link: 
 #hero_link_text: 
 layout: project
-image: 
+image: /img/ASCENSION.png
 #start:
 #end: 
 category: Microbiome and xenobiotic metabolism / drug response

@@ -1,11 +1,11 @@
 ---	
-title: PARADISE. Randomized therapeutic trial in active Crohn's disease in children and adults Comparison of an exclusion diet with corticosteroids 	
+title: PARADISE
 subtitle: PHRC International 2020	
 #product_code: 	
 #hero_link: 	
 #hero_link_text:	
 layout: project	
-image: 	
+image: 	/img/PARADISE.png
 #start:	
 #end: 	
 category: Microbiome and xenobiotic metabolism / drug response	

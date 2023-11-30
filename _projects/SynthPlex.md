@@ -1,5 +1,5 @@
 ---
-title: SynthPlex. From Simplex to Complex Plant-based Metabolite-centered Design of Synthetic Microbial Ecosystems for Fermented Foods in Interactions with Gut Microbiota 
+title: SynthPlex 
 subtitle: GDFF 2023
 #product_code: 
 hero_link: https://fme.micalis.fr/projects/synthplex/
@@ -20,3 +20,4 @@ features:
 #hero_darken: true
 ---
 
+SynthPlex - From Simplex to Complex: Plant-based Metabolite-centered Design of Synthetic Microbial Ecosystems for Fermented Foods in Interactions with Gut Microbiota

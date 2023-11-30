@@ -1,11 +1,11 @@
 ---
-title: MUCIGAN. Role of mucinophilic bacteria and CARD9 in IgA Nephropathy
+title: MUCIGAN
 subtitle: ANR 2018
 #product_code: 
 hero_link: https://anr.fr/Projet-ANR-18-CE14-0030
 hero_link_text: Website
 layout: project
-image: 
+image: /img/MUCIGAN.png
 #start:
 #end: 
 category: Microbiome, human health and disease

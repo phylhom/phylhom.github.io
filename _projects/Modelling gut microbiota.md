@@ -5,7 +5,7 @@ subtitle: INRA MEM metaprogram
 #hero_link: 
 #hero_link_text: 
 layout: project
-image: 
+image: /img/modelinggutmicrobiota.png
 #start:
 #end: 
 category: PREVIOUS PROJECTS

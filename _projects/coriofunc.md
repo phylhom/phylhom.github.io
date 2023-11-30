@@ -1,11 +1,11 @@
 ---
-title: CorioFunc. Metabolic functions and adaptation of Coriobacteriaceae, a dominant microbial family of the gut, in the context of lipid metabolism 
+title: CorioFunc
 subtitle: ANR Blanc International 2014
 #product_code: 
 hero_link: http://www.agence-nationale-recherche.fr/projet-anr/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-ISV3-0008
 hero_link_text: Website
 layout: project
-image: 
+image: /img/CORIOFUNC.png
 #start:
 #end: 
 category: PREVIOUS PROJECTS

@@ -1,11 +1,11 @@
 ---
-title: PICASSO.  Prospective randomized trial evaluating the tolerability and efficacy of fecal transplantation in melanoma patients treated with antiCTLA-4 and antiPD1. 
+title: PICASSO 
 subtitle: PHRC 2019
 #product_code: 
 #hero_link: 
 #hero_link_text: 
 layout: project
-image: 
+image: /img/PICASSO.png
 #start:
 #end: 
 category: Microbiome and xenobiotic metabolism / drug response

@@ -1,11 +1,11 @@
 ---	
-title: TrilliAED. The gut microbiome associated with anti-epileptic drug response in children with epilepsy	
+title: TrilliAED
 subtitle: ANR 2019	
 #product_code: ABC123	
 hero_link: https://anr.fr/Projet-ANR-19-CE17-0033	
 hero_link_text: Website	
 layout: project	
-image: 	
+image: 	/img/TrilliAED.png
 #start:	
 #end: 	
 category: Microbiome and xenobiotic metabolism / drug response	

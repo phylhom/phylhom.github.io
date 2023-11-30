@@ -1,11 +1,11 @@
 ---	
-title: GUMME. Effects of endocrine disruptors on children's gut microbiota the gut-brain communication axis	
+title: GUMME
 subtitle: ANR 2017	
 #product_code: 	
 hero_link: https://anr.fr/Project-ANR-17-CE34-0013	
 hero_link_text: Website	
 layout: project	
-image: 	
+image: 	/img/GUMME.png
 #start:	
 #end: 	
 category: Microbiome and xenobiotic metabolism / drug response	

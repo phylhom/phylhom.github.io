@@ -1,11 +1,11 @@
 ---
-title: RESTOGUT. Restoring autophagy to eliminate the deleterious effects of the Western diet and colonization by pathogenic bacteria on intestinal homeostasis 
+title: RESTOGUT
 subtitle: ANR 2021
 #product_code: 
 #hero_link: 
 #hero_link_text: 
 layout: project
-image: 
+image: /img/RESTOGUT.png
 #start:
 #end: 
 category: Microbiome, human health and disease

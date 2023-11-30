@@ -1,11 +1,11 @@
 ---	
-title: EmergingMYCO. Emerging mycotoxins a new risk for humans and animals? 	
+title: EmergingMYCO	
 subtitle: ANR 2018	
 #product_code: 	
 hero_link: https://anr.fr/Projet-ANR-18-CE34-0014	
 hero_link_text: Website	
 layout: project	
-image: 	
+image: 	/img/EmergingMicro3.png
 #start:	
 #end: 	
 category: Microbiome and xenobiotic metabolism / drug response	

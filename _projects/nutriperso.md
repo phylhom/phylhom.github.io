@@ -1,5 +1,5 @@
 ---
-title: Nutriperso. Tailoring food and dietary recommendations to prevent chronic diseases health, social and economic issue 
+title: Nutriperso
 subtitle: Lidex Paris Saclay 2017
 #product_code: 
 #hero_link: 

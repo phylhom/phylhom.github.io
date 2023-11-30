@@ -1,11 +1,11 @@
 ---
-title: NeoMAIT. MAIT cells and microbiota colonization in preterms 
+title: NeoMAIT
 subtitle: ANR PRTS 2014
 #product_code: 
 hero_link: http://www.agence-nationale-recherche.fr/?Project=ANR-14-CE15-0005
 hero_link_text: Website
 layout: project
-image: 
+image: /img/NEOMAIT.png
 #start:
 #end: 
 category: PREVIOUS PROJECTS
